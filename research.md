@@ -1,0 +1,1 @@
+How can we understand and predict the complex dynamics of Earth’s atmosphere, ocean, land and ice? Physics simulators handle complexity well, but struggle with data assimilation, parameter tuning and uncertainty quantification. Machine learning thrives on large datasets, but ignores physics and generalizes poorly to new scenarios.

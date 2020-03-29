@@ -1,4 +1,20 @@
-## Welcome to GitHub Pages
+---
+layout: default
+landing: true
+#header: 
+#  image_fullwidth: header_panorama.jpg
+#  backstretch: 1000
+# Widgets are big blocky links to other pages. They are shown below the text.
+"widget-1": 
+  title: Research
+  url: research
+#  text: We share code for many of our publications.
+#  image: subheader_github.jpg
+published: true
+---
+
+
+## Research group
 
 You can use the [editor on GitHub](https://github.com/m-dml/m-dml.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
