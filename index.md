@@ -13,7 +13,7 @@ Our ultimate aim is to understand and predict the complex dynamics of Earth’s 
 ### Physical Models vs. Data Models 
 On the one hand, numerical simulators based on known physics simulators handle complex systems well, but struggle with data assimilation, parameter tuning and uncertainty quantification.
 
-<img src="L96.png" width="200" height="200" /> Simulation of from the [Lorenz 96](http://eaps4.mit.edu/research/Lorenz/Predicability_a_Problem_2006.pdf) model. This
+<img src="L96.png" width="400" height="200" /> Simulation of from the [Lorenz 96](http://eaps4.mit.edu/research/Lorenz/Predicability_a_Problem_2006.pdf) model. This model is defined as a system of differential equations, and exhibits many of the challenges appearing in more realistic models of climate and weather phenomena, such as coupling of fast and slow processes. 
 
 Conversely, machine learning techniques can absorb and process large datasets, but ignore physics and generalizes poorly to new scenarios.
 
