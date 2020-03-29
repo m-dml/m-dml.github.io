@@ -13,7 +13,7 @@ Our ultimate aim is to understand and predict the complex dynamics of Earth’s 
 ### Physical Models vs. Data Models 
 On the one hand, numerical simulators based on known physics simulators handle complex systems well, but struggle with data assimilation, parameter tuning and uncertainty quantification.
 
-<img align="left" src="L96.png" width="400" height="200"/> <small><span style="color:gray">Our ultimate aim is to understand and predict the complex dynamics of Earth’s atmosphere, ocean, land and ice. Our ultimate aim is to understand and predict the complex dynamics of Earth’s atmosphere, ocean, land and ice.</span></small>
+<img align="left" src="L96.png" width="400" height="200"/> <sub><sup>><span style="color:gray">Our ultimate aim is to understand and predict the complex dynamics of Earth’s atmosphere, ocean, land and ice. Our ultimate aim is to understand and predict the complex dynamics of Earth’s atmosphere, ocean, land and ice.</span></sup></sub>
 
 Conversely, machine learning techniques can absorb and process large datasets, but typically ignore physics and generalize poorly to new scenarios.
 
