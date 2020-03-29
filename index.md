@@ -1,52 +1,24 @@
 ---
 layout: default
 landing: true
-#header: 
-#  image_fullwidth: header_panorama.jpg
-#  backstretch: 1000
-# Widgets are big blocky links to other pages. They are shown below the text.
-"widget-1": 
-  title: Research
-  url: research
-#  text: We share code for many of our publications.
-#  image: subheader_github.jpg
 published: true
 ---
 
+## About us
+We are are a new research group at the [Helmholtz Centre Geesthacht](https://www.hzg.de/index.php.en) near Hamburg, within the [Institute of Coastal Research](https://www.hzg.de/institutes_platforms/coastal_research/index.php.en). Our group is part of the [Helmholtz AI](https://www.helmholtz.ai/) initiative.
 
-## Research group
-We are are a research group at [Helmholtz Centre Geesthacht](https://hzg.de).
+## Our research
+Our ultimate aim is to understand and predict the complex dynamics of Earth’s atmosphere, ocean, land and ice.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Physical Models vs. Data Models 
+On the one hand, numerical simulators based on known physics simulators handle complex systems well, but struggle with data assimilation, parameter tuning and uncertainty quantification.
 
-### Markdown
+Conversely, machine learning techniques can absorb and process large datasets, but ignores physics and generalizes poorly to new scenarios.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Machine Learning Seminar
+We organize a weekly seminar on Machine Learning. We discuss papers on ML, often (but not always) with a connection to Earth science, climate and weather. The seminar also allows members of the Hamburg machine learning community to connect and present their ongoing work. We meet in person at HZG, but we also welcome remote online participants and stream the meeting live on our [YouTube channel](https://www.youtube.com/channel/UCyXAYFO3h-tBIEbPEqMnNKw). 
 
-```markdown
-Syntax highlighted code block
+## Online code
+We share our work on [github](https://github.com/m-dml), and are committed to software sharing as a principle of open and reproducible science.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/m-dml/m-dml.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Contact us
