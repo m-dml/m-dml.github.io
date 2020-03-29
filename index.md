@@ -17,11 +17,10 @@ On the one hand, numerical simulators based on known physics simulators handle c
 
 Conversely, machine learning techniques can absorb and process large datasets, but typically ignore physics and generalize poorly to new scenarios.
 
-<img align="left" src="Unet.png" width="390" height="210" style="margin: 0px 20px 0px 0px"/> <span style="color:gray"><sub><sup>Example of a Unet architecture used for weather prediction.</sup></sub></span>
+<img align="right" src="Unet.png" width="400" height="120" style="margin: 0px 20px 0px 0px"/> <span style="color:gray"><sub><sup>Example of a Unet architecture used for weather prediction.</sup></sub></span>
 
-
-
-
+<br/><br/>
+<br/><br/>
 
 We develop hybrid methods that combine deep learning with physical models in a Bayesian framework. We investigate the Earth system at the boundary between physics- and data-driven approaches, to gain insights unavailable to either approach alone.
 
