@@ -13,10 +13,18 @@ Our ultimate aim is to understand and predict the complex dynamics of Earth’s 
 ### Physical Models vs. Data Models 
 On the one hand, numerical simulators based on known physics simulators handle complex systems well, but struggle with data assimilation, parameter tuning and uncertainty quantification.
 
-<img align="left" src="L96.png" width="400" height="200"/> Our ultimate aim is to understand and predict the complex dynamics of Earth’s atmosphere, ocean, land and ice. Our ultimate aim is to understand and predict the complex dynamics of Earth’s atmosphere, ocean, land and ice.
-
+<img align="left" src="L96.png" width="400" height="200"/> <span style="font-size:4em;">Our ultimate aim is to understand and predict the complex dynamics of Earth’s atmosphere, ocean, land and ice. Our ultimate aim is to understand and predict the complex dynamics of Earth’s atmosphere, ocean, land and ice.</span>
 
 Conversely, machine learning techniques can absorb and process large datasets, but typically ignore physics and generalize poorly to new scenarios.
+
+We develop hybrid methods that combine deep learning with physical models in a Bayesian framework. We investigate the Earth system at the boundary between physics- and data-driven approaches, to gain insights unavailable to either approach alone.
+
+Examples of this hybrid approach include:
+* Neural networks that solve differential equations.
+* Algorithms trained to infer model parameters using simulations.
+* Data models that respect physical laws.
+* Flexible function approximators to fill gaps in our physical knowledge.
+* Flows, VAEs and GANs that model uncertainty in temperature, rainfall, fire and flooding.
 
 ## Machine Learning Seminar
 We organize a weekly seminar on Machine Learning. We discuss papers on ML, often (but not always) with a connection to Earth science, climate and weather.
