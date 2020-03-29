@@ -13,9 +13,15 @@ Our ultimate aim is to understand and predict the complex dynamics of Earth’s 
 ### Physical Models vs. Data Models 
 On the one hand, numerical simulators based on known physics simulators handle complex systems well, but struggle with data assimilation, parameter tuning and uncertainty quantification.
 
-<img align="left" src="L96.png" width="400" height="200" style="margin: 0px 20px 0px 0px"/> <span style="color:gray"><sub><sup>Simulation from the [Lorenz 96](http://eaps4.mit.edu/research/Lorenz/Predicability_a_Problem_2006.pdf) model. Defined as a system of differential equations, it exhibits many of the challenges appearing in more realistic models of climate and weather phenomena, such as chaotic dynamics and coupling of fast and slow processes.</sup></sub></span>
+<img align="left" src="L96.png" width="390" height="210" style="margin: 0px 20px 0px 0px"/> <span style="color:gray"><sub><sup>Simulation from the [Lorenz 96](http://eaps4.mit.edu/research/Lorenz/Predicability_a_Problem_2006.pdf) model. Defined as a system of differential equations, it exhibits many of the challenges appearing in more realistic models of climate and weather phenomena, such as chaotic dynamics and coupling of fast and slow processes.</sup></sub></span>
 
 Conversely, machine learning techniques can absorb and process large datasets, but typically ignore physics and generalize poorly to new scenarios.
+
+<img align="left" src="Unet.png" width="390" height="210" style="margin: 0px 20px 0px 0px"/> <span style="color:gray"><sub><sup>Example of a Unet architecture used for weather prediction.</sup></sub></span>
+
+
+
+
 
 We develop hybrid methods that combine deep learning with physical models in a Bayesian framework. We investigate the Earth system at the boundary between physics- and data-driven approaches, to gain insights unavailable to either approach alone.
 
