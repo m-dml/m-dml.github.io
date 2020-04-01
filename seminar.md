@@ -18,7 +18,7 @@ To get updates about each meeting, please [join our mailing list](https://groups
 
 ## Past Topics
 ### 2. "Don't Fear the Sphere" 31.03.20
-We cover "[Spherical CNNs on Unstructured Grids](https://arxiv.org/pdf/1901.02039.pdf)," Jiang et al. 2019, arXiv. We also survey other ML approaches to spherical data (more links in the description on YouTube).
+We cover "[Spherical CNNs on Unstructured Grids](https://arxiv.org/pdf/1901.02039.pdf)," Jiang et al. 2019, ICLR. We also survey other ML approaches to spherical data (more links in the description on YouTube).
 With 5 minute presentations by Julianna Carvalho, Tobias Finn and Lennart Marien.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hwWeAd5_K20" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br/>
