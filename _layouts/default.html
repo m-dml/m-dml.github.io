@@ -15,12 +15,8 @@
     <!-- HEADER -->
     <div id="header_wrap" class="outer" style="text-align:justify">
         <header class="inner">
-          {% if site.github.is_project_page %}
-            <a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a>
-          {% endif %}
-
           <img align="center" src="t850.png" style="margin: 0px 0px 0px 0px"/>
-          <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
+          <h2 id="project_title">{{ site.title | default: site.github.repository_name }}</h2>
           <h3><a href="index.html">About Us</a>&emsp;<a href="research.html">Research</a>&emsp;<a href="seminar.html">ML Seminar</a></h3>
           <img align="center" src="z500.png" style="margin: 0px 0px 0px 0px"/>
           {% if site.show_downloads %}
