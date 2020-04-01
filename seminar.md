@@ -5,11 +5,11 @@ published: true
 ---
 
 ## Seminar
-We organize a weekly seminar on machine learning. We discuss papers on ML, often (but not always) with a frequent connections to Earth science, climate and weather and materials science.
+We organize a weekly seminar on machine learning. We discuss papers on ML, often (but not always) with connections to Earth science, climate and weather and materials science.
 
 The seminar also allows members of the Hamburg machine learning community to connect and present their ongoing work. We meet in person at HZG, but we also welcome remote online participants and stream the meeting live on our [YouTube channel](https://www.youtube.com/channel/UCyXAYFO3h-tBIEbPEqMnNKw).
 
-To get updates about each meeting, please [join our mailing list](https://groups.google.com/forum/#!forum/mlhzg/join). 
+To get updates about each meeting, please [join our mailing list](https://groups.google.com/forum/#!forum/mlhzg/join).
 
 ## Future Topics
 ### 3. TBA 7.04.20
