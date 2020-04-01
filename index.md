@@ -9,10 +9,7 @@ We are are a new research group headed at the [Helmholtz Centre Geesthacht](http
 
 In [our research](research.html) we investigate the Earth system at the boundary between physics- and data-driven approaches, to gain insights unavailable to either approach alone.
 
-## Machine Learning Seminar
-We organize a weekly seminar on machine learning. We discuss papers on ML, often (but not always) with a connection to Earth science, climate and weather.
-
-The seminar also allows members of the Hamburg machine learning community to connect and present their ongoing work. We meet in person at HZG, but we also welcome remote online participants and stream the meeting live on our [YouTube channel](https://www.youtube.com/channel/UCyXAYFO3h-tBIEbPEqMnNKw). To get updates about each meeting, please [join our mailing list](https://groups.google.com/forum/#!forum/mlhzg/join). 
+We also organize a weekly [seminar](seminar.html) on machine learning at HZG, aimed at the scientific communities of the Helmholtz Institutes and the Hamburg area.
 
 ## Online Code
 We publish our code on [github](https://github.com/m-dml), and are committed to software sharing as a principle of open and reproducible science.
