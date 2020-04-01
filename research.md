@@ -5,7 +5,7 @@ published: true
 ---
 
 ## Research
-Our ultimate aim is to understand and predict the complex dynamics of Earth’s atmosphere, ocean, land and ice.
+Our ultimate aim is to understand and predict the complex dynamics of the Earth’s atmosphere, ocean, land and ice.
 
 ### Physical Models
 Numerical simulations based on known physics simulators handle complex systems well, but struggle with data assimilation, parameter tuning and uncertainty quantification.
@@ -20,7 +20,7 @@ Conversely, machine learning techniques can absorb and process large datasets, b
 <br/><br/>
 
 ### Model-driven Machine Learning
-We develop hybrid methods that combine deep learning with physical models in a Bayesian framework. Examples of this hybrid approach include:
+We develop hybrid methods that combine the advantages of deep learning and physical modeling in a Bayesian framework. Examples of this hybrid approach include:
 * Neural networks that solve differential equations.
 * Algorithms trained to infer model parameters using simulations.
 * Machine learning models that respect physical laws.
