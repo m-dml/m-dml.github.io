@@ -19,7 +19,7 @@ Conversely, machine learning techniques can absorb and process large datasets, b
 
 <br/><br/>
 
-### The Combined Approach
+### Model-driven Machine Learning
 We develop hybrid methods that combine deep learning with physical models in a Bayesian framework. Examples of this hybrid approach include:
 * Neural networks that solve differential equations.
 * Algorithms trained to infer model parameters using simulations.
