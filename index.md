@@ -7,7 +7,7 @@ published: true
 ## About Us
 We are are a new research group headed at the [Helmholtz Centre Geesthacht](https://www.hzg.de/index.php.en) near Hamburg, within the [Institute of Coastal Research](https://www.hzg.de/institutes_platforms/coastal_research/index.php.en). The group, led by David Greenberg, is part of the [Helmholtz AI](https://www.helmholtz.ai/) initiative.
 
-In [our research](research.html) we investigate the Earth system by combining physics-basing and machine learning approaches, to gain insights unavailable to either approach alone.
+In [our research](research.html) we investigate the Earth system by combining physics-based and machine learning approaches, to gain insights unavailable to either approach alone.
 
 We also organize a weekly [seminar](seminar.html) on machine learning at HZG, aimed at the scientific communities of the Helmholtz Institutes and the Hamburg area.
 
