@@ -21,6 +21,6 @@ published: true
     <td><img align="center" src="marcel.png" style="margin: 0px 0px 0px 0px; vertical-align:top"></td>
     <td>Marcel Nonnemacher<br/>
     Postdoc</td>
-    <td>Marcel joined the lab in Febrary 2020 and works on data-driven weather predictions. He's interested in representing prediction uncertainty through probability distributions. During his PhD in computational neuroscience, he worked on probabilistic modeling for incomplete data and black-box Bayesian inference.</td>
+    <td>Marcel joined the lab in February 2020 and works on data-driven weather prediction. He's interested in representing prediction uncertainty through probability distributions. During his PhD in computational neuroscience, he worked on probabilistic modeling for incomplete data and black-box Bayesian inference.</td>
   </tr>
 </table> 
