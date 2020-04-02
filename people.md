@@ -7,18 +7,11 @@ published: true
 ## Group members
  <table style="width:100%">
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th>
-    <th>Age</th>
+    <td>align="center" src="david.JPG" style="margin: 0px 0px 0px 0px"</td>
+    <td>David Greenberg</td>
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
-  </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
+    <td>align="center" src="marcel.png" style="margin: 0px 0px 0px 0px"</td>
+    <td>Marcel Nonnemacher</td>
   </tr>
 </table> 
