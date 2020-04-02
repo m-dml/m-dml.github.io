@@ -29,7 +29,7 @@ published: true
     </td>
     <td style="vertical-align:top; text-align:justify">
       <strong>Marcel Nonnenmacher</strong><br/>
-      Postdoc<br/><br/>
+      Postdoc<br/><br/><br/>
       Marcel joined the lab in February 2020 and works on data-driven weather prediction. He's interested in representing prediction uncertainty through probability distributions. During his PhD in computational neuroscience, he worked on probabilistic modeling for incomplete data and black-box Bayesian inference.
     </td>
   </tr>
