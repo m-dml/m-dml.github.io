@@ -8,7 +8,7 @@ published: true
  <table style="width:100%">
    <colgroup>
     <col style="width:30%">
-    <col style="width:30%">    
+    <col style="width:20%">    
     <col>
   </colgroup>
   <tr>
