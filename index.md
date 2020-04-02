@@ -15,4 +15,4 @@ We also organize a weekly [seminar](seminar.html) on machine learning at HZG, ai
 We publish our code on [github](https://github.com/m-dml), and are committed to software sharing as a principle of open and reproducible science.
 
 ## Open Positions
-If you're interested in a position as a Master's student, PhD or Postdoc, please write to [David](mailto:david.greenberg@hzg.de) with a CV and statement of interest. We're especially interested in candidates with a solid foundation math, physics, algorithms and the geosciences.
+If you're interested in a position as a Master's student, PhD or Postdoc, please write to [David](mailto:david.greenberg@hzg.de) with a CV and statement of interest. Candidates should have a solid foundation math, physics, algorithms or the geosciences.
