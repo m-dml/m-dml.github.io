@@ -13,12 +13,14 @@ published: true
   </colgroup>
   <tr>
     <td><img align="center" src="david.JPG" style="margin: 0px 0px 0px 0px; vertical-align:middle"></td>
-    <td>David Greenberg</td>
-    <td>Description</td>
+    <td>David Greenberg<br/>
+    Group Leader</td>
+    <td>Marcel joined the lab in Febrary 2020 and works on data-driven weather predictions. He's interested in representing prediction uncertainty through probability distributions. During his PhD in computational neuroscience, he worked on probabilistic modeling for incomplete data and black-box Bayesian inference.</td>
   </tr>
   <tr>
     <td><img align="center" src="marcel.png" style="margin: 0px 0px 0px 0px; vertical-align:middle"></td>
-    <td>Marcel Nonnemacher</td>
+    <td>Marcel Nonnemacher<br/>
+    Postdoc</td>
     <td>Description</td>
   </tr>
 </table> 
