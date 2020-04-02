@@ -14,7 +14,7 @@ published: true
     <td style="vertical-align:middle">
       <img align="center" src="david.png" width="100%" style="margin: 0px 0px 0px 0px">
     </td>
-    <td style="vertical-align:top">
+    <td style="vertical-align:top; text-align:justify">
       <strong>David Greenberg</strong>
       <br/>
       Group Leader
@@ -24,7 +24,7 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="vertical-align:middle">
+    <td style="vertical-align:middle; text-align:justify">
       <img align="center" src="marcel.png" width="100%" style="margin: 0px 0px 0px 0px">
     </td>
     <td style="vertical-align:top">
