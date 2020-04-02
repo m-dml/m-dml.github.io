@@ -6,6 +6,10 @@ published: true
 
 ## Group members
  <table style="width:100%">
+   <colgroup>
+    <col style="width:50%">    
+    <col>
+  </colgroup>
   <tr>
     <td><img align="center" src="david.JPG" style="margin: 0px 0px 0px 0px"></td>
     <td>David Greenberg</td>
