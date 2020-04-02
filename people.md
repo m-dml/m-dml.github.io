@@ -20,9 +20,9 @@ published: true
     </td>
   </tr>
   <tr>
-    <td><img align="center" src="marcel.png" style="margin: 0px 0px 0px 0px; vertical-align:top"></td>
-    <td><strong>Marcel Nonnenmacher</strong><br/>
+    <td style="vertical-align:middle"><img align="center" src="marcel.png" style="margin: 0px 0px 0px 0px"></td>
+    <td style="vertical-align:top"><strong>Marcel Nonnenmacher</strong><br/>
     Postdoc</td>
-    <td>Marcel joined the lab in February 2020 and works on data-driven weather prediction. He's interested in representing prediction uncertainty through probability distributions. During his PhD in computational neuroscience, he worked on probabilistic modeling for incomplete data and black-box Bayesian inference.</td>
+    <td style="vertical-align:top">Marcel joined the lab in February 2020 and works on data-driven weather prediction. He's interested in representing prediction uncertainty through probability distributions. During his PhD in computational neuroscience, he worked on probabilistic modeling for incomplete data and black-box Bayesian inference.</td>
   </tr>
 </table> 
