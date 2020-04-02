@@ -12,10 +12,10 @@ published: true
     <col>
   </colgroup>
   <tr>
-    <td><img align="center" src="david.png" style="margin: 0px 0px 0px 0px; vertical-align:top"></td>
-    <td><strong><a href="mailto:david.greenberg@hzg.de">David Greenberg</a></strong><br/>
+    <td style="vertical-align:middle"><img align="center" src="david.png" style="margin: 0px 0px 0px 0px"></td>
+    <td style="vertical-align:top"><strong><a href="mailto:david.greenberg@hzg.de">David Greenberg</a></strong><br/>
     Group Leader</td>
-    <td>David leads the M-DML group. Before moving to Earth science, he did a Postdoc in Machine Learning with Jakob Macke at TUM, and a PhD in computational Neuroscience with Jason Kerr at CAESAR.
+    <td style="vertical-align:top">David leads the M-DML group. Before moving to Earth science, he did a Postdoc in Machine Learning with Jakob Macke at TUM, and a PhD in computational Neuroscience with Jason Kerr at CAESAR.
     His primary research goal is applying machine learning to address critical computational problems in Earth science, such as predictability, parameter tuning, parameterization, uncertainty quantification and data assimilation. 
     </td>
   </tr>
