@@ -5,7 +5,7 @@ published: true
 ---
 
 ## Group members
- <table style="width:100%">
+ <table style="width:100%; border-style:none">
    <colgroup>
     <col style="width:30%">  
     <col>
