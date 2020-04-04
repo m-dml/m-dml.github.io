@@ -12,9 +12,14 @@ The seminar also allows members of the Hamburg machine learning community to con
 To get updates about each meeting or suggest a topic, please [join our mailing list](https://groups.google.com/forum/#!forum/mlhzg/join).
 
 ## Future Topics
-### 3. TBA 7.04.20
-<br/>
-<br/>
+### 3. "MetNet, Convolutional-Recurrent Nets, and the Self-Attention Principle" 07.04.20
+The next ML@HZG seminar will be this upcoming Tuesday 7.4 at 3pm. We'll cover Google Research's recent work on weather prediction: "MetNet: A Neural Weather Model for Precipitation Forecasting," Sønderby et al., 2020, arXiv. [pdf](https://arxiv.org/pdf/2003.12140.pdf)[blog post](https://ai.googleblog.com/2020/03/a-neural-weather-model-for-eight-hour.html)
+
+To understand the ML tools that went into this work, we'll briefly review some concepts from earlier works:
+* The convolutional LSTM, which combines convolutional and recurrent neural nets into a single architecutre, as introduced by Xingjian et al. in 2015. [pdf](http://papers.nips.cc/paper/5955-convolutional-lstm-network-a-machine-learning-approach-for-precipitation-nowcasting.pdf)
+* Self-attention and the Transformer architecture, introduced by Vaswani et al. in 2017[pdf](https://arxiv.org/pdf/1706.03762.pdf), provide a new alternative to convolutional and recurrent nets. MetNet uses a specialized variant called Axial Attention (Ho et al., 2019, [pdf](https://arxiv.org/pdf/1912.12180.pdf)). We'll turn to this [blog post](http://www.peterbloem.nl/blog/transformers) by Peter Bloem for helpful illustrations.
+
+With these concepts in mind, we'll examine how MetNet combines them, and consider their results from the perspectives of both ML and weather prediction.
 
 ## Past Topics
 ### 2. "Don't Fear the Sphere" 31.03.20
