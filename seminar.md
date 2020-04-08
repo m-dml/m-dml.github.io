@@ -16,7 +16,9 @@ To get updates about each meeting or suggest a topic, please [join our mailing l
 
 ## Past Topics
 ### 3. "MetNet, Convolutional-Recurrent Nets, and the Self-Attention Principle" 07.04.20
-ML@HZG seminar will be this upcoming Tuesday 7.4 at 3pm. We cover Google Research's recent work on weather prediction: "MetNet: A Neural Weather Model for Precipitation Forecasting," Sønderby et al., 2020, arXiv.
+Linda von Garderen presents on her work.
+
+We cover Google Research's recent work on weather prediction: "MetNet: A Neural Weather Model for Precipitation Forecasting," Sønderby et al., 2020, arXiv.
 [paper](https://arxiv.org/pdf/2003.12140.pdf), [blog post](https://ai.googleblog.com/2020/03/a-neural-weather-model-for-eight-hour.html)
 
 To understand the ML tools that went into this work, we briefly review some concepts from earlier works:
