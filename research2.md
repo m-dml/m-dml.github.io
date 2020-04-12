@@ -11,7 +11,7 @@ Our ultimate aim is to understand and predict the complex dynamics of the Earthâ
 Numerical simulations based on known physics simulators handle complex systems well, but struggle with data assimilation, parameter tuning and uncertainty quantification.
 
 <img align="left" src="L96eqs.png" width="288" height="60" style="margin: 0px 0px 0px 0px"/>
-<span style="color:gray"><sub><sup>Simulation from the [Lorenz 96](http://eaps4.mit.edu/research/Lorenz/Predicability_a_Problem_2006.pdf) model. Defined as a system of differential equations, it exhibits many of the challenges appearing in more realistic models of climate and weather phenomena, such as chaotic dynamics and coupling of fast and slow processes.  </sup></sub></span>
+<span style="color:gray"><sub><sup>Parameter inference for the [Lorenz 96](http://eaps4.mit.edu/research/Lorenz/Predicability_a_Problem_2006.pdf) model, which it exhibits many of the challenges in models for climate and weather phenomena, such as chaotic dynamics and coupling of fast and slow processes.  </sup></sub></span>
 <br/>
 <img align="left" src="L96.png" width="360" height="260" style="margin: 0px 0px 0px 0px"/>
 <img align="right" src="lorenz96_twoLevel_fig_schneider_5ss.png" width="260" height="260" style="margin: 0px 0px 0px 0px"/>
