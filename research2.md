@@ -10,10 +10,10 @@ Our ultimate aim is to understand and predict the complex dynamics of the Earthâ
 ### Physical Models
 Numerical simulations based on known physics simulators handle complex systems well, but struggle with data assimilation, parameter tuning and uncertainty quantification.
 
- <img align="left" src="L96eqs.png" width="288" height="81" style="margin: 0px 0p"/>
+ <img align="left" src="L96eqs.png" width="360" height="102" style="margin: 0px 0p"/>
  <span style="color:gray"><sub><sup>Simulation for the [Lorenz 96](http://eaps4.mit.edu/research/Lorenz/Predicability_a_Problem_2006.pdf). Defined as a system of differential equations, it exhibits many of the challenges appearing in more realistic models of climate and weather phenomena, such as chaotic dynamics and coupling of fast and slow processes..  </sup></sub></span>
-<br/>
-<img align="left" src="L96.png" width="360" height="260" style="margin: 0px 0px 0px 0px"/>
+<br/> <br/>
+<img align="centered" src="L96.png" width="360" height="260" style="margin: 0px 0px 0px 0px"/>
 <br/><br/>
 
 ### Machine Learning
