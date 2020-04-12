@@ -14,7 +14,6 @@ Numerical simulations based on known physics simulators handle complex systems w
  <span style="color:gray"><sub><sup>Parameter inference for the [Lorenz 96](http://eaps4.mit.edu/research/Lorenz/Predicability_a_Problem_2006.pdf) model, which exhibits many of the challenges in models for climate and weather phenomena, such as chaotic dynamics and coupling of fast and slow processes.  </sup></sub></span>
 <br/>
 <img align="left" src="L96.png" width="360" height="260" style="margin: 0px 0px 0px 0px"/>
-<img align="right" src="lorenz96_twoLevel_fig_schneider_5ss.png" width="260" height="260" style="margin: 0px 0px 0px 0px"/>
 <br/><br/>
 
 ### Machine Learning
@@ -31,3 +30,6 @@ We develop hybrid methods that combine the advantages of deep learning and physi
 * Machine learning models that respect physical laws.
 * Flexible function approximators to fill gaps in our physical knowledge.
 * Normalizing Flows, VAEs and GANs that model uncertainty in temperature, rainfall, fire and flooding.
+
+<img align="right" src="lorenz96_twoLevel_fig_schneider_5ss.png" width="260" height="260" style="margin: 0px 0px 0px 0px"/>
+ <span style="color:gray"><sub><sup>Parameter inference for the [Lorenz 96](http://eaps4.mit.edu/research/Lorenz/Predicability_a_Problem_2006.pdf) model. Prior believes over possible parameter values are updated after observing data into narrower posterior believes centered on the ground-truth parameters.  </sup></sub></span>
