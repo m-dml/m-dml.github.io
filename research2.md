@@ -33,5 +33,5 @@ We develop hybrid methods that combine the advantages of deep learning and physi
 * Normalizing Flows, VAEs and GANs that model uncertainty in temperature, rainfall, fire and flooding.
 
 <img align="left" src="lorenz96_twoLevel_fig_schneider_5ss.png" width="280" height="280" style="margin: 0px 20px 0px 0px"/>
- <span style="color:gray"><sub><sup>Parameter inference for the Lorenz 96 model. Prior beliefs over possible parameter values are updated after observing data into narrower posterior ranges of parameters given data, which are centered on the ground-truth parameters. Each black dot is a single sample from the probability distribution p(parameters | data). </sup></sub></span>
-<br/><br/>
+ <span style="color:gray"><sub><sup>Parameter inference for the Lorenz 96 model using the [APT-SNPE algorithm](https://arxiv.org/abs/1905.07488). Prior beliefs over possible parameter values are updated after observing data into narrower posterior ranges of parameters given data, which are centered on the ground-truth parameters. Each black dot is a single sample from the probability distribution p(parameters | data). </sup></sub></span>
+<br/><br/><br/><br/><br/><br/>
