@@ -23,13 +23,6 @@ Conversely, machine learning techniques can absorb and process large datasets, b
 
 <br/><br/>
 
-<img align="left" src="lorenz96_twoLevel_fig_schneider_5ss.png" width="280" height="280" style="margin: 0px 20px 0px 0px"/>
- <span style="color:gray"><sub><sup>Parameter inference for the Lorenz 96 model. Prior believes over possible parameter values are updated after observing data into narrower posterior believes centered on the ground-truth parameters.  </sup></sub></span>
-
-
-<br/><br/>
-
-
 ### Model-driven Machine Learning
 
 We develop hybrid methods that combine the advantages of deep learning and physical modeling in a Bayesian framework. Examples of this hybrid approach include:
@@ -38,3 +31,7 @@ We develop hybrid methods that combine the advantages of deep learning and physi
 * Machine learning models that respect physical laws.
 * Flexible function approximators to fill gaps in our physical knowledge.
 * Normalizing Flows, VAEs and GANs that model uncertainty in temperature, rainfall, fire and flooding.
+
+<img align="left" src="lorenz96_twoLevel_fig_schneider_5ss.png" width="280" height="280" style="margin: 0px 20px 0px 0px"/>
+ <span style="color:gray"><sub><sup>Parameter inference for the Lorenz 96 model. Prior beliefs over possible parameter values are updated after observing data into narrower posterior ranges of parameters given data, which are centered on the ground-truth parameters. Each black dot is a single sample from the probability distribution p(parameters | data). </sup></sub></span>
+<br/><br/>
