@@ -34,5 +34,4 @@ We develop hybrid methods that combine the advantages of deep learning and physi
 
 <img align="right" src="lorenz96_twoLevel_fig_schneider_5ss.png" width="260" height="260" style="margin: 0px 0px 0px 0px"/>
  <span style="color:gray"><sub><sup>Parameter inference for the [Lorenz 96](http://eaps4.mit.edu/research/Lorenz/Predicability_a_Problem_2006.pdf) model. Prior believes over possible parameter values are updated after observing data into narrower posterior believes centered on the ground-truth parameters.  </sup></sub></span>
-
 <br/><br/>
