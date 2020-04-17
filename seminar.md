@@ -12,7 +12,14 @@ The seminar also allows members of the Hamburg machine learning community to con
 To get updates about each meeting or suggest a topic, please [join our mailing list](https://groups.google.com/forum/#!forum/mlhzg/join).
 
 ## Future Topics
-### 4. TBA, 21.04.20
+### 4. "Far into the Future", 21.04.20
+Eduardo Zorita presents "Deep learning for multi-year ENSO forecasts," Ham et al. 2019, Nature.
+
+This paper uses machine learning algorithms to predict the [El Niño/Southern Oscillation](https://en.wikipedia.org/wiki/El_Ni%C3%B1o%E2%80%93Southern_Oscillation) 1.5 years into the future, farther than previous methods have achieved. Notably, it trains on a combination of simulations and historical data.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vtOqMg48HlU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/>
+<br/>
 
 ## Past Topics
 ### 3. "MetNet, Convolutional-Recurrent Nets, and the Self-Attention Principle" 07.04.20
