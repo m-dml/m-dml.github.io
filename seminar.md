@@ -14,6 +14,7 @@ To get updates about each meeting or suggest a topic, please [join our mailing l
 ## Future Topics
 ### 5. TBA, 05.05.20
 
+## Past Topics
 ### 4. "Far into the Future", 21.04.20
 Lennard Schmidt from UFZ present on his work. He applies machine learning to do quality control for hydrological measurement data. He also uses a sophisticated convLSTM architecture to predict hydrological dynamics in an Elbe catchment basin. Code for a convLSTM layer in tensorflow/keras can be found [here](https://keras.io/examples/conv_lstm/).
 
@@ -29,7 +30,6 @@ Additional references on the predictability paradox in climate science:
 <br/>
 <br/>
 
-## Past Topics
 ### 3. "MetNet, Convolutional-Recurrent Nets, and the Self-Attention Principle" 07.04.20
 Linda von Garderen presents on her work.
 
