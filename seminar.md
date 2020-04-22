@@ -12,10 +12,18 @@ The seminar also allows members of the Hamburg machine learning community to con
 To get updates about each meeting or suggest a topic, please [join our mailing list](https://groups.google.com/forum/#!forum/mlhzg/join).
 
 ## Future Topics
-### 4. "Far into the Future", 21.04.20
-Eduardo Zorita presents "Deep learning for multi-year ENSO forecasts," Ham et al. 2019, Nature.
+### 5. TBA, 05.05.20
 
-This paper uses machine learning algorithms to predict the [El Niño/Southern Oscillation](https://en.wikipedia.org/wiki/El_Ni%C3%B1o%E2%80%93Southern_Oscillation) 1.5 years into the future, farther than previous methods have achieved. Notably, it trains on a combination of simulations and historical data.
+### 4. "Far into the Future", 21.04.20
+Lennard Schmidt from UFZ present on his work. He applies machine learning to do quality control for hydrological measurement data. He also uses a sophisticated convLSTM architecture to predict hydrological dynamics in an Elbe catchment basin. Code for a convLSTM layer in tensorflow/keras can be found [here](https://keras.io/examples/conv_lstm/).
+
+Eduardo Zorita presents "Deep learning for multi-year ENSO forecasts," Ham et al. 2019, Nature. [link](https://www.nature.com/articles/s41586-019-1559-7)
+This paper uses machine learning algorithms to predict the [El Niño/Southern Oscillation]((https://en.wikipedia.org/wiki/El_Ni%C3%B1o%E2%80%93Southern_Oscillation)) 1.5 years into the future, farther than previous methods have achieved. Notably, it trains on a combination of simulations and historical data.
+
+Additional references on the predictability paradox in climate science:
+"Do seasonal‐to‐decadal climate predictions underestimate the predictability of the real world?" Eade et al. 2014, Geophys. Research Letters. [link](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2014GL061146)
+
+"Skilful predictions of the winter North Atlantic Oscillation one year ahead." Dunstone et al. 2016, Nature. [link](https://www.nature.com/articles/ngeo2824)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vtOqMg48HlU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br/>
