@@ -12,7 +12,22 @@ The seminar also allows members of the Hamburg machine learning community to con
 To get updates about each meeting or suggest a topic, please [join our mailing list](https://groups.google.com/forum/#!forum/mlhzg/join).
 
 ## Future Topics
-### 5. TBA, 05.05.20
+### 6. TBA, 19.05.20
+
+### 5. "Real Fake Clouds" 05.05.20
+We discuss the paper "Modeling Cloud Reflectance Fields using Conditional Generative Adversarial Networks," Schmidt et al. 2020, arXiv.
+[pdf](https://arxiv.org/pdf/2002.07579.pdf) [code](https://github.com/krisrs1128/clouds_dist)
+
+This paper uses generative adversarial networks, or GANs. In the GAN framework, a generator network learns to generate "fake" data points while a second discriminator network learns to tell real from fake data. Schmidt et al. use GANs to predict cloud reflectance fields from meteorological variables such as temperature and wind speed. Given these meteorological variables, it can produce multiple realistic output patterns instead of an ensemble average. That is, the network attempts to learn the conditional probability distribution of reflectance given the input variables.
+
+We start with a very brief introduction of GANs. More background can be found in Diego Gomez Mosquera's high accessible [blog post](https://medium.com/ai-society/gans-from-scratch-1-a-deep-introduction-with-code-in-pytorch-and-tensorflow-cb03cdcdba0f) or Ian Goodfellow's [extensive tutorial](https://arxiv.org/pdf/1701.00160.pdf).
+
+Importantly, this paper wasn't able to get good results just by applying the GAN framework out of the box, and had to use some of the latest specialized tricks as well. So we'll briefly go through some of these tricks:
+
+* Adding a term to the loss function that corresponds to supervised learning, as proposed for image to image translation tasks by Isola et al. 2018. [pdf](https://arxiv.org/pdf/1611.07004.pdf)
+* Multi-scale discriminator and generator networks, via Wang et al. 2018. [pdf](https://arxiv.org/pdf/1711.11585.pdf)
+* A least squares objective function, proposed by Mao et al. 2017 to avoid vanishing gradients. [pdf](https://arxiv.org/pdf/1611.04076.pdf)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LZpHkkfN7qY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Past Topics
 ### 4. "Far into the Future", 21.04.20
