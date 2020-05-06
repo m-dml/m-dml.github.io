@@ -14,6 +14,7 @@ To get updates about each meeting or suggest a topic, please [join our mailing l
 ## Future Topics
 ### 6. TBA, 19.05.20
 
+## Past Topics
 ### 5. "Real Fake Clouds" 05.05.20
 We discuss the paper "Modeling Cloud Reflectance Fields using Conditional Generative Adversarial Networks," Schmidt et al. 2020, arXiv.
 [pdf](https://arxiv.org/pdf/2002.07579.pdf) [code](https://github.com/krisrs1128/clouds_dist)
@@ -27,9 +28,15 @@ Importantly, this paper wasn't able to get good results just by applying the GAN
 * Adding a term to the loss function that corresponds to supervised learning, as proposed for image to image translation tasks by Isola et al. 2018. [pdf](https://arxiv.org/pdf/1611.07004.pdf)
 * Multi-scale discriminator and generator networks, via Wang et al. 2018. [pdf](https://arxiv.org/pdf/1711.11585.pdf)
 * A least squares objective function, proposed by Mao et al. 2017 to avoid vanishing gradients. [pdf](https://arxiv.org/pdf/1611.04076.pdf)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LZpHkkfN7qY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Past Topics
+Additional links from the discussion:
+Variational Dropout and and the Local Reparameterization Trick [pdf](https://arxiv.org/pdf/1506.02557.pdf)
+Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning [pdf](https://arxiv.org/pdf/1506.02142.pdf)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LZpHkkfN7qY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/>
+<br/>
+
 ### 4. "Far into the Future", 21.04.20
 Lennard Schmidt from UFZ present on his work. He applies machine learning to do quality control for hydrological measurement data. He also uses a sophisticated convLSTM architecture to predict hydrological dynamics in an Elbe catchment basin. Code for a convLSTM layer in tensorflow/keras can be found [here](https://keras.io/examples/conv_lstm/).
 
