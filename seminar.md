@@ -5,14 +5,29 @@ published: true
 ---
 
 ## Seminar
-We organize a weekly seminar on machine learning. We discuss papers on ML, often (but not always) with connections to Earth science, climate and weather and materials science.
+We organize a biweekly seminar on machine learning, every second Tuesday at 3pm (GMT+2). We discuss papers on ML, often (but not always) with connections to Earth science, climate and weather and materials science.
 
 The seminar also allows members of the Hamburg machine learning community to connect and present their ongoing work. We meet in person at HZG, but we also welcome remote online participants and stream the meeting live on our [YouTube channel](https://www.youtube.com/channel/UCyXAYFO3h-tBIEbPEqMnNKw).
 
 To get updates about each meeting or suggest a topic, please [join our mailing list](https://groups.google.com/forum/#!forum/mlhzg/join).
 
 ## Future Topics
-### 6. TBA, 19.05.20
+### 7. TBA 02.06.20
+
+### 6. "Minimalist Chaos", 19.05.20
+We'll discus the Lorenz `96 model (L96) and its myriad uses. In ["Predictability - a problem partly solved"](http://eaps4.mit.edu/research/Lorenz/Predicability_a_Problem_2006.pdf), Edward Lorenz introduced a simple mathematical model exhibiting many of Earth science's core computational challenges.
+
+Challenging features of L96 include chaotic dynamics, nonlinearity, combination of dissipative and conservative aspects and coupling of vastly differing scales in space and time. Chaos means that small perturbations in the model state due to numerical errors or observation noise will, over time, lead to large deviations in the future model state.
+
+L96 is a frequent test case for algorithms tackling many fundamental problems. We consider two of these: parameter tuning, and parameterizing sub-grid processes:
+
+* Marcel Nonnenmacher will describe work on identifying the 4 parameters of L96. This includes ["Recovering the parameters underlying the Lorenz-96 chaotic dynamics,"](https://arxiv.org/pdf/1906.06786.pdf) Mouatadid et al. 2019, ["Earth System Modeling 2.0"](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1002/2017GL076101), Schneider et al., 2017, as well as his own unpublished work.
+* ["Coupled online learning as a way to tackle instabilities and biases in neural network parameterizations: general algorithms and Lorenz96 case study (v1.0)"](https://arxiv.org/pdf/1907.01351.pdf), Rasp 2020. This paper and a related [blog post](https://towardsdatascience.com/lorenz-96-is-too-easy-machine-learning-research-needs-a-more-realistic-toy-model-6add938f6cc0) discuss the design of parameterizations that approximate the effect of fast, fine-scale processes on slow, coarse scale ones. Linear and ML-based parameterizations are considered.
+* Tobias Finn will guide us through stochastic parameterizations, which approximate deterministic chaos using randomness. ["Machine Learning for Stochastic Parameterization: Generative Adversarial Networks in the Lorenz '96 Model"](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2019MS001896), Gagne et al., 2020, uses Generative Adversarial Networks (GANs, see episode 5) to describe uncertainty in the tendency of coarse, slow variables as a result of unseen fast, fine variables. It builds on previous stochastic parameterizations without ML.
+
+Finally, we'll revisit the original paper and the issue of predictability, nearly 25 years later.
+
+There is a slot available if someone would like to present their own work for 5 minutes.
 
 ## Past Topics
 ### 5. "Real Fake Clouds" 05.05.20
