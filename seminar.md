@@ -14,6 +14,7 @@ To get updates about each meeting or suggest a topic, please [join our mailing l
 ## Future Topics
 ### 7. TBA 02.06.20
 
+## Past Topics
 ### 6. "Minimalist Chaos", 19.05.20
 We'll discus the Lorenz `96 model (L96) and its myriad uses. In ["Predictability - a problem partly solved"](http://eaps4.mit.edu/research/Lorenz/Predicability_a_Problem_2006.pdf), Edward Lorenz introduced a simple mathematical model exhibiting many of Earth science's core computational challenges.
 
@@ -26,10 +27,10 @@ L96 is a frequent test case for algorithms tackling many fundamental problems. W
 * Tobias Finn will guide us through stochastic parameterizations, which approximate deterministic chaos using randomness. ["Machine Learning for Stochastic Parameterization: Generative Adversarial Networks in the Lorenz '96 Model"](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2019MS001896), Gagne et al., 2020, uses Generative Adversarial Networks (GANs, see episode 5) to describe uncertainty in the tendency of coarse, slow variables as a result of unseen fast, fine variables. It builds on previous stochastic parameterizations without ML.
 
 Finally, we'll revisit the original paper and the issue of predictability, nearly 25 years later.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ckxIGFOu14Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/>
+<br/>
 
-There is a slot available if someone would like to present their own work for 5 minutes.
-
-## Past Topics
 ### 5. "Real Fake Clouds" 05.05.20
 We discuss the paper "Modeling Cloud Reflectance Fields using Conditional Generative Adversarial Networks," Schmidt et al. 2020, arXiv.
 [pdf](https://arxiv.org/pdf/2002.07579.pdf) [code](https://github.com/krisrs1128/clouds_dist)
