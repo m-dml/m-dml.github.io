@@ -12,7 +12,12 @@ The seminar also allows members of the Hamburg machine learning community to con
 To get updates about each meeting or suggest a topic, please [join our mailing list](https://groups.google.com/forum/#!forum/mlhzg/join).
 
 ## Future Topics
-### 7. "Compressed Pressure" 02.06.20
+
+### 8. TBA 16.06.20
+
+## Past Topics
+
+### 7. "Compressed Pressure", 02.06.20
 The main paper for this session will be [Latent Space Physics: Towards Learning the Temporal Evolution of Fluid Flow](https://arxiv.org/pdf/1802.10123), Wiewel et al, 2019. Also see their [blog post](https://ge.in.tum.de/publications/latent-space-physics/).
 
 We will also briefly discuss a [follow-up](https://ge.in.tum.de/publications/latent-space-subdivision/) from Wiewel et al. 2020, and a [related paper on generative fluid modelling](https://arxiv.org/abs/1806.02071) from the same group, Kim et al. 2019. The latter is nicely summarized in [this video](https://www.youtube.com/watch?v=hSDzOZ9IO8U).
@@ -24,7 +29,6 @@ For those interested in the underlying ML methods, this session will be about au
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gxpy24NYjd8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
-## Past Topics
 ### 6. "Minimalist Chaos", 19.05.20
 We'll discus the Lorenz `96 model (L96) and its myriad uses. In ["Predictability - a problem partly solved"](http://eaps4.mit.edu/research/Lorenz/Predicability_a_Problem_2006.pdf), Edward Lorenz introduced a simple mathematical model exhibiting many of Earth science's core computational challenges.
 
