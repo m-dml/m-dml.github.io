@@ -15,6 +15,8 @@ To get updates about each meeting or suggest a topic, please [join our mailing l
 
 ### 9. TBA 30.06.20
 
+## Past Topics
+
 ### 8. "Uncharted History" 16.06.20
 We discuss the paper "Artificial intelligence reconstructs missing climate information", Kadow et al. 2020, Nat. Geosci. [pdf](https://www.nature.com/articles/s41561-020-0582-5.epdf?sharing_token=QbCxMxkv1yFttqEFbh4FkNRgN0jAjWel9jnR3ZoTv0P2qUHXvupkkLyDpFacZ59nRBEIbALvzfpzSh-gBxsqgNpNQRCIHgzUmS4VsNCdAN8bOiDdHAMmDslOUvoPznb4U0cS2yHwzUSvv01Rym2EcDtqL9vDJL5U7CBAPd60mNM%3D) [code](https://github.com/FREVA-CLINT/climatereconstructionAI)
 
@@ -23,8 +25,6 @@ We are very happy to have the first-author of the paper with us to present the s
 The computer vision field of image inpainting [paper](https://dl.acm.org/doi/10.1145/344779.344972) uses several techniques to reconstruct broken images, paintings, etc. In recent years, more and more diverse machine learning techniques have boosted the field. A major step was taken by Liu et al. 2018 [paper](https://arxiv.org/abs/1804.07723) [video](https://www.youtube.com/watch?v=gg0F5JjKmhA&t=5s) in using partial convolutions in a CNN. The study shown here will transfer the technology to climate research. The presentation will show the journey of changing and applying the NVIDIA technique to one of the big obstacles in climate research: missing climate information of the past. Therefore a transfer learning approach is set up using climate model data. After evaluating test-suites, a reconstruction of [HadCRUT4](https://crudata.uea.ac.uk/cru/data/temperature/) - one of the most important climate data sets - is shown and analyzed.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uzM5qPzpRQ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## Past Topics
 
 ### 7. "Compressed Pressure", 02.06.20
 The main paper for this session will be [Latent Space Physics: Towards Learning the Temporal Evolution of Fluid Flow](https://arxiv.org/pdf/1802.10123), Wiewel et al, 2019. Also see their [blog post](https://ge.in.tum.de/publications/latent-space-physics/).
