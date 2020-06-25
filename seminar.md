@@ -13,9 +13,23 @@ To get updates about each meeting or suggest a topic, please [join our mailing l
 
 ## Future Topics
 
-### 9. TBA 30.06.20
+### 10. TBA 14.07.20
 
 ## Past Topics
+
+### 9. "The Best of All Possible Worlds" 30.06.20
+We consider the critically important and monstrously difficult problem of tuning climate model parameters to match observations (reviewed in [Hourdin et al., 2017](https://journals.ametsoc.org/bams/article/98/3/589/70022/The-Art-and-Science-of-Climate-Model-Tuning)). 
+
+This process is quite challenging, because:
+* Testing new parameter combinations through simulation incurs an immense computational cost.
+* The aspects of the data we wish to match (warming trends, long-term means and variances) require long, global simulations.
+We discuss several approaches to this problem:
+* Gradient-based Optimization attempts to adjust model parameters by following the gradients, or derivatives of climate model outputs with respect to parameters. A major challenge for this approach is that we usually lack the ability to calculate or even approximate these derivatives. [Tett et al., 2017](https://gmd.copernicus.org/articles/10/3567/2017/gmd-10-3567-2017.pdf) get around this problem by using finite differencing, where derivatives are approximated using small perturbations to the parameters.
+* History matching is a technique where nonlinear regression is used to learn an "emulator" or "metamodel" that maps directly between multiple tunable model parameters and real-world observables we'd like the original model to reproduce. Having estimated this parameter-observable relationship using a finite number of simulations, we can then identify all regions of parameter space for which the predicted model output is close to observations. [Williamson et al., 2013](https://link.springer.com/article/10.1007%2Fs00382-013-1896-4) and [Bellprat et al. 2012](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2012JD018262) use polynomial functions to build emulators for global and regional climate models resepctively. We also consider the more recent [Li et al., 2019](https://gmd.copernicus.org/articles/12/3017/2019/), which replaces the polynomial functions with simple neural networks.
+* To demonstrate validation of a tuning scheme, [Bellprat et al. 2016](https://journals.ametsoc.org/jcli/article/29/2/819/35899/Objective-Calibration-of-Regional-Climate-Models) use history matching on regional climate models for two different regions, and compare the results.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QQi3JRPiCcs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/>
+<br/>
 
 ### 8. "Uncharted History" 16.06.20
 We discuss the paper "Artificial intelligence reconstructs missing climate information", Kadow et al. 2020, Nat. Geosci. [pdf](https://www.nature.com/articles/s41561-020-0582-5.epdf?sharing_token=QbCxMxkv1yFttqEFbh4FkNRgN0jAjWel9jnR3ZoTv0P2qUHXvupkkLyDpFacZ59nRBEIbALvzfpzSh-gBxsqgNpNQRCIHgzUmS4VsNCdAN8bOiDdHAMmDslOUvoPznb4U0cS2yHwzUSvv01Rym2EcDtqL9vDJL5U7CBAPd60mNM%3D) [code](https://github.com/FREVA-CLINT/climatereconstructionAI)
@@ -23,8 +37,9 @@ We discuss the paper "Artificial intelligence reconstructs missing climate infor
 We are very happy to have the first-author of the paper with us to present the study!
 
 The computer vision field of image inpainting [paper](https://dl.acm.org/doi/10.1145/344779.344972) uses several techniques to reconstruct broken images, paintings, etc. In recent years, more and more diverse machine learning techniques have boosted the field. A major step was taken by Liu et al. 2018 [paper](https://arxiv.org/abs/1804.07723) [video](https://www.youtube.com/watch?v=gg0F5JjKmhA&t=5s) in using partial convolutions in a CNN. The study shown here will transfer the technology to climate research. The presentation will show the journey of changing and applying the NVIDIA technique to one of the big obstacles in climate research: missing climate information of the past. Therefore a transfer learning approach is set up using climate model data. After evaluating test-suites, a reconstruction of [HadCRUT4](https://crudata.uea.ac.uk/cru/data/temperature/) - one of the most important climate data sets - is shown and analyzed.
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uzM5qPzpRQ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/>
+<br/>
 
 ### 7. "Compressed Pressure", 02.06.20
 The main paper for this session will be [Latent Space Physics: Towards Learning the Temporal Evolution of Fluid Flow](https://arxiv.org/pdf/1802.10123), Wiewel et al, 2019. Also see their [blog post](https://ge.in.tum.de/publications/latent-space-physics/).
@@ -35,8 +50,9 @@ For those interested in the underlying ML methods, this session will be about au
 
 * [Autoencoders](https://www.jeremyjordan.me/autoencoders/) train pairs of neural networks for unsupervised learning of data representations, and Wiewel et al. use them to compress the high-dimensional volumetric fluid data.
 * Sequence-to-sequence models allow to predict a variable-length output sequence from a variable-length input sequence, using a pair of recurrent neural networks. "seq2seq" [originated in natural language processing](https://arxiv.org/abs/1409.3215), but as we will see it can also be used to predict sequences of 3D images.
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gxpy24NYjd8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<br/>
+<br/>
 
 ### 6. "Minimalist Chaos", 19.05.20
 We'll discus the Lorenz `96 model (L96) and its myriad uses. In ["Predictability - a problem partly solved"](http://eaps4.mit.edu/research/Lorenz/Predicability_a_Problem_2006.pdf), Edward Lorenz introduced a simple mathematical model exhibiting many of Earth science's core computational challenges.
