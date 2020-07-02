@@ -9,7 +9,7 @@ We are a new research group at the [Helmholtz Centre Geesthacht](https://www.hzg
 
 In [our research](research.html) we investigate the Earth system at the boundary between physics-based and machine learning approaches, to gain insights unavailable to either approach alone.
 
-We also organize a weekly [seminar](seminar.html) on machine learning at HZG, aimed at the scientific communities of the Helmholtz Institutes and the Hamburg area.
+We also organize a biweekly [seminar](seminar.html) on machine learning at HZG, aimed at the scientific communities of the Helmholtz Institutes and the Hamburg area.
 
 ## Online Code
 We publish our code on [github](https://github.com/m-dml), and are committed to software sharing as a principle of open and reproducible science.
