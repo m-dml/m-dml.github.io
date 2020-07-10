@@ -13,7 +13,27 @@ To get updates about each meeting or suggest a topic, please [join our mailing l
 
 ## Future Topics
 
-### 10. TBA 14.07.20
+### 11. TBA 28.07.20
+
+### 10. "Try to look like a little black cloud" 14.07.20
+
+In light of recent meteorological events in Hamburg, the next ML@HZG seminar will focus on clouds.
+
+We will begin with a well-written 3-page review[1] that discusses how cloud resolving models (CRMs) can play an important role in our understanding of our climate and its potential changes in the future, but impose immense computational demands.
+
+We'll then discuss how small-scale CRMs can be used as cloud parameterizations for large-scale climate models, focusing on the Superparameterized Community Atmosphere Model (SPCAM) [2]. This approach aims to capture the two-way interactions between cloud physics and coarser-scale meteorological variables without paying the cost of a huge CRM simulation, but instead embedding a small CRM into each grid cell. Further work[3] showed how the embedded CRMs can be simplified without compromising accuracy.
+
+Finally, we'll discuss how machine learning can be used to imitate the effect of the miniature CRMs used in SPCAM, which in turn aims to imitate what a large-scale CRM might look like. Recent work[4] has shown the neural networks can be trained reproduce the feedback between coarse-scale climate model variables and each grid cell's CRM, with a considerable reduction of computational.
+
+As we'll discuss, often the true test of these techniques is their ability to match observed phenomena in large, long simulations!
+
+[1] T. Schneider et al., “Climate goals and computing the future of clouds,” Nature Clim Change, vol. 7, no. 1, pp. 3–5, Jan. 2017, doi: 10.1038/nclimate3190.
+
+[2] M. Khairoutdinov, D. Randall, and C. DeMott, “Simulations of the Atmospheric General Circulation Using a Cloud-Resolving Model as a Superparameterization of Physical Processes,” J. Atmos. Sci., vol. 62, no. 7, pp. 2136–2154, Jul. 2005, doi: 10.1175/JAS3453.1.
+
+[3] M. S. Pritchard, C. S. Bretherton, and C. A. DeMott, “Restricting 32–128 km horizontal scales hardly affects the MJO in the Superparameterized Community Atmosphere Model v.3.0 but the number of cloud-resolving grid columns constrains vertical mixing,” Journal of Advances in Modeling Earth Systems, vol. 6, no. 3, pp. 723–739, 2014, doi: 10.1002/2014MS000340.
+
+[4] S. Rasp, M. S. Pritchard, and P. Gentine, “Deep learning to represent subgrid processes in climate models,” PNAS, vol. 115, no. 39, pp. 9684–9689, Sep. 2018, doi: 10.1073/pnas.1810286115.
 
 ## Past Topics
 
