@@ -15,6 +15,8 @@ To get updates about each meeting or suggest a topic, please [join our mailing l
 
 ### 11. TBA 28.07.20
 
+## Past Topics
+
 ### 10. "Try to look like a little black cloud" 14.07.20
 
 In light of recent meteorological events in Hamburg, the next ML@HZG seminar will focus on clouds.
@@ -23,7 +25,7 @@ We will begin with a well-written 3-page review[1] that discusses how cloud reso
 
 We'll then discuss how small-scale CRMs can be used as cloud parameterizations for large-scale climate models, focusing on the Superparameterized Community Atmosphere Model (SPCAM) [2]. This approach aims to capture the two-way interactions between cloud physics and coarser-scale meteorological variables without paying the cost of a huge CRM simulation, but instead embedding a small CRM into each grid cell. Further work[3] showed how the embedded CRMs can be simplified without compromising accuracy.
 
-Finally, we'll discuss how machine learning can be used to imitate the effect of the miniature CRMs used in SPCAM, which in turn aims to imitate what a large-scale CRM might look like. Recent work[4] has shown the neural networks can be trained reproduce the feedback between coarse-scale climate model variables and each grid cell's CRM, with a considerable reduction of computational.
+Finally, we'll discuss how machine learning can be used to imitate the effect of the miniature CRMs used in SPCAM, which in turn aims to imitate what a large-scale CRM might look like. Recent work [4] has shown the neural networks can be trained reproduce the feedback between coarse-scale climate model variables and each grid cell's CRM, with a considerable reduction of computational.
 
 As we'll discuss, often the true test of these techniques is their ability to match observed phenomena in large, long simulations!
 
@@ -35,7 +37,6 @@ As we'll discuss, often the true test of these techniques is their ability to ma
 
 [4] S. Rasp, M. S. Pritchard, and P. Gentine, “Deep learning to represent subgrid processes in climate models,” PNAS, vol. 115, no. 39, pp. 9684–9689, Sep. 2018, doi: 10.1073/pnas.1810286115.
 
-## Past Topics
 
 ### 9. "The Best of All Possible Worlds" 30.06.20
 We consider the critically important and monstrously difficult problem of tuning climate model parameters to match observations (reviewed in [Hourdin et al., 2017](https://journals.ametsoc.org/bams/article/98/3/589/70022/The-Art-and-Science-of-Climate-Model-Tuning)). 
