@@ -27,6 +27,8 @@ Finally, we'll discuss how machine learning can be used to imitate the effect of
 
 As we'll discuss, often the true test of these techniques is their ability to match observed phenomena in large, long simulations!
 
+Postscript: As discussed in the seminar, it's not totally clear why the MJO moves east, but there are some interesting theories as to why[5] (thanks to Eduardo Zorita for the reference).
+
 [1] T. Schneider et al., “Climate goals and computing the future of clouds,” Nature Clim Change, vol. 7, no. 1, pp. 3–5, Jan. 2017, doi: 10.1038/nclimate3190.
 
 [2] M. Khairoutdinov, D. Randall, and C. DeMott, “Simulations of the Atmospheric General Circulation Using a Cloud-Resolving Model as a Superparameterization of Physical Processes,” J. Atmos. Sci., vol. 62, no. 7, pp. 2136–2154, Jul. 2005, doi: 10.1175/JAS3453.1.
@@ -34,6 +36,9 @@ As we'll discuss, often the true test of these techniques is their ability to ma
 [3] M. S. Pritchard, C. S. Bretherton, and C. A. DeMott, “Restricting 32–128 km horizontal scales hardly affects the MJO in the Superparameterized Community Atmosphere Model v.3.0 but the number of cloud-resolving grid columns constrains vertical mixing,” Journal of Advances in Modeling Earth Systems, vol. 6, no. 3, pp. 723–739, 2014, doi: 10.1002/2014MS000340.
 
 [4] S. Rasp, M. S. Pritchard, and P. Gentine, “Deep learning to represent subgrid processes in climate models,” PNAS, vol. 115, no. 39, pp. 9684–9689, Sep. 2018, doi: 10.1073/pnas.1810286115.
+
+[5] B. Wang, F. Liu, and G. Chen, “A trio-interaction theory for Madden–Julian oscillation,” Geosci. Lett., vol. 3, no. 1, p. 34, Dec. 2016, doi: 10.1186/s40562-016-0066-z.
+
 
 ## Past Topics
 
