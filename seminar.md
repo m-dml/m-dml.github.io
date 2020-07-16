@@ -15,6 +15,8 @@ To get updates about each meeting or suggest a topic, please [join our mailing l
 
 ### 11. TBA 28.07.20
 
+## Past Topics
+
 ### 10. "Try to look like a little black cloud" 14.07.20
 
 In light of recent meteorological events in Hamburg, the next ML@HZG seminar will focus on clouds.
@@ -27,7 +29,7 @@ Finally, we'll discuss how machine learning can be used to imitate the effect of
 
 As we'll discuss, often the true test of these techniques is their ability to match observed phenomena in large, long simulations!
 
-Postscript: As discussed in the seminar, it's not totally clear why the MJO moves east, but there are some interesting theories as to why[5] (thanks to Eduardo Zorita for the reference).
+Postscript: as discussed in the seminar, it's not totally clear why the MJO moves east, but there are some interesting theories as to why[5] (thanks to Eduardo Zorita for the reference).
 
 [1] T. Schneider et al., “Climate goals and computing the future of clouds,” Nature Clim Change, vol. 7, no. 1, pp. 3–5, Jan. 2017, doi: 10.1038/nclimate3190.
 
@@ -38,9 +40,9 @@ Postscript: As discussed in the seminar, it's not totally clear why the MJO move
 [4] S. Rasp, M. S. Pritchard, and P. Gentine, “Deep learning to represent subgrid processes in climate models,” PNAS, vol. 115, no. 39, pp. 9684–9689, Sep. 2018, doi: 10.1073/pnas.1810286115.
 
 [5] B. Wang, F. Liu, and G. Chen, “A trio-interaction theory for Madden–Julian oscillation,” Geosci. Lett., vol. 3, no. 1, p. 34, Dec. 2016, doi: 10.1186/s40562-016-0066-z.
-
-
-## Past Topics
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XyPLZbQ3Fps" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/>
+<br/>
 
 ### 9. "The Best of All Possible Worlds" 30.06.20
 We consider the critically important and monstrously difficult problem of tuning climate model parameters to match observations (reviewed in [Hourdin et al., 2017](https://journals.ametsoc.org/bams/article/98/3/589/70022/The-Art-and-Science-of-Climate-Model-Tuning)). 
