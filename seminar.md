@@ -13,7 +13,31 @@ To get updates about each meeting or suggest a topic, please [join our mailing l
 
 ## Future Topics
 
-### 11. TBA 28.07.20
+### 12. TBA 11.08.20
+
+### 11. "Teach Yourself Physics in 2 Million Easy Steps" 28.07.20
+In this episode we discuss "Learning to Simulate Complex Physics with Graph Networks" [1], a recent study using deep learning to emulate physical dynamical systems.
+
+We have already encountered several approaches to predicting physical systems in previous seminars (episodes 3, 4, 7 & 9). Typically, a machine learning model is trained on data generated with a numerical solver to predict a (partial) system state many time steps ahead, using the current (partial) system state as input. The network solves the task in a way that bears little, if any resemblance to the numerical solver used to generate its training data.
+
+Here, the authors follow another approach [2], where the machine learning model is trained explicitly to reproduce or "emulate" the behavior of the numerical solver over individual numerical integration steps. We will discuss how learning to carry out single-time-step updates offers certain advantages over learning to predict the future directly from the present as the learning problem is very well posed conceptually and mathematically. However, a critical concern is whether the solutions of this 'learned simulation' stay realistic over many integration steps when using the emulator network instead of the numerical solver.
+
+Another twist for the upcoming session will be that the dynamical systems studied are multi-body systems, i.e. they consist of a fixed number of discrete interacting objects. To learn state predictions on this kind of data, the authors designed their own Interaction Network [3], which is a subclass of so-called Graph Neural Networks. GNNs [4] have become a very active and vast topic of research over the past years that we can only briefly touch upon in our session.
+
+
+Main paper:
+[1] A. Sanchez-Gonzalez, J. Godwin, T. Pfaff, R. Ying, J. Leskovec, and P. W. Battaglia, “Learning to Simulate Complex Physics with Graph Networks,” arXiv:2002.09405 [physics, stat], Feb. 2020, Accessed: Jun. 27, 2020. http://arxiv.org/abs/2002.09405.
+
+Additional Background:
+[2] R. Grzeszczuk, D. Terzopoulos, and G. E. Hinton, “Fast Neural Network Emulation of Dynamical Systems for Computer Animation,” in Advances in Neural Information Processing Systems 11, M. J. Kearns, S. A. Solla, and D. A. Cohn, Eds. MIT Press, 1999, pp. 882–888. https://papers.nips.cc/paper/1562-fast-neural-network-emulation-of-dynamical-systems-for-computer-animation
+
+[3] P. W. Battaglia, R. Pascanu, M. Lai, D. Rezende, and K. Kavukcuoglu, “Interaction Networks for Learning about Objects, Relations and Physics,” arXiv:1612.00222 [cs], Dec. 2016, Accessed: Jul. 16, 2020. [Online]. Available: http://arxiv.org/abs/1612.00222.
+
+Further reading:
+[4] J. Zhou et al., “Graph Neural Networks: A Review of Methods and Applications,” arXiv:1812.08434 [cs, stat], Jul. 2019, Accessed: Jul. 16, 2020. [Online]. Available: http://arxiv.org/abs/1812.08434.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o7AwB-7TW-Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/>
+<br/>
 
 ## Past Topics
 
