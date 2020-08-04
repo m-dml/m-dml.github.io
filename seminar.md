@@ -13,7 +13,28 @@ To get updates about each meeting or suggest a topic, please [join our mailing l
 
 ## Future Topics
 
-### 12. TBA 11.08.20
+### 13. TBA 25.08.20
+
+### 12. "The Big Picture" 11.08.20
+We discuss "Adversarial Super-resolution of Climatological Wind and Solar Data" [1], a recent study using Generative Adversarial Networks (GANs) with convolutional layers to increase the resolution of wind and irradiance fields output by climate models. This study uses high-resolution data to train a neural network to generate high-res from low-res data.
+
+This week's topic is related to several previous themes: we covered GANs in episode 5 ("Real Fake Clouds"), and addressed a related problem of filling in missing data using convolutional networks in episode 8 ("Uncharted History").
+
+We'll discuss the approach taken in this paper, describe the Machine Learning tool SRGAN which it uses [2], and debate the conceptual issues that arise when using ML to "invent" new pixel outputs for your model. We'll also mention how GAN-based superresolution can introduce bias into results [3], and what this could mean for climate and earth science applications.
+
+Main paper:
+[1] Stengel et al., “Adversarial super-resolution of climatological wind and solar data,” PNAS July, 2020. https://www.pnas.org/content/117/29/16805
+
+Technical Background:
+[2] Ledi et al., "Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network", arXiv 2016. https://arxiv.org/abs/1609.04802
+
+Blog post on bias in GANs for SR:
+[3] https://www.theverge.com/21298762/face-depixelizer-ai-machine-learning-tool-pulse-stylegan-obama-bias
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i4n28Xh_eQo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/>
+<br/>
+
+## Past Topics
 
 ### 11. "Teach Yourself Physics in 2 Million Easy Steps" 28.07.20
 In this episode we discuss "Learning to Simulate Complex Physics with Graph Networks" [1], a recent study using deep learning to emulate physical dynamical systems.
@@ -38,8 +59,6 @@ Further reading:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o7AwB-7TW-Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br/>
 <br/>
-
-## Past Topics
 
 ### 10. "Try to look like a little black cloud" 14.07.20
 
@@ -69,7 +88,7 @@ Postscript: as discussed in the seminar, it's not totally clear why the MJO move
 <br/>
 
 ### 9. "The Best of All Possible Worlds" 30.06.20
-We consider the critically important and monstrously difficult problem of tuning climate model parameters to match observations (reviewed in [Hourdin et al., 2017](https://journals.ametsoc.org/bams/article/98/3/589/70022/The-Art-and-Science-of-Climate-Model-Tuning)). 
+We consider the critically important and monstrously difficult problem of tuning climate model parameters to match observations (reviewed in [Hourdin et al., 2017](https://journals.ametsoc.org/bams/article/98/3/589/70022/The-Art-and-Science-of-Climate-Model-Tuning)).
 
 This process is quite challenging, because:
 * Testing new parameter combinations through simulation incurs an immense computational cost.
@@ -102,7 +121,7 @@ For those interested in the underlying ML methods, this session will be about au
 
 * [Autoencoders](https://www.jeremyjordan.me/autoencoders/) train pairs of neural networks for unsupervised learning of data representations, and Wiewel et al. use them to compress the high-dimensional volumetric fluid data.
 * Sequence-to-sequence models allow to predict a variable-length output sequence from a variable-length input sequence, using a pair of recurrent neural networks. "seq2seq" [originated in natural language processing](https://arxiv.org/abs/1409.3215), but as we will see it can also be used to predict sequences of 3D images.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gxpy24NYjd8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gxpy24NYjd8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br/>
 <br/>
 
@@ -166,7 +185,7 @@ We cover Google Research's recent work on weather prediction: "MetNet: A Neural 
 [paper](https://arxiv.org/pdf/2003.12140.pdf), [blog post](https://ai.googleblog.com/2020/03/a-neural-weather-model-for-eight-hour.html)
 
 To understand the ML tools that went into this work, we briefly review some concepts from earlier works:
-* The convolutional LSTM, which combines convolutional and recurrent neural nets into a single architecture, as introduced by Xingjian et al. in 2015. [paper](http://papers.nips.cc/paper/5955-convolutional-lstm-network-a-machine-learning-approach-for-precipitation-nowcasting.pdf). [Review on LSTMs](Christopher Olah's reivew of LSTMs https://colah.github.io/about.html) by Christopher Olah. 
+* The convolutional LSTM, which combines convolutional and recurrent neural nets into a single architecture, as introduced by Xingjian et al. in 2015. [paper](http://papers.nips.cc/paper/5955-convolutional-lstm-network-a-machine-learning-approach-for-precipitation-nowcasting.pdf). [Review on LSTMs](Christopher Olah's reivew of LSTMs https://colah.github.io/about.html) by Christopher Olah.
 * Self-attention and the Transformer architecture, introduced by Vaswani et al. in 2017 https://arxiv.org/pdf/1706.03762.pdf, provide a new alternative to convolutional and recurrent nets. MetNet uses a specialized variant called Axial Attention (Ho et al., 2019)[paper](https://arxiv.org/pdf/1912.12180.pdf). We'll turn to a [blog post](http://www.peterbloem.nl/blog/transformers) by Peter Bloem for helpful illustrations. For further reading on the attention concept, see Lillian Weng's excellent [blog post](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html#transformer)
 
 With these concepts in mind, we examine how MetNet combines them, and consider their results from the perspectives of both ML and weather prediction.
