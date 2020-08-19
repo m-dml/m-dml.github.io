@@ -13,7 +13,18 @@ To get updates about each meeting or suggest a topic, please [join our mailing l
 
 ## Future Topics
 
-### 13. TBA 25.08.20
+### 13. "Model Data for the Data Models" 25.08.20
+We discuss "Purely data-driven medium-range weather forecasting achieves comparable skill to physical models at similar resolution," Rasp et al. 2020. This recent work builds machine learning tools for weather prediction to compete with physics based approaches. Stephan Rasp will return to the seminar to discuss his recent work on predicting temperature, geopotential and precipitation up to 5 days in the future, published just today on arXiv!
+
+The [Weatherbench](https://arxiv.org/abs/2002.00469) benchmark for evaluating these techniques was proposed early this year, also by Rasp et al.
+A key contributor to the performance increases in the current work was expanding the training available data beyond the weather that has actually occurred in the recorded past, by including other hypothetical situations realized through global climate modeling.
+
+We discuss many conceptual and practical questions that arise when attempting to predict weather in this way, and consider what the future might hold for data-driven weather prediction.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/77aSvukSzL0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/>
+<br/>
+
+## Past Topics
 
 ### 12. "The Big Picture" 11.08.20
 We discuss "Adversarial Super-resolution of Climatological Wind and Solar Data" [1], a recent study using Generative Adversarial Networks (GANs) with convolutional layers to increase the resolution of wind and irradiance fields output by climate models. This study uses high-resolution data to train a neural network to generate high-res from low-res data.
@@ -33,8 +44,6 @@ Blog post on bias in GANs for SR:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i4n28Xh_eQo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br/>
 <br/>
-
-## Past Topics
 
 ### 11. "Teach Yourself Physics in 2 Million Easy Steps" 28.07.20
 In this episode we discuss "Learning to Simulate Complex Physics with Graph Networks" [1], a recent study using deep learning to emulate physical dynamical systems.
