@@ -13,6 +13,18 @@ To get updates about each meeting or suggest a topic, please [join our mailing l
 
 ## Future Topics
 
+### 14. "When are we?" 08.09.20
+We discuss "Viewing Forced Climate Patterns Through an AI Lens," Barnes et al. 2019 [pdf](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2019GL084944)
+
+This paper takes up the task of finding features of meteorological fields (in this case temperature and precipitation) that be used to identify climate forcing (such as anthropogenic carbon emissions, or natural forcing due to volcanoes etc.).
+
+The paper uses extremely small and simple feedforward neural networks, but with a clever trick -- it trains these networks to predict the year of a climate simulation with simulated anthropogenic forcing from the meteorological fields. Remarkably, when trained in the right way these same networks then perform well at identifying the year from these same fields in historical observational datasets! The simple neural networks are then analyzed to determine which features they have learned.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xBV1MGu-JG0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/>
+<br/>
+
+## Past Topics
+
 ### 13. "Model Data for the Data Models" 25.08.20
 We discuss "Purely data-driven medium-range weather forecasting achieves comparable skill to physical models at similar resolution," Rasp et al. 2020. This recent work builds machine learning tools for weather prediction to compete with physics based approaches. Stephan Rasp will return to the seminar to discuss his recent work on predicting temperature, geopotential and precipitation up to 5 days in the future, published just today on arXiv!
 
@@ -23,8 +35,6 @@ We discuss many conceptual and practical questions that arise when attempting to
 <iframe width="560" height="315" src="https://www.youtube.com/embed/77aSvukSzL0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br/>
 <br/>
-
-## Past Topics
 
 ### 12. "The Big Picture" 11.08.20
 We discuss "Adversarial Super-resolution of Climatological Wind and Solar Data" [1], a recent study using Generative Adversarial Networks (GANs) with convolutional layers to increase the resolution of wind and irradiance fields output by climate models. This study uses high-resolution data to train a neural network to generate high-res from low-res data.
