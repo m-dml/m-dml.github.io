@@ -12,7 +12,9 @@ The seminar also allows members of the Hamburg machine learning community to con
 To get updates about each meeting or suggest a topic, please [join our mailing list](https://groups.google.com/forum/#!forum/mlhzg/join).
 
 ## Future Topics
+### 15. TBA 22.09.20
 
+## Past Topics
 ### 14. "When are we?" 08.09.20
 We discuss "Viewing Forced Climate Patterns Through an AI Lens," Barnes et al. 2019 [pdf](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2019GL084944)
 
@@ -22,8 +24,6 @@ The paper uses extremely small and simple feedforward neural networks, but with 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xBV1MGu-JG0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br/>
 <br/>
-
-## Past Topics
 
 ### 13. "Model Data for the Data Models" 25.08.20
 We discuss "Purely data-driven medium-range weather forecasting achieves comparable skill to physical models at similar resolution," Rasp et al. 2020. This recent work builds machine learning tools for weather prediction to compete with physics based approaches. Stephan Rasp will return to the seminar to discuss his recent work on predicting temperature, geopotential and precipitation up to 5 days in the future, published just today on arXiv!
