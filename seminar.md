@@ -12,8 +12,20 @@ The seminar also allows members of the Hamburg machine learning community to con
 To get updates about each meeting or suggest a topic, please [join our mailing list](https://groups.google.com/forum/#!forum/mlhzg/join).
 
 ## Future Topics
-### 15. TBA 22.09.20
+### "Smooth Criminals" 15. 22.09.20
+This week we discuss "Learning Temporal Coherence via Self-Supervision for GAN-based Video Generation" by Chu et al. 2020. [pdf](https://arxiv.org/pdf/1811.09393.pdf) [15]
 
+They address the issue of GANs for video editing tasks usually would induce flickering or other artifacts. Thanks
+to the spatio-temporal discriminator together with their “Ping-Pong loss” they outperform many previous approaches.
+
+The results are presented on the tasks of unpaired video translation, as well as video super resolution. In our seminar
+we will discuss how these techniques can be used in GANs for Earth-Science tasks.
+
+[15] Chu, M., Xie, Y., Mayer, J., Leal-Taixé, L., & Thuerey, N. (2020). Learning temporal coherence via self-supervision for GAN-based video generation. ACM Transactions on Graphics (TOG), 39(4), 75-1.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PeP6wrTbWHo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/>
+<br/>
 ## Past Topics
 ### 14. "When are we?" 08.09.20
 We discuss "Viewing Forced Climate Patterns Through an AI Lens," Barnes et al. 2019 [pdf](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2019GL084944)
