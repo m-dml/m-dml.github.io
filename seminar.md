@@ -23,6 +23,7 @@ Guo, C., Pleiss, G., Sun, Y. & Weinberger, K. Q. On calibration of modern neural
 <br/>
 <br/>
 
+## Past Topics
 ### "Smooth Criminals" 15. 22.09.20
 This week we discuss "Learning Temporal Coherence via Self-Supervision for GAN-based Video Generation" by Chu et al. 2020. [pdf](https://arxiv.org/pdf/1811.09393.pdf) [15]
 
@@ -37,7 +38,7 @@ we will discuss how these techniques can be used in GANs for Earth-Science tasks
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PeP6wrTbWHo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br/>
 <br/>
-## Past Topics
+
 ### 14. "When are we?" 08.09.20
 We discuss "Viewing Forced Climate Patterns Through an AI Lens," Barnes et al. 2019 [pdf](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2019GL084944)
 
