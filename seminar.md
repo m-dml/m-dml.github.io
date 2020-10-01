@@ -12,6 +12,17 @@ The seminar also allows members of the Hamburg machine learning community to con
 To get updates about each meeting or suggest a topic, please [join our mailing list](https://groups.google.com/forum/#!forum/mlhzg/join).
 
 ## Future Topics
+### "Known Unknowns" 06.10.20
+In our seminars so fo far we've considered many applications of supervised learning: given an input, our neural network is tasked with producing a correct output as demonstrated in a training set. However, as we have seen in some episdoes, in addition to predicting the correct output, neural networks can also quantify uncertainty, expressing how sure they are about their solution to the task at hand. Just like the accuracy of the network's predictions, we'd also like to quantify the accuracy of its uncertainty quantifications, asking in effect, "does the network know what it does and doesn't know?"
+
+The [paper for this week](https://dl.acm.org/doi/pdf/10.5555/3305381.3305518) investigates this in the context of image classification (assigning the correct label from a finite list of categories to each image), and comes up with a surprising result. While neural networks have increased in overall classification accuracy over the past two decades, their uncertainty quantifications have actually gotten worse! In particular these networks have become overconfident. The paper investigates several changes in network architecture and training procedures that may play a role in this change, and proposes a simple and effective procedure for making them less overconfident without strongly affecting their accuracy.
+
+[Main paper](https://dl.acm.org/doi/pdf/10.5555/3305381.3305518):
+Guo, C., Pleiss, G., Sun, Y. & Weinberger, K. Q. On calibration of modern neural networks. in Proceedings of the 34th International Conference on Machine Learning - Volume 70 1321–1330 (JMLR.org, 2017).
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l2elXAnEKA4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/>
+<br/>
+
 ### "Smooth Criminals" 15. 22.09.20
 This week we discuss "Learning Temporal Coherence via Self-Supervision for GAN-based Video Generation" by Chu et al. 2020. [pdf](https://arxiv.org/pdf/1811.09393.pdf) [15]
 
