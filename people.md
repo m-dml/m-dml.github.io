@@ -12,7 +12,7 @@ published: true
   </colgroup>
   <tr>
     <td style="vertical-align:middle">
-      <img align="center" src="david.png" width="100%" style="margin: 0px 0px 0px 0px">
+      <img align="center" src="dg.jpg" width="100%" style="margin: 0px 0px 0px 0px">
     </td>
     <td style="vertical-align:top; text-align:justify">
       <strong>David Greenberg</strong>
