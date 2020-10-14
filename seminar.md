@@ -12,6 +12,18 @@ The seminar also allows members of the Hamburg machine learning community to con
 To get updates about each meeting or suggest a topic, please [join our mailing list](https://groups.google.com/forum/#!forum/mlhzg/join).
 
 ## Future Topics
+### "Radiation Computation" 20.10.20
+
+The radiative transfer calculations in general circulation models often impose a computational challenge owing to the complexity of the current radiation models. This week, guest presenter Anikesh Pal (IIT Kanpur) will give an overview of these calculations, and describe his recent work at Oak Ridge National Laboratory on using neural networks to accelerate these computations.
+
+In this study, deep neural networks (DNNs) were implemented in the Super‐Parameterized Energy Exascale Earth System Model (SP‐E3SM) to imitate the shortwave and longwave radiative transfer calculations. These DNNs were able to emulate the radiation parameters with an accuracy of 90–95% at a cost of 8–10 times cheaper than the original radiation parameterization. A comparison of time‐averaged radiative fluxes and the prognostic variables manifested qualitative and quantitative similarity between the DNN emulation and the original parameterization. It has also been found that the differences between the DNN emulation and the original parameterization are comparable to the internal variability of the original parameterization. Although the DNNs developed in this investigation emulate the radiation parameters for a specific set of initial conditions, the results justify the need of further research to generalize the use of DNNs for the emulations of full model radiation and other parameterization for seasonal predictions and climate simulations.
+
+Main paper:
+
+[1] Pal, Anikesh, Salil Mahajan, and Matthew R. Norman. "Using Deep Neural Networks as Cost‐Effective Surrogate Models for Super‐Parameterized E3SM Radiative Transfer." Geophysical Research Letters 46.11 (2019): 6069-6079.
+[pdf](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2018GL081646)
+
+## Past Topics
 ### "Known Unknowns" 06.10.20
 In our seminars so fo far we've considered many applications of supervised learning: given an input, our neural network is tasked with producing a correct output as demonstrated in a training set. However, as we have seen in some episdoes, in addition to predicting the correct output, neural networks can also quantify uncertainty, expressing how sure they are about their solution to the task at hand. Just like the accuracy of the network's predictions, we'd also like to quantify the accuracy of its uncertainty quantifications, asking in effect, "does the network know what it does and doesn't know?"
 
@@ -23,7 +35,6 @@ Guo, C., Pleiss, G., Sun, Y. & Weinberger, K. Q. On calibration of modern neural
 <br/>
 <br/>
 
-## Past Topics
 ### "Smooth Criminals" 15. 22.09.20
 This week we discuss "Learning Temporal Coherence via Self-Supervision for GAN-based Video Generation" by Chu et al. 2020. [pdf](https://arxiv.org/pdf/1811.09393.pdf) [15]
 
