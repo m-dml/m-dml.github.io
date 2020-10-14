@@ -22,6 +22,9 @@ Main paper:
 
 [1] Pal, Anikesh, Salil Mahajan, and Matthew R. Norman. "Using Deep Neural Networks as Cost‐Effective Surrogate Models for Super‐Parameterized E3SM Radiative Transfer." Geophysical Research Letters 46.11 (2019): 6069-6079.
 [pdf](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2018GL081646)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OjYhh68aXMg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/>
+<br/>
 
 ## Past Topics
 ### "Known Unknowns" 06.10.20
