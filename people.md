@@ -33,4 +33,16 @@ published: true
       Marcel joined the lab in February 2020 and works on data-driven weather prediction. He's interested in representing prediction uncertainty through probability distributions. During his PhD in computational neuroscience, he worked on probabilistic modeling for incomplete data and black-box Bayesian inference.
     </td>
   </tr>
+    <tr>
+    <td style="vertical-align:middle">
+      <img align="center" src="tobi.png" width="100%" style="margin: 0px 0px 0px 0px">
+    </td>
+    <td style="vertical-align:top; text-align:justify">
+      <strong>Tobias Machnitzki</strong><br/>
+      PhD Student<br/><br/><br/>
+      Tobias started his PhD in the m-dml group in August 2020, after finishing his Masters in Meteorology at the University of Hamburg. 
+      He works on conditional generative adversarial networks with the intention to use their output diversity for estimating uncertainties 
+      in weather prediction tasks.
+    </td>
+  </tr>
 </table> 
