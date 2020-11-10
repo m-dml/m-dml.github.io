@@ -13,7 +13,20 @@ To get updates about each meeting or suggest a topic, please [join our mailing l
 
 ## Future Topics
 
-### "Baking a Model from Scratch" 03.11.20
+### 19. "Durable Physics"
+Shivani Sharma will present “Use of neural networks for stable, accurate and physically consistent parameterization of subgrid atmospheric processes with good performance at reduced precision,” Yuval et al., 2020.[pdf](https://arxiv.org/pdf/2010.09947.pdf)
+
+As in Episode 10, this paper uses machine learning to replace physical parameterizations in an atmospheric model. However, the current paper is focused on a specific fundamental challenge: even when error appears low on training data with known inputs and outputs for the target parameterization, long-term simulations can “blow up” numerically, or exhibit unrealistic phenomena such as [grid scale storms](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018GL078510) or [double ITCZ](https://www.pnas.org/content/115/39/9684).
+
+To overcome this “fragility” in the coupled simulations, the authors propose a “durable” approach incorporating physical constraints, prediction of fluxes instead of tendencies and careful selection of diagnostic variables. They demonstrate this strategy using both random forests (which we will briefly review) and neural networks. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9stE7uHyJuE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/>
+<br/>
+
+
+## Past Topics
+
+### 18. "Baking a Model from Scratch" 03.11.20
 We discuss recent advances of using ML to learn dynamics from observational data.
 
 In our last seminar, we already talked about transferring physical knowledge from a given dynamical model or parameterization to a ML model via training the latter on simulated data. An ambitious further step is to train an ML model directly on observational data, without the need of a physics-derived model of dynamics.
@@ -26,15 +39,15 @@ Main paper:
 
 [1] Brajard, J., Carassi, A., Bocquet, M., & Bertino, L. (2020). Combining data assimilation and machine learning to emulate a dynamical model from sparse and noisy observations: a case study with the Lorenz 96 model. [arXiv preprint arXiv:2001.01520](https://arxiv.org/abs/2001.01520).
 
-
 Supporting paper:
 
 [2] Bocquet, M., Brajard, J., Carrassi, A., & Bertino, L. (2020). Bayesian inference of chaotic dynamics by merging data assimilation, machine learning and expectation-maximization. Foundations of Data Science, 2(1), 55-80. [arXiv version](https://arxiv.org/abs/2001.06270)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tgOwWMQHHc8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<br/>
+<br/>
 
-## Past Topics
 
-### "Radiation Computation" 20.10.20
+### 17. "Radiation Computation" 20.10.20
 
 The radiative transfer calculations in general circulation models often impose a computational challenge owing to the complexity of the current radiation models. This week, guest presenter Anikesh Pal (IIT Kanpur) will give an overview of these calculations, and describe his recent work at Oak Ridge National Laboratory on using neural networks to accelerate these computations.
 
@@ -47,7 +60,6 @@ Main paper:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OjYhh68aXMg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br/>
 <br/>
-
 
 ### "Known Unknowns" 06.10.20
 In our seminars so fo far we've considered many applications of supervised learning: given an input, our neural network is tasked with producing a correct output as demonstrated in a training set. However, as we have seen in some episdoes, in addition to predicting the correct output, neural networks can also quantify uncertainty, expressing how sure they are about their solution to the task at hand. Just like the accuracy of the network's predictions, we'd also like to quantify the accuracy of its uncertainty quantifications, asking in effect, "does the network know what it does and doesn't know?"
