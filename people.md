@@ -48,7 +48,7 @@ published: true
   
   <tr>
     <td style="vertical-align:middle">
-      <img align="center" src="Kubi.png" width="100%" style="margin: 0px 0px 0px 0px">
+      <img align="center" src="Kubi.jpeg" width="100%" style="margin: 0px 0px 0px 0px">
     </td>
     <td style="vertical-align:top; text-align:justify">
       <strong>Kubilay Demir</strong><br/>
