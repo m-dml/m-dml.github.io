@@ -33,7 +33,7 @@ published: true
       Marcel joined the lab in February 2020 and works on data-driven weather prediction. He's interested in representing prediction uncertainty through probability distributions. During his PhD in computational neuroscience, he worked on probabilistic modeling for incomplete data and black-box Bayesian inference.
     </td>
   </tr>
-    <tr>
+  <tr>
     <td style="vertical-align:middle">
       <img align="center" src="tobi.png" width="100%" style="margin: 0px 0px 0px 0px">
     </td>
@@ -43,6 +43,18 @@ published: true
       Tobias started his PhD in the m-dml group in August 2020, after finishing his Masters in Meteorology at the University of Hamburg. 
       He works on conditional generative adversarial networks with the intention to use their output diversity for estimating uncertainties 
       in weather prediction tasks.
+    </td>
+  </tr>
+  
+  <tr>
+    <td style="vertical-align:middle">
+      <img align="center" src="Kubi.png" width="100%" style="margin: 0px 0px 0px 0px">
+    </td>
+    <td style="vertical-align:top; text-align:justify">
+      <strong>Kubilay Demir</strong><br/>
+      Masters Student<br/><br/><br/>
+      Kubilay is enrolled in the MSc. program in Ocean and Climate Physics at the University of Hamburg. His research, carried out jointly with [Kai Loggeman](https://www.hzg.de/institutes_platforms/coastal_research/system_analysis/matter_transport/staff/065065/index.php.en) at HZG, applying the principle of Physics Informed Neural Networks to oceanographic problems.
+       
     </td>
   </tr>
 </table> 
