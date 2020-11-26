@@ -12,8 +12,19 @@ The seminar also allows members of the Hamburg machine learning community to con
 To get updates about each meeting or suggest a topic, please [join our mailing list](https://groups.google.com/forum/#!forum/mlhzg/join).
 
 ## Future Topics
+### 20. "Turning the Tide" 01.12.20
+Zegou Zhang will present "Reconstruction of the Basin-Wide Sea Level Variability in the North Sea Using Coastal Data and Generative Adversarial Networks,"[pdf](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2020JC016402) recently published from the from the [Hydrodynamics and Data Assimilation](https://www.hzg.de/institutes_platforms/coastal_research/system_analysis/data_analysis_assimilation/index.php.en) group at HZG together with  Sebastian Grayek and Emil Stanev.
 
-### 19. "Durable Physics"
+This paper uses adversarial networks to predict sea level across the North sea, and achieves excellent agreement with sophisticated operational forecasting systems by applying machine learning to only a small number of tidal gauge readings. It combines many important concepts we've seen in previous seminars, including forecasting, conditional GANs and U-nets. Unlike most of our previous papers, however, this work takes these concepts to the point of generating useful outputs for a real physical and geographic system.
+
+Zegou will help us understand the data being used, the problem being solved, and how ML was applied. This presentation presents a great opportunity to ask questions to someone with hands on experience working with both oceanographic data and ML methods! 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bT6xoOEIBlM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/>
+<br/>
+
+## Past Topics
+### 19. "Durable Physics" 17.11.20
 Shivani Sharma will present “Use of neural networks for stable, accurate and physically consistent parameterization of subgrid atmospheric processes with good performance at reduced precision,” Yuval et al., 2020.[pdf](https://arxiv.org/pdf/2010.09947.pdf)
 
 As in Episode 10, this paper uses machine learning to replace physical parameterizations in an atmospheric model. However, the current paper is focused on a specific fundamental challenge: even when error appears low on training data with known inputs and outputs for the target parameterization, long-term simulations can “blow up” numerically, or exhibit unrealistic phenomena such as [grid scale storms](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018GL078510) or [double ITCZ](https://www.pnas.org/content/115/39/9684).
@@ -23,8 +34,6 @@ To overcome this “fragility” in the coupled simulations, the authors propose
 <br/>
 <br/>
 
-
-## Past Topics
 
 ### 18. "Baking a Model from Scratch" 03.11.20
 We discuss recent advances of using ML to learn dynamics from observational data.
