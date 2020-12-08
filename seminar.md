@@ -12,6 +12,9 @@ The seminar also allows members of the Hamburg machine learning community to con
 To get updates about each meeting or suggest a topic, please [join our mailing list](https://groups.google.com/forum/#!forum/mlhzg/join).
 
 ## Future Topics
+Our seminar is currently on holiday break and will return in early 2021.
+
+## Past Topics
 ### 20. "Turning the Tide" 01.12.20
 Zegou Zhang will present "Reconstruction of the Basin-Wide Sea Level Variability in the North Sea Using Coastal Data and Generative Adversarial Networks,"[pdf](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2020JC016402) recently published from the from the [Hydrodynamics and Data Assimilation](https://www.hzg.de/institutes_platforms/coastal_research/system_analysis/data_analysis_assimilation/index.php.en) group at HZG together with  Sebastian Grayek and Emil Stanev.
 
@@ -23,7 +26,6 @@ Zegou will help us understand the data being used, the problem being solved, and
 <br/>
 <br/>
 
-## Past Topics
 ### 19. "Durable Physics" 17.11.20
 Shivani Sharma will present “Use of neural networks for stable, accurate and physically consistent parameterization of subgrid atmospheric processes with good performance at reduced precision,” Yuval et al., 2020.[pdf](https://arxiv.org/pdf/2010.09947.pdf)
 
