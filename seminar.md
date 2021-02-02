@@ -12,7 +12,14 @@ The seminar also allows members of the Hamburg machine learning community to con
 To get updates about each meeting or suggest a topic, please [join our mailing list](https://groups.google.com/forum/#!forum/mlhzg/join).
 
 ## Future Topics
-Our seminar is currently on holiday break and will return in early 2021.
+### 21. "Lessons from History" 09.02.21
+This paper addresses an important problem that has come up often in previous seminars, as well as in many internal discussions in our research group: how can we learn improved parameterizations and corrections for climate and weather model, without differentiating through the model's dynamics and physics? This is a very pressing issue in the near term as the gap between useful nondifferentiable models and differentiable toy models remains quite large.
+
+This study offers a fresh and promising new approach. Instead of using expensive high-resolution simulations as training or imitating existing parameterizations with all their limitations, the authors propose learning additive corrections to the model so that it behaves more like an reanalysis dataset! We will discuss the specifics, advantages and limitations of this approach. The method uses random forests, which we covered previously in episode 19.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KMNp2GN1ujY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/>
+<br/>
 
 ## Past Topics
 ### 20. "Turning the Tide" 01.12.20
