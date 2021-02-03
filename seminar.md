@@ -13,6 +13,8 @@ To get updates about each meeting or suggest a topic, please [join our mailing l
 
 ## Future Topics
 ### 21. "Lessons from History" 09.02.21
+We discuss "Correcting weather and climate models by machine learning nudged historical simulations," Watt-Meyer et al., 2020. Geophysical Research Letters. [pdf](https://www.essoar.org/pdfjs/10.1002/essoar.10505959.1)
+
 This paper addresses an important problem that has come up often in previous seminars, as well as in many internal discussions in our research group: how can we learn improved parameterizations and corrections for climate and weather model, without differentiating through the model's dynamics and physics? This is a very pressing issue in the near term as the gap between useful nondifferentiable models and differentiable toy models remains quite large.
 
 This study offers a fresh and promising new approach. Instead of using expensive high-resolution simulations as training or imitating existing parameterizations with all their limitations, the authors propose learning additive corrections to the model so that it behaves more like an reanalysis dataset! We will discuss the specifics, advantages and limitations of this approach. The method uses random forests, which we covered previously in episode 19.
