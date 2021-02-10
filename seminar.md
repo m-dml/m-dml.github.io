@@ -12,6 +12,18 @@ The seminar also allows members of the Hamburg machine learning community to con
 To get updates about each meeting or suggest a topic, please [join our mailing list](https://groups.google.com/forum/#!forum/mlhzg/join).
 
 ## Future Topics
+### 22. "Superdroplet Surprise" 23.02.21
+On Tuesday, February 23 at 3 PM (GMT+1), we'll discuss "Potential and Limitations of Machine Learning for Modeling Warm-Rain Cloud Microphysical Processes."[paper](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020MS002301) We're excited to announce that the first author, Axel Seifert from the German Weather Service (DWD), will be joining us!
+
+This paper address the microphysical processes through which water droplets combine to form raindrops in clouds. While climate and weather models use simplified parametrizations such as bulk moment schemes to describe the complex evolution of the droplet size distribution over time, the computationally intensive superdroplet scheme[paper](https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.441) can give a more precise and realistic answer. We will review the basics of these approaches before delving into the main paper.
+
+This paper uses machine learning to train a fast surrogate for the superdroplet scheme. Surprisingly, while a neural network can learn a faithful bulk-moment representation of superdroplet physics, the simplified parameterization performs better at capturing the long term dynamics of the droplet size distribution. The reasons for this are explained by the paper, which reveals some counterintuitive and important insights that are bound to be highly relevant for the design of ML-based physical parametrizations in the future.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rl4Wi-M6aNE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/>
+<br/>
+
+
+## Past Topics
 ### 21. "Lessons from History" 09.02.21
 We discuss "Correcting weather and climate models by machine learning nudged historical simulations," Watt-Meyer et al., 2020. Geophysical Research Letters. [pdf](https://www.essoar.org/pdfjs/10.1002/essoar.10505959.1)
 
@@ -23,7 +35,6 @@ This study offers a fresh and promising new approach. Instead of using expensive
 <br/>
 <br/>
 
-## Past Topics
 ### 20. "Turning the Tide" 01.12.20
 Zegou Zhang will present "Reconstruction of the Basin-Wide Sea Level Variability in the North Sea Using Coastal Data and Generative Adversarial Networks,"[pdf](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2020JC016402) recently published from the from the [Hydrodynamics and Data Assimilation](https://www.hzg.de/institutes_platforms/coastal_research/system_analysis/data_analysis_assimilation/index.php.en) group at HZG together with  Sebastian Grayek and Emil Stanev.
 
