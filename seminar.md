@@ -12,6 +12,19 @@ The seminar also allows members of the Hamburg machine learning community to con
 To get updates about each meeting or suggest a topic, please [join our mailing list](https://groups.google.com/forum/#!forum/mlhzg/join).
 
 ## Future Topics
+### 23. ""Neural differential equations for Mixology" 09.03.21
+On Tuesday, March 9 at 3 PM (GMT+1), we'll discuss "Capturing missing physics in climate model parameterizations using neural differential equations" [[paper]](https://arxiv.org/abs/2010.12559). 
+
+This paper is about learning a convective adjustment parameterization within a simple ocean model [[website]](https://clima.github.io/OceananigansDocumentation/stable/gallery/).
+Just like in our last seminar, the parameterization at hand is given by a differential equation, and the target of the ML model is its right-hand side. In this paper however, the authors make use of recent developments in the field of trainable differential equations [[paper]](https://arxiv.org/abs/2001.04385) to directly optimize over the solutions of the partial differential equation.
+
+We will discuss the main paper and the underlying ML method "neural differential equations", and also have a quick look at the Oceananigans package used for the simulation.  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yB_rl-6aUiU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/>
+<br/>
+
+
+## Past Topics
 ### 22. "Superdroplet Surprise" 23.02.21
 On Tuesday, February 23 at 3 PM (GMT+1), we'll discuss "Potential and Limitations of Machine Learning for Modeling Warm-Rain Cloud Microphysical Processes."[paper](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020MS002301) We're excited to announce that the first author, Axel Seifert from the German Weather Service (DWD), will be joining us!
 
@@ -23,7 +36,6 @@ This paper uses machine learning to train a fast surrogate for the superdroplet 
 <br/>
 
 
-## Past Topics
 ### 21. "Lessons from History" 09.02.21
 We discuss "Correcting weather and climate models by machine learning nudged historical simulations," Watt-Meyer et al., 2020. Geophysical Research Letters. [pdf](https://www.essoar.org/pdfjs/10.1002/essoar.10505959.1)
 
