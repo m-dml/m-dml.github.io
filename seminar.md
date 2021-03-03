@@ -12,7 +12,7 @@ The seminar also allows members of the Hamburg machine learning community to con
 To get updates about each meeting or suggest a topic, please [join our mailing list](https://groups.google.com/forum/#!forum/mlhzg/join).
 
 ## Future Topics
-### 23. ""Neural differential equations for Mixology" 09.03.21
+### 23. "Neural differential equations for Mixology" 09.03.21
 On Tuesday, March 9 at 3 PM (GMT+1), we'll discuss "Capturing missing physics in climate model parameterizations using neural differential equations" [[paper]](https://arxiv.org/abs/2010.12559). 
 
 This paper is about learning a convective adjustment parameterization within a simple ocean model [[website]](https://clima.github.io/OceananigansDocumentation/stable/gallery/).
