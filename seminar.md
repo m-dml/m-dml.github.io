@@ -12,6 +12,10 @@ The seminar also allows members of the Hamburg machine learning community to con
 To get updates about each meeting or suggest a topic, please [join our mailing list](https://groups.google.com/forum/#!forum/mlhzg/join).
 
 ## Future Topics
+### 24. tba 23.03.21
+
+
+## Past Topics
 ### 23. "Neural differential equations for Mixology" 09.03.21
 On Tuesday, March 9 at 3 PM (GMT+1), we'll discuss "Capturing missing physics in climate model parameterizations using neural differential equations" [[paper]](https://arxiv.org/abs/2010.12559). 
 
@@ -24,7 +28,6 @@ We will discuss the main paper and the underlying ML method "neural differential
 <br/>
 
 
-## Past Topics
 ### 22. "Superdroplet Surprise" 23.02.21
 On Tuesday, February 23 at 3 PM (GMT+1), we'll discuss "Potential and Limitations of Machine Learning for Modeling Warm-Rain Cloud Microphysical Processes."[paper](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020MS002301) We're excited to announce that the first author, Axel Seifert from the German Weather Service (DWD), will be joining us!
 
