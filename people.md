@@ -66,6 +66,17 @@ published: true
       Kubilay is enrolled in the MSc. program in Ocean and Climate Physics at the University of Hamburg. His research, carried out jointly with <a href = "https://www.hzg.de/institutes_platforms/coastal_research/system_analysis/matter_transport/staff/065065/index.php.en">Kai Logemann</a> at HZG, applying the principle of Physics Informed Neural Networks to oceanographic problems.
     </td>
   </tr>
+
+  <tr>
+    <td style="vertical-align:middle">
+      <img align="center" src="vadim.jpeg" width="100%" style="margin: 0px 0px 0px 0px">
+    </td>
+    <td style="vertical-align:top; text-align:justify">
+      <strong>Vadim Zinchenko</strong><br/>
+      Masters Student<br/><br/><br/>
+      Vadim is a student of an international joint master program for Polar and Marine science between St. Petersburg State University (Russia) and Hamburg University. He works on a parameter tuning for Earth System Models using neural networks as conditional emulators and high order integration schemes.
+    </td>
+  </tr>
   
    
   
