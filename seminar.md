@@ -12,8 +12,17 @@ The seminar also allows members of the Hamburg machine learning community to con
 To get updates about each meeting or suggest a topic, please [join our mailing list](https://groups.google.com/forum/#!forum/mlhzg/join).
 
 ## Future Topics
-### 24. tba 23.03.21
+### 24. "ML Jenga" 23.03.21
 
+On Tuesday, March 23 at 3 PM (GMT+1), we will discuss the work of Franch et al. [Precipitation Nowcasting with Orographic Enhanced Stacked Generalization: Improving Deep Learning Predictions on Extreme Events](https://doi.org/10.3390/atmos11030267) and talk about their approach on creating an ensemble-based machine learning model for precipitation nowcasting with a focus on capturing extreme events.
+
+Franch et al. use an ensemble of neural networks and stack them in a clever way, which is a common thing to do when applying machine learning models in practice, but it is rarely seen in research. We will cover why that is and what makes model stacking so useful. 
+
+They also use a [newer version](https://arxiv.org/abs/1706.03458) of ConvLSTMs in an encoder-forecasting structure to do precipitation nowcasting. Because it has been nearly one year since we covered ConvLSTMs for precipitation forecasting in our seminar, we will give a little refresher on recurrent neural network architectures.
+
+<iframe width="560" height="315" src="https://youtu.be/RS_fkgiJV2A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/>
+<br/>
 
 ## Past Topics
 ### 23. "Neural differential equations for Mixology" 09.03.21
