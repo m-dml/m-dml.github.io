@@ -20,7 +20,7 @@ Franch et al. use an ensemble of neural networks and stack them in a clever way,
 
 They also use a [newer version](https://arxiv.org/abs/1706.03458) of ConvLSTMs in an encoder-forecasting structure to do precipitation nowcasting. Because it has been nearly one year since we covered ConvLSTMs for precipitation forecasting in our seminar, we will give a little refresher on recurrent neural network architectures.
 
-<iframe width="560" height="315" src="https://youtu.be/RS_fkgiJV2A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RS_fkgiJV2A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br/>
 <br/>
 
