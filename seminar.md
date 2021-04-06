@@ -20,6 +20,8 @@ The Navier Stokes equations provide the foundation for much of fluid dynamics, a
 Unlike PINNs, this new approach can also be applied to new initial conditions after training. We will discuss the mathematical tricks went into go into its construction, consider its advantages and disadvantages, and review some of the spectacular fluid dynamics it can produce, including some challenging examples at high Reynolds numbers.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IzJCeol-vSQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/>
+<br/>
 
 ## Past Topics
 ### 24. "ML Jenga" 23.03.21
