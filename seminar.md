@@ -12,8 +12,14 @@ The seminar also allows members of the Hamburg machine learning community to con
 To get updates about each meeting or suggest a topic, please [join our mailing list](https://groups.google.com/forum/#!forum/mlhzg/join).
 
 ## Future Topics
-### 25. "???" 06.04.21
+### 25. "Fluid Fluency" 06.04.21
+We'll discuss [Learning Incompressible Fluid Dynamics from Scratch -- Towards Fast, Differentiable Fluid Models that Generalize](https://arxiv.org/abs/2006.08762).  
 
+The Navier Stokes equations provide the foundation for much of fluid dynamics, and ultimately for models of the atmosphere and ocean. Wandel et al. describe a technique for solving the incompressible 2D NS equations using machine learning that combines important ideas from previous seminars and a number of remarkable new innovations. Like Physics Informed Neural Networks (PINNs, episode 1), this approach can be learned directly from the equations themselves, without requiring any numerical integrations as training data. 
+
+Unlike PINNs, this new approach can also be applied to new initial conditions after training. We will discuss the mathematical tricks went into go into its construction, consider its advantages and disadvantages, and review some of the spectacular fluid dynamics it can produce, including some challenging examples at high Reynolds numbers.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IzJCeol-vSQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Past Topics
 ### 24. "ML Jenga" 23.03.21
