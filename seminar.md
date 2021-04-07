@@ -12,6 +12,11 @@ The seminar also allows members of the Hamburg machine learning community to con
 To get updates about each meeting or suggest a topic, please [join our mailing list](https://groups.google.com/forum/#!forum/mlhzg/join).
 
 ## Future Topics
+### 26. tba 20.04.21
+
+
+## Past Topics
+
 ### 25. "Fluid Fluency" 06.04.21
 We'll discuss [Learning Incompressible Fluid Dynamics from Scratch -- Towards Fast, Differentiable Fluid Models that Generalize](https://arxiv.org/abs/2006.08762).  
 
@@ -23,7 +28,6 @@ Unlike PINNs, this new approach can also be applied to new initial conditions af
 <br/>
 <br/>
 
-## Past Topics
 ### 24. "ML Jenga" 23.03.21
 
 On Tuesday, March 23 at 3 PM (GMT+1), we will discuss the work of Franch et al. [Precipitation Nowcasting with Orographic Enhanced Stacked Generalization: Improving Deep Learning Predictions on Extreme Events](https://doi.org/10.3390/atmos11030267) and talk about their approach on creating an ensemble-based machine learning model for precipitation nowcasting with a focus on capturing extreme events.
