@@ -18,8 +18,7 @@ We will start by discussing the original paper introducing [Neural ODEs](https:/
 
 We will then discuss use cases of neural ODEs in the context of Earth Science. These include [turbulence forecasting](https://arxiv.org/abs/1911.05180), [hurricane nowcasting at irregular time steps](https://www.climatechange.ai/papers/iclr2020/21.html) and [crop classification under varying cloud cover](https://arxiv.org/abs/2012.02542), all of which highlight particular features of this method.
 
-As always, our seminar will be [livestreamed](https://www.youtube.com/watch?v=EXIwS8fVCzA).
-<br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EXIwS8fVCzA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
 <br/>
 
 ## Past Topics
