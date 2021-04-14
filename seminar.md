@@ -12,8 +12,15 @@ The seminar also allows members of the Hamburg machine learning community to con
 To get updates about each meeting or suggest a topic, please [join our mailing list](https://groups.google.com/forum/#!forum/mlhzg/join).
 
 ## Future Topics
-### 26. tba 20.04.21
+### 26. Learning the Rate of Change 20.04.21
 
+We will start by discussing the original paper introducing [Neural ODEs](https://arxiv.org/abs/1806.07366). The Neural ODE method builds on the similarity between Residual neural networks and Eulerian solvers for ODEs. This results in a model that is well-suited for taking on problems of forecasting, discontinuous data and speeding up solutions of differential equations--all of which are commonly encountered in Earth Science. We'll discuss the fundamentals of Neural ODEs and their various varieties, the structural differences from traditional ML, advantages and limitations over other ML methods and the scope of problems that can be solved using this method.
+
+We will then discuss use cases of neural ODEs in the context of Earth Science. These include [turbulence forecasting](https://arxiv.org/abs/1911.05180), [hurricane nowcasting at irregular time steps](https://www.climatechange.ai/papers/iclr2020/21.html) and [crop classification under varying cloud cover](https://arxiv.org/abs/2012.02542), all of which highlight particular features of this method.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EXIwS8fVCzA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/>
+<br/>
 
 ## Past Topics
 
