@@ -63,7 +63,7 @@ published: true
     <td style="vertical-align:top; text-align:justify">
       <strong>Kubilay Demir</strong><br/>
       Masters Student<br/><br/><br/>
-      Kubilay is enrolled in the MSc. program in Ocean and Climate Physics at the University of Hamburg. His research, carried out jointly with <a href = "https://www.hzg.de/institutes_platforms/coastal_research/system_analysis/matter_transport/staff/065065/index.php.en">Kai Logemann</a> at HZG, applying the principle of Physics Informed Neural Networks to oceanographic problems.
+      Kubilay is enrolled in the MSc. program in Ocean and Climate Physics at the University of Hamburg. His research, carried out jointly with <a href = "https://hereon.de/institutes/coastal_systems_analysis_modeling/matter_transport_ecosystem_dynamics/team/098744/index.php.en">Kai Logemann</a> at Hereon, applying the principle of Physics Informed Neural Networks to oceanographic problems.
     </td>
   </tr>
 

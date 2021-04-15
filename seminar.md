@@ -7,7 +7,7 @@ published: true
 ## Seminar
 We organize a biweekly seminar on machine learning, every second Tuesday at 3pm (GMT+2). We discuss papers on ML, often (but not always) with connections to Earth science, climate and weather and materials science.
 
-The seminar also allows members of the Hamburg machine learning community to connect and present their ongoing work. We meet in person at HZG, but we also welcome remote online participants and stream the meeting live on our [YouTube channel](https://www.youtube.com/channel/UCyXAYFO3h-tBIEbPEqMnNKw).
+The seminar also allows members of the Hamburg machine learning community to connect and present their ongoing work. We meet in person at Hereon, but we also welcome remote online participants and stream the meeting live on our [YouTube channel](https://www.youtube.com/channel/UCyXAYFO3h-tBIEbPEqMnNKw).
 
 To get updates about each meeting or suggest a topic, please [join our mailing list](https://groups.google.com/forum/#!forum/mlhzg/join).
 
@@ -82,7 +82,7 @@ This study offers a fresh and promising new approach. Instead of using expensive
 <br/>
 
 ### 20. "Turning the Tide" 01.12.20
-Zegou Zhang will present "Reconstruction of the Basin-Wide Sea Level Variability in the North Sea Using Coastal Data and Generative Adversarial Networks,"[pdf](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2020JC016402) recently published from the from the [Hydrodynamics and Data Assimilation](https://www.hzg.de/institutes_platforms/coastal_research/system_analysis/data_analysis_assimilation/index.php.en) group at HZG together with  Sebastian Grayek and Emil Stanev.
+Zegou Zhang will present "Reconstruction of the Basin-Wide Sea Level Variability in the North Sea Using Coastal Data and Generative Adversarial Networks,"[pdf](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2020JC016402) recently published from the from the [Hydrodynamics and Data Assimilation](https://www.hereon.de/institutes/coastal_systems_analysis_modeling/hydrodynamics_data_assimilation/index.php.en) group at Hereon together with  Sebastian Grayek and Emil Stanev.
 
 This paper uses adversarial networks to predict sea level across the North sea, and achieves excellent agreement with sophisticated operational forecasting systems by applying machine learning to only a small number of tidal gauge readings. It combines many important concepts we've seen in previous seminars, including forecasting, conditional GANs and U-nets. Unlike most of our previous papers, however, this work takes these concepts to the point of generating useful outputs for a real physical and geographic system.
 
