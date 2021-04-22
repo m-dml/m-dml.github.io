@@ -12,6 +12,11 @@ The seminar also allows members of the Hamburg machine learning community to con
 To get updates about each meeting or suggest a topic, please [join our mailing list](https://groups.google.com/forum/#!forum/mlhzg/join).
 
 ## Future Topics
+### 27. tba 18.05.21
+
+
+## Past Topics
+
 ### 26. Learning the Rate of Change 20.04.21
 
 We will start by discussing the original paper introducing [Neural ODEs](https://arxiv.org/abs/1806.07366). The Neural ODE method builds on the similarity between Residual neural networks and Eulerian solvers for ODEs. This results in a model that is well-suited for taking on problems of forecasting, discontinuous data and speeding up solutions of differential equations--all of which are commonly encountered in Earth Science. We'll discuss the fundamentals of Neural ODEs and their various varieties, the structural differences from traditional ML, advantages and limitations over other ML methods and the scope of problems that can be solved using this method.
@@ -21,7 +26,6 @@ We will then discuss use cases of neural ODEs in the context of Earth Science. T
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EXIwS8fVCzA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
 <br/>
 
-## Past Topics
 
 ### 25. "Fluid Fluency" 06.04.21
 We'll discuss [Learning Incompressible Fluid Dynamics from Scratch -- Towards Fast, Differentiable Fluid Models that Generalize](https://arxiv.org/abs/2006.08762).  
