@@ -12,12 +12,21 @@ The seminar also allows members of the Hamburg machine learning community to con
 To get updates about each meeting or suggest a topic, please [join our mailing list](https://groups.google.com/forum/#!forum/mlhzg/join).
 
 ## Future Topics
-### 27. tba 18.05.21
+### 27. "Diving into Shallow Waters" 18.05.21
+
+We will discuss Bihlo and Popovych’s work on [Physics-informed neural networks(PINNs) for the shallow-water equations](https://arxiv.org/abs/2104.00615) describing a hydrostatic fluid flow on the sphere. Their approach builds on the principles of Physics Informed Neural Networks and Fluid Mechanics as previously discussed in episodes 1 and 25.
+
+The authors present an approach which involves training networks solely on the physical equations along with initial and boundary conditions but without any simulated data. These networks output  variables such as surface height and velocity as continuous functions of space and time.
+
+The paper describes some interesting alterations to traditional PINNs such as non-dimensionalization of equations, splitting of the time domain, and projected gradients. These improved PINNs are then applied to various standard test cases to analyze performance on capturing phenomena such as advection, geostrophic flow, orographic flow and planetary waves. The results obtained from these tests present the ability of PINNs to capture physics-based constraints and allow for spatial continuity, implying the possibility of using them as a computationally cheaper alternative to traditional numerical weather prediction.
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/877hwC7BShQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Past Topics
 
-### 26. Learning the Rate of Change 20.04.21
+### 26. "Learning the Rate of Change" 20.04.21
 
 We will start by discussing the original paper introducing [Neural ODEs](https://arxiv.org/abs/1806.07366). The Neural ODE method builds on the similarity between Residual neural networks and Eulerian solvers for ODEs. This results in a model that is well-suited for taking on problems of forecasting, discontinuous data and speeding up solutions of differential equations--all of which are commonly encountered in Earth Science. We'll discuss the fundamentals of Neural ODEs and their various varieties, the structural differences from traditional ML, advantages and limitations over other ML methods and the scope of problems that can be solved using this method.
 
