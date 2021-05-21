@@ -12,6 +12,11 @@ The seminar also allows members of the Hamburg machine learning community to con
 To get updates about each meeting or suggest a topic, please [join our mailing list](https://groups.google.com/forum/#!forum/mlhzg/join).
 
 ## Future Topics
+
+### 28. 01.06.2021 TBA
+
+## Past Topics
+
 ### 27. "Diving into Shallow Waters" 18.05.21
 
 We will discuss Bihlo and Popovych’s work on [Physics-informed neural networks(PINNs) for the shallow-water equations](https://arxiv.org/abs/2104.00615) describing a hydrostatic fluid flow on the sphere. Their approach builds on the principles of Physics Informed Neural Networks and Fluid Mechanics as previously discussed in episodes 1 and 25.
@@ -24,7 +29,6 @@ The paper describes some interesting alterations to traditional PINNs such as no
 <iframe width="560" height="315" src="https://www.youtube.com/embed/877hwC7BShQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-## Past Topics
 
 ### 26. "Learning the Rate of Change" 20.04.21
 
