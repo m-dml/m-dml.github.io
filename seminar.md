@@ -13,7 +13,14 @@ To get updates about each meeting or suggest a topic, please [join our mailing l
 
 ## Future Topics
 
-### 28. 01.06.2021 TBA
+### 28. "Learning to Precondition" 01.06.2021 
+
+On Tuesday, June 1 at 3 PM (GMT+2), we will discuss the work of Ackmann et al. on using [machine learning to obtain fast preconditioners for (semi-)implicit numerical solvers](https://arxiv.org/abs/2010.02866), as used e.g. for the dynamical core of contemporary NWP systems. Solving systems of (linear) equations is a central task of such numerical solvers, and is typically tackled with iterative methods. To speed up convergence of these methods, preconditioners are used to provide good initializations for the first iteration, and there is a sizeable literature on choosing efficient preconditioners for a given problem.
+
+Ackmann et al. investigate the potential of learning data-driven preconditioners from numerical simulations. Their preconditioners are trained using the simple objective of predicting the state update between consecutive time points. They test their idea on the shallow water equations, and find that they can almost double the convergence speed of the linear solver using only linear models for the preconditioner.
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zSOvVOfohwk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Past Topics
 
