@@ -15,7 +15,7 @@ To get updates about each meeting or suggest a topic, please [join our mailing l
 
 ### 30. TBA 29.06.2021
 
-## Past Topic
+## Past Topics
 
 ### 29. "Why does it always rain on me?" 15.06.2021 
 Caroline Arnold from DKRZ will present recent developments in using ML for precipitation nowcasting. High-resolution precipitation nowcasting, with a lead time of up to two hours is relevant for many weather-dependent real world decisions such as those concerning commercial aviation, power utilities, and transportation services. Accurate nowcasts can provide a timely warning for extreme flooding and storms and can help in minimizing the loss of life and property. This main paper for the seminar proposes a [deep generative model to forecast precipitation from radar images](http://arxiv.org/abs/2104.00954). Ravuri et al. present a model that provides realistic and spatio-temporally consistent predictions over domains of up to 1536 km x 1280 km for lead times of 5 - 90 minutes.
