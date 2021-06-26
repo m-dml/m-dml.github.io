@@ -13,7 +13,15 @@ To get updates about each meeting or suggest a topic, please [join our mailing l
 
 ## Future Topics
 
-### 30. TBA 29.06.2021
+### 30. "Looking into the Black Box" 29.06.2021
+
+On Tuesday, June 29 at 3 PM (GMT+2) we discuss the paper [Physically Interpretable Neural Networks for the Geosciences: Applications to Earth System Variability](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019MS002002). In most applications of machine learning within the Geosciences the main goal of the research is to generate accurate results. Often in these cases, the underlying ML can appear quite opaque. The main goal in the paper for the seminar is to use interpretation techniques in order to gain a deeper scientific understanding of what the neural network learns.
+
+In this study, the neural networks are tasked with predicting scientifically well-studied phenomena such as occurrence of El-Nino and seasonal sea surface temperature variability. The authors focus on using backward optimization and layerwise relevance propagation (LRP) methods that aim to decipher how every input field affects the neural network output. Not only do these help in understanding the neural network but more importantly, as the authors show, these interpretations can themselves be used to advance our understanding of the Earth System.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VvcUceL3U5I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/>
+<br/>
 
 ## Past Topics
 
