@@ -13,17 +13,20 @@ To get updates about each meeting or suggest a topic, please [join our mailing l
 
 ## Future Topics
 
+### TBA
+
+## Past Topics
+
 ### 30. "Looking into the Black Box" 13.07.2021
 
 On Tuesday, July 13 at 3 PM (GMT+2) we discuss the paper [Physically Interpretable Neural Networks for the Geosciences: Applications to Earth System Variability](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019MS002002). In most applications of machine learning within the Geosciences the main goal of the research is to generate accurate results. Often in these cases, the underlying ML can appear quite opaque. The main goal in the paper for the seminar is to use interpretation techniques in order to gain a deeper scientific understanding of what the neural network learns.
 
-In this study, the neural networks are tasked with predicting scientifically well-studied phenomena such as occurrence of El-Nino and seasonal sea surface temperature variability. The authors focus on using backward optimization and layerwise relevance propagation (LRP) methods that aim to decipher how every input field affects the neural network output. Not only do these help in understanding the neural network but more importantly, as the authors show, these interpretations can themselves be used to advance our understanding of the Earth System.
+In this study, the neural networks are tasked with predicting scientifically well-studied phenomena such as occurrence of El-Nino and seasonal sea surface temperature variability. The authors focus on using backward optimization and layerwise relevance propagation (LRP) methods that aim to decipher how every input field affects the neural network output. Not only do these help in understanding the neural network but more importantly, as the authors show, these interpretations can themselves be used to advance our understanding of the Earth System. In [Making the Black Box More Transparent: Understanding the Physical Implications of Machine Learning](https://journals.ametsoc.org/view/journals/bams/100/11/bams-d-18-0195.1.xml) further applications of interpretation methods can be found.  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VvcUceL3U5I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br/>
 <br/>
 
-## Past Topics
 
 ### 29. "Why does it always rain on me?" 15.06.2021 
 Caroline Arnold from DKRZ will present recent developments in using ML for precipitation nowcasting. High-resolution precipitation nowcasting, with a lead time of up to two hours is relevant for many weather-dependent real world decisions such as those concerning commercial aviation, power utilities, and transportation services. Accurate nowcasts can provide a timely warning for extreme flooding and storms and can help in minimizing the loss of life and property. This main paper for the seminar proposes a [deep generative model to forecast precipitation from radar images](http://arxiv.org/abs/2104.00954). Ravuri et al. present a model that provides realistic and spatio-temporally consistent predictions over domains of up to 1536 km x 1280 km for lead times of 5 - 90 minutes.
