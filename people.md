@@ -69,7 +69,7 @@ published: true
 
   <tr>
     <td style="vertical-align:middle">
-      <img align="center" src="vadim.jpeg" width="100%" style="margin: 0px 0px 0px 0px">
+      <img align="center" src="vadim.jpg" width="100%" style="margin: 0px 0px 0px 0px">
     </td>
     <td style="vertical-align:top; text-align:justify">
       <strong>Vadim Zinchenko</strong><br/>
