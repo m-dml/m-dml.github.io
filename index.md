@@ -17,3 +17,5 @@ We publish our code on [github](https://github.com/m-dml), and are committed to 
 
 ## Open Positions
 If you're interested in a position as a Master's student, PhD or Postdoc, please write to [David](mailto:david.greenberg@hereon.de) with a CV and statement of interest. Candidates should have curiosity, persistence and a solid foundation in machine learning, math, physics, algorithms or the geosciences.
+
+We are currently recruiting a postdoc! Details and online application can be found at the [hereon website](https://www.hereon.de/career/vacancies/020565/index.php.de).
