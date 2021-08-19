@@ -13,7 +13,16 @@ To get updates about each meeting or suggest a topic, please [join our mailing l
 
 ## Future Topics
 
-### TBA
+### 31. "Enchanting the Chemical Forest" 24.08.2021
+
+On Tuesday, August 24 at 3 PM (GMT+2), we'll discuss two papers applying machine learning to atmospheric chemistry. Coupling realistic chemical calculations to an atmospheric model imposes extreme computational costs, both for long-term climate modelling and short-term air quality forecasts. These studies attempt to reduce these costs by learning an inexpensive proxy for the chemical processes. [Keller et al.](https://gmd.copernicus.org/articles/12/1209/2019/gmd-12-1209-2019.pdf) use random forests for this, while [Kelp et al.] (https://arxiv.org/ftp/arxiv/papers/1808/1808.03874.pdf) use deep neural networks.
+
+We'll briefly review the nature of the chemical processes being modelled, and the basics of random forests as covered in previous episodes (19 and 21), and discuss the advantages, limitations and results of these two studies.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rbRtVaUOeGQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/>
+<br/>
+
 
 ## Past Topics
 
