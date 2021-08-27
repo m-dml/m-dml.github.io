@@ -13,6 +13,19 @@ To get updates about each meeting or suggest a topic, please [join our mailing l
 
 ## Future Topics
 
+### 32. "You know, I am something of a classifier myself" 07.09.2021
+
+Labelled data is hard to come by, usually requiring an expert to sit down and look at thousands of examples. Generating / collecting data on the other hand becomes easier every day. So we are now in a position where we theoretically have enough data to train huge networks, but not enough labels to practically do that in many cases. 
+The approach we will be talking about in the next seminar addresses this issue [(Chen et al.)](https://arxiv.org/abs/2002.05709). The idea is to compare training samples only to themselves without any labels in a pretraining step and only afterwards use a few labelled examples to fine-tune the neural network. They were able to get the same accuracy on the ImageNet benchmark dataset as supervised state of the art methods, but using only 1% of the labelled data.
+We will also have a look at how this method can be used in an Earth-System-Science example to detect irrigation from satellite images. [(Agastya et al.)](https://arxiv.org/abs/2108.05484) 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xwYMSTOfE-I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/>
+<br/>
+
+
+## Past Topics
+
 ### 31. "Enchanting the Chemical Forest" 24.08.2021
 
 On Tuesday, August 24 at 3 PM (GMT+2), we'll discuss two papers applying machine learning to atmospheric chemistry. Coupling realistic chemical calculations to an atmospheric model imposes extreme computational costs, both for long-term climate modelling and short-term air quality forecasts. These studies attempt to reduce these costs by learning an inexpensive proxy for the chemical processes. [Keller et al.](https://gmd.copernicus.org/articles/12/1209/2019/gmd-12-1209-2019.pdf) use random forests for this, while [Kelp et al.](https://arxiv.org/ftp/arxiv/papers/1808/1808.03874.pdf) use deep neural networks.
@@ -23,8 +36,6 @@ We'll briefly review the nature of the chemical processes being modelled, and th
 <br/>
 <br/>
 
-
-## Past Topics
 
 ### 30. "Looking into the Black Box" 13.07.2021
 
