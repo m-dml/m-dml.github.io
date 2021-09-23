@@ -13,6 +13,10 @@ To get updates about each meeting or suggest a topic, please [join our mailing l
 
 ## Future Topics
 
+### 33. TBA Featuring Surprise Mystery Guest 05.010.2021
+
+## Past Topics
+
 ### 32. "You know, I am something of a classifier myself" 07.09.2021
 
 Labelled data is hard to come by, usually requiring an expert to sit down and look at thousands of examples. Generating / collecting data on the other hand becomes easier every day. So we are now in a position where we theoretically have enough data to train huge networks, but not enough labels to practically do that in many cases. 
@@ -23,8 +27,6 @@ We will also have a look at how this method can be used in an Earth-System-Scien
 <br/>
 <br/>
 
-
-## Past Topics
 
 ### 31. "Enchanting the Chemical Forest" 24.08.2021
 
