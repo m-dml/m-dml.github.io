@@ -13,7 +13,21 @@ To get updates about each meeting or suggest a topic, please [join our mailing l
 
 ## Future Topics
 
-### 33. TBA Featuring Surprise Mystery Guest 05.010.2021
+### 33. "The Big Gravity Wave Drag Race" 05.10.2021
+
+The biggest uncertainties in numerical weather predictions (NWPs) still arise from parameterizations. Even though 
+simulators exist, which are better than the parameterizations implemented in the NWPs, they cannot be used due to higher 
+computational costs. Therefore, we are excited to announce our guest speaker Matthew Chantry from the European Centre 
+for Medium Range Weather Forecasts, who investigated the use of neural networks to emulate gravity wave drag 
+parameterizations [(Chantry et al.)](https://doi.org/10.1029/2021MS002477). 
+By training a NN on a higher complexity version of the parameterization and plugging it back into 
+a NWP, they were able to produce more accurate forecasts than in the existing scheme by keeping the computational cost 
+of the complete NWP the same.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_wm1dEIO-xU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/>
+<br/>
+
 
 ## Past Topics
 
