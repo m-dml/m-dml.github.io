@@ -16,4 +16,4 @@ We also organize a biweekly [seminar](seminar.html) on machine learning at Hereo
 We publish our code on [github](https://github.com/m-dml), and are committed to software sharing as a principle of open and reproducible science.
 
 ## Open Positions
-We currently have an opening for a Masters student--please write to [David](mailto:david.greenberg@hereon.de) with a CV and statement of interest. Candidates should have curiosity, persistence and a solid foundation in machine learning, math, physics, algorithms or the geosciences.
+We currently have an opening for a Masters student interested in carrying out research for a thesis project--please write to [David](mailto:david.greenberg@hereon.de) with a CV and statement of interest. Candidates should have curiosity, persistence and a solid foundation in machine learning, math, physics, algorithms or the geosciences.
