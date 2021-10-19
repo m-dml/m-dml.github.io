@@ -13,6 +13,20 @@ To get updates about each meeting or suggest a topic, please [join our mailing l
 
 ## Future Topics
 
+### 34. "A Bin-full of Clouds" 19.10.2021
+
+Cloud microphysics parametrizations tend to be simplified and often the complex parametrization schemes lead to a significant slowdown in weather prediction models. In Episode 22 we discussed warm rain emulation from a droplet based scheme. Between the extreme computational costs of droplet based schemes and simplification of bulk moments, there exist bin-based parametrization schemes which represent cloud and rain droplets as a distribution. In the paper for the seminar, [Machine Learning the Warm Rain Process] (https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020MS002268), the machine learning model (comprising of multiple neural networks) learns one such bin-based scheme.
+
+
+We will go over the details of the spectral bin parametrization scheme used and why it can cause a 400% slowdown when used in a GCM. We will discuss how the ML based parametrization provides a huge speedup, its general performance when coupled with the GCM and the implications of these results for future research.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4u4KuhOO9MU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br/>
+<br/>
+
+## Past Topics
+
 ### 33. "The Big Gravity Wave Drag Race" 05.10.2021
 
 The biggest uncertainties in numerical weather predictions (NWPs) still arise from parameterizations. Even though 
@@ -29,7 +43,6 @@ of the complete NWP the same.
 <br/>
 
 
-## Past Topics
 
 ### 32. "You know, I am something of a classifier myself" 07.09.2021
 
