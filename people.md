@@ -23,16 +23,7 @@ published: true
       His primary research goal is applying machine learning to address critical computational problems in Earth science, such as predictability, parameter tuning, parameterization, uncertainty quantification and data assimilation. 
     </td>
   </tr>
-  <tr>
-    <td style="vertical-align:middle">
-      <img align="center" src="marcel.png" width="100%" style="margin: 0px 0px 0px 0px">
-    </td>
-    <td style="vertical-align:top; text-align:justify">
-      <strong>Marcel Nonnenmacher</strong><br/>
-      Postdoc<br/><br/><br/>
-      Marcel works on data-driven weather prediction. He's interested in representing prediction uncertainty through probability distributions. During his PhD in computational neuroscience, he worked on probabilistic modeling for incomplete data and black-box Bayesian inference.
-    </td>
-  </tr>
+
   <tr>
     <td style="vertical-align:middle">
       <img align="center" src="tobi.png" width="100%" style="margin: 0px 0px 0px 0px">
@@ -45,6 +36,7 @@ published: true
       in weather prediction tasks.
     </td>
   </tr>  
+
   <tr>
     <td style="vertical-align:middle">
       <img align="center" src="Shivani.jpg" width="100%" style="margin: 0px 0px 0px 0px">
@@ -77,6 +69,31 @@ published: true
       Vadim is a student of an international joint master program for Polar and Marine science between St. Petersburg State University (Russia) and Hamburg University. He works on a parameter tuning for Earth System Models using neural networks as conditional emulators and high order integration schemes.
     </td>
   </tr>
+
+</table> 
+
+
+## Alumni
+ <table border="0" style="width:100%; border-spacing: 10px">
+  <colgroup>
+    <col style="width:30%">
+    <col>
+  </colgroup>
+
+  <tr>
+    <td style="vertical-align:middle">
+      <img align="center" src="marcel.png" width="100%" style="margin: 0px 0px 0px 0px">
+    </td>
+    <td style="vertical-align:top; text-align:justify">
+      <strong>Marcel Nonnenmacher</strong><br/>
+      Postdoc<br/><br/><br/>
+      Marcel worked on data-driven weather prediction. He's interested in representing prediction uncertainty through 
+probability distributions. During his PhD in computational neuroscience, he worked on probabilistic modeling for 
+incomplete data and black-box Bayesian inference.
+    </td>
+  </tr>
+
+
   
    
   
