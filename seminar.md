@@ -12,6 +12,20 @@ The seminar also allows members of the Hamburg machine learning community to con
 To get updates about each meeting or suggest a topic, please [join our mailing list](https://groups.google.com/forum/#!forum/mlhzg/join).
 
 ## Future Topics
+
+### 37. "What kind of s Storm are you?" 30.11.2021
+
+Classification of convective storms depending on their severity has become more challenging in a changing climate. The major problem of machine learning-based methods for classification is their weak generalization capabilities to unseen scenarios which may result from changes in mean climatological temperature and moisture level. In the paper, [A benchmark to test generalization capabilities of deep learning methods to classify severe convective storms in a changing climate](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020EA001490), the authors develop a convolutional neural network-based classifier for classifying convective storms that are generated from models under the current climatic conditions. They then test the generalization capabilities of the model by evaluating its performance in classifying storms that are generated on a warmer Earth. 
+
+ To further make sense of the physical relationships learned by the neural network, the authors use interpretation methods such as feature importance and saliency maps.  
+
+ On Tuesday the 30th November at 3:00 pm, we would like to discuss this paper with you. We will go into the details of the framework of the problem, methodology, generalization capabilities of this method, and interpretation methods used to understand the underlying physical relationships. 
+
+<br/>
+<br/> 
+
+## Past Topics 
+
 ### 36. "One column, many steps" 16.11.2021
 
 On Tuesday Nov. 16 at 3:30 pm (note the later time!), we'll discuss [Prognostic Validation of a Neural Network Unified Physics Parameterization.](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018GL078510) This paper aims to train an ML model to reproduce moisture and temperature trends in a coarse resolution CAM atmospheric model, by training on data from a high-resolution CAM model.
@@ -19,14 +33,16 @@ On Tuesday Nov. 16 at 3:30 pm (note the later time!), we'll discuss [Prognostic 
  Supervised training on single-time-step updates can reach very high accuracy, but still result in inaccuracy or instability over many time steps. To address this, the paper proposes running the ML parameterization over multiple time steps during training to provide better feedback to the training procedure. They show that this can improve accuracy without changing the neural network at all.
 
  This approach faces the technical challenge that results over multiple time steps would involve the CAM dynamical core, which is fundamentally incompatible with the numerical optimization used to train neural networks. To get around this, the paper uses the idea of single column modelling from classical parameterization tuning in Earth science: the parameterization is trained for individual columns, with the advective forcing from neighboring columns "frozen" during training. We'll discuss this approach, its results and consider advantages and disadvantages.
-## Past Topics
 
+<br/>
+<br/>
 ### 35. "A Rare Case of Medium Range Weather Forecasting Well Done with Resnets" 02.11.2021
 
 On the 2nd February 2020 Rasp and Thurey published an article introducing their medium range forecasting benchmark dataset "WeatherBench". Exactly one year later, on the 2nd February 2021 they released the Paper [Data-Driven Medium-Range Weather Prediction With a Resnet Pretrained on Climate Simulations: A New Model for WeatherBench](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020MS002405), where they set new baseline results for the previously mentioned dataset.
  
 On Tuesday the 2nd November at 3:00 pm, we would like to discuss these new baselines with you.
-
+<br/>
+<br/>
 
 ### 34. "A Bin-full of Clouds" 19.10.2021
 
