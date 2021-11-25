@@ -13,7 +13,7 @@ To get updates about each meeting or suggest a topic, please [join our mailing l
 
 ## Future Topics
 
-### 37. "What kind of s Storm are you?" 30.11.2021
+### 37. "What kind of a Storm are you?" 30.11.2021
 
 Classification of convective storms depending on their severity has become more challenging in a changing climate. The major problem of machine learning-based methods for classification is their weak generalization capabilities to unseen scenarios which may result from changes in mean climatological temperature and moisture level. In the paper, [A benchmark to test generalization capabilities of deep learning methods to classify severe convective storms in a changing climate](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020EA001490), the authors develop a convolutional neural network-based classifier for classifying convective storms that are generated from models under the current climatic conditions. They then test the generalization capabilities of the model by evaluating its performance in classifying storms that are generated on a warmer Earth. 
 
