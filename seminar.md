@@ -13,6 +13,10 @@ To get updates about each meeting or suggest a topic, please [join our mailing l
 
 ## Future Topics
 
+**For 2021 we are continuing our seminar on Zoom only (not on YouTube)**. We're hoping to encourage more discussion and exchange of ideas in this format, but we are always accepting new subscriptions to our mailing list if you'd like to join. Participants from all research fields and institutions are welcome!
+
+## Past Topics
+
 ### 37. "What kind of a Storm are you?" 30.11.2021
 
 Classification of convective storms depending on their severity has become more challenging in a changing climate. The major problem of machine learning-based methods for classification is their weak generalization capabilities to unseen scenarios which may result from changes in mean climatological temperature and moisture level. In the paper, [A benchmark to test generalization capabilities of deep learning methods to classify severe convective storms in a changing climate](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020EA001490), the authors develop a convolutional neural network-based classifier for classifying convective storms that are generated from models under the current climatic conditions. They then test the generalization capabilities of the model by evaluating its performance in classifying storms that are generated on a warmer Earth. 
@@ -23,9 +27,6 @@ Classification of convective storms depending on their severity has become more 
 
 <br/>
 <br/> 
-
-## Past Topics 
-
 ### 36. "One column, many steps" 16.11.2021
 
 On Tuesday Nov. 16 at 3:30 pm (note the later time!), we'll discuss [Prognostic Validation of a Neural Network Unified Physics Parameterization.](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018GL078510) This paper aims to train an ML model to reproduce moisture and temperature trends in a coarse resolution CAM atmospheric model, by training on data from a high-resolution CAM model.
