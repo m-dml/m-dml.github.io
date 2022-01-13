@@ -13,7 +13,7 @@ To get updates about each meeting or suggest a topic, please [join our mailing l
 
 ## Future Topics
 
-**For 2021 we are continuing our seminar on Zoom only (not on YouTube)**. We're hoping to encourage more discussion and exchange of ideas in this format, but we are always accepting new subscriptions to our mailing list if you'd like to join. Participants from all research fields and institutions are welcome!
+**For 2022 we are continuing our seminar on Zoom only (not on YouTube)**. We're hoping to encourage more discussion and exchange of ideas in this format, but we are always accepting new subscriptions to our mailing list if you'd like to join. Participants from all research fields and institutions are welcome!
 
 ## Past Topics
 
