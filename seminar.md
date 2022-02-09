@@ -17,6 +17,40 @@ To get updates about each meeting or suggest a topic, please [join our mailing l
 
 ## Past Topics
 
+###  40: "Foiled Again?"
+
+On Tuesday February 8, 2022 at 3pm we will discuss the paper [Towards high-accuracy deep learning inference of compressible turbulent flows over aerofoils](https://arxiv.org/abs/2109.02183).
+
+In past seminars we have covered the topic of using machine learning methods for learning fluid dynamics, be it from equations (seminar 1 and 25) or data generated from solving equations (seminar 11). The paper for this seminar builds upon ideas discussed in Seminar 7 where the authors tried to learn physics based representations for capturing the temporal evolution of fluid flow.  In this paper, the authors present a deep learning approach to infer the Reynold's averaged Navier-Stokes solutions for flow in compressible fluids. 
+
+ 
+The deep neural network model used is based on a U-net which is used for encoding the geometric information and for decoding the subsequent flow fields. The authors compare the solutions provided by the machine learning algorithm to those produced by a Computational Fluid Dynamics model and note the significant speed up provided by the use of the neural network. 
+
+We will discuss the structure of the model used, the challenges of the problem being solved and the limitations and further applications of this method. 
+<br/>
+<br/>
+
+### 39: "Extreme Events, Modest Models" 25.01.2022
+
+On Tuesday, January 25 at 3pm, we will discuss the paper, [Using Machine Learning to Analyze Physical Causes of Climate Change: A Case Study of U.S. Midwest Extreme Precipitation](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL093787).
+
+In this paper, the authors tackle the task of defining, predicting and understanding extreme precipitation events in the US midwest. The authors start by defining a threshold for extreme precipitation events using historical station-based data and then develop a machine learning model to successfully classify precipitation events as "extreme events" based on atmospheric conditions.
+
+This is followed by an interpretation study of the CNN used for classification, where the main goal is to investigate the relationship between atmospheric conditions and extreme precipitation events so as to answer the questions about the frequency and intensity of extreme events in a changing climate. We will go through the problem statement, methodology and the relevant results from the study during the seminar and discuss if these methods have the potential to perhaps disentangle complex interactions in the atmosphere.
+<br/>
+<br/>
+
+### 38: "A Surge of Ensembles" 11.01.2022
+
+
+We kickstart the machine learning seminars for 2022 on Tuesday, January 11 at 3pm. Dr Eduardo Zorita will lead the discussion on the paper, [Exploring deep learning capabilities for surge predictions in coastal areas](https://www.nature.com/articles/s41598-021-96674-0).
+
+In this paper, the authors tackle the critical task of predicting the surge component of sea level variability from atmospheric conditions by making use of reanalysis data and observations from tide stations. They use various machine learning architectures including CNNs and LSTMs for generating ensemble based forecasts and compare the results to a global tide model.
+
+After analyzing the results from over 736 stations distributed worldwide, the authors point to some interesting observations regarding the predicting capacity of the machine learning models. Similarly, seasonal variations are also analyzed in the paper. We will cover these interesting findings along with the general methodology applied in the paper.
+<br/>
+<br/> 
+
 ### 37. "What kind of a Storm are you?" 30.11.2021
 
 Classification of convective storms depending on their severity has become more challenging in a changing climate. The major problem of machine learning-based methods for classification is their weak generalization capabilities to unseen scenarios which may result from changes in mean climatological temperature and moisture level. In the paper, [A benchmark to test generalization capabilities of deep learning methods to classify severe convective storms in a changing climate](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020EA001490), the authors develop a convolutional neural network-based classifier for classifying convective storms that are generated from models under the current climatic conditions. They then test the generalization capabilities of the model by evaluating its performance in classifying storms that are generated on a warmer Earth. 
