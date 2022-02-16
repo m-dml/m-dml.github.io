@@ -15,6 +15,15 @@ To get updates about each meeting or suggest a topic, please [join our mailing l
 
 **For 2022 we are continuing our seminar on Zoom only (not on YouTube)**. We're hoping to encourage more discussion and exchange of ideas in this format, but we are always accepting new subscriptions to our mailing list if you'd like to join. Participants from all research fields and institutions are welcome!
 
+### 41: "Futureproof Your Training Data"
+On Tuesday, Feb. 22 at 3pm we will discuss the paper "Climate-Invariant Machine Learning".[1] This paper comes highly recommended for its interesting concepts, clear presentation and "dream team" of prominent authors at the intersection of climate and ML.
+
+It addresses the poor capability of neural networks to generalize to new training data, using physics-inspired nonlinear transformations of the input variables that reduce the mismatch between training and testing scenarios. They apply this approach to sub-grid-scale parameterization learning in 3 climate models, and show that these data transformations allow the models to generalize to new climates and even model geographies.
+
+While it's not uncommon for ML practitioners to try several possible representations of input data, this paper takes a principled approach to deriving the best data transformation based on specialized domain knowledge. Applying techniques for ML model interpretation, they uncover the surprising result that transforming the input data causes their NNs to learn mostly local dependencies that generalize better than other non-causal correlations in the input variables. Thus, the authors were able to achieve a result similar to the inductive biases provided by convnets, but do so instead by transforming inputs to a fully connected net.
+
+[1] Beucler T, Pritchard M, Yuval J, Gupta A, Peng L, Rasp S, Ahmed F, O'Gorman PA, Neelin JD, Lutsko NJ, Gentine P. Climate-Invariant Machine Learning. arXiv preprint arXiv:2112.08440. 2021 Dec 14. [pdf](https://arxiv.org/pdf/2112.08440.pdf)
+
 ## Past Topics
 
 ###  40: "Foiled Again?"
