@@ -13,9 +13,30 @@ To get updates about each meeting or suggest a topic, please [join our mailing l
 
 ## Future Topics
 
+
 **For 2022 we are continuing our seminar on Zoom only (not on YouTube)**. We're hoping to encourage more discussion and exchange of ideas in this format, but we are always accepting new subscriptions to our mailing list if you'd like to join. Participants from all research fields and institutions are welcome!
 
-### 41: "Futureproof Your Training Data"
+### 43: "Learning to Assimilate"
+
+This seminar we are going to discuss a paper that applies deep learning to data assimilation in a new way. Data Assimilation is the problem of searching for an initial condition for which a model accurately predicts observed data, and is a central task for weather forecasting. 
+
+In this paper, a convolutional neural network was used to learn an inverse observation operator (a mapping function between observations and physics-based space) [1]. Then this operator can be used to map observations trajectory into physical trajectory to use the first state as an initial state for data assimilation optimisation problem. Alternatively, they present a hybrid optimisation method when two optimisation problems are solving sequentially: first minimising objective function in physical space and then minimising in observational space. The results for a single-level Lorenz96 model and a two-dimensional turbulent fluid model show forecast quality increase. 
+
+[1] Thomas Frerix, Dmitrii Kochkov, Jamie A. Smith, Daniel Cremers, Michael P. Brenner, Stephan Hoyer. [Variational Data Assimilation with a Learned Inverse Observation Operator](https://arxiv.org/abs/2102.11192). 
+
+## Past Topics
+
+### 42: "Paint-by-numbers - Connect the little dots to forecast weather" 08.03.2022
+
+In previous episodes, we have visited the weather-bench dataset and seen multiple approaches on solving the global weather prediction task. In the next seminar, we will for the first time discuss an article, where the author tackled the challenge using a graph neural network [1]. Therefore, we will give a brief introduction on graph representations and graph neural networks, to understand parts of the very clever bits and pieces the author combined to one framework. The resulting neural network trained on reanalysis data [2] was tested on hindcasts, where the author claims it not only is as good as state of the art NWPs (GFS and ECMWF), but in certain cases even outperforms them.
+
+[1] R. Keisler, “[Forecasting Global Weather with Graph Neural Networks](http://arxiv.org/abs/2202.07575),” arXiv:2202.07575 [physics], Feb. 2022.
+[2] S. Rasp, P. D. Dueben, S. Scher, J. A. Weyn, S. Mouatadid, and N. Thuerey, “[WeatherBench: A benchmark dataset for data-driven weather forecasting](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020MS002203),” J. Adv. Model. Earth Syst., vol. 12, no. 11, Nov. 2020. 
+<br/>
+<br/>
+
+### 41: "Futureproof Your Training Data" 22.02.2022
+
 On Tuesday, Feb. 22 at 3pm we will discuss the paper "Climate-Invariant Machine Learning".[1] This paper comes highly recommended for its interesting concepts, clear presentation and "dream team" of prominent authors at the intersection of climate and ML.
 
 It addresses the poor capability of neural networks to generalize to new training data, using physics-inspired nonlinear transformations of the input variables that reduce the mismatch between training and testing scenarios. They apply this approach to sub-grid-scale parameterization learning in 3 climate models, and show that these data transformations allow the models to generalize to new climates and even model geographies.
@@ -23,10 +44,10 @@ It addresses the poor capability of neural networks to generalize to new trainin
 While it's not uncommon for ML practitioners to try several possible representations of input data, this paper takes a principled approach to deriving the best data transformation based on specialized domain knowledge. Applying techniques for ML model interpretation, they uncover the surprising result that transforming the input data causes their NNs to learn mostly local dependencies that generalize better than other non-causal correlations in the input variables. Thus, the authors were able to achieve a result similar to the inductive biases provided by convnets, but do so instead by transforming inputs to a fully connected net.
 
 [1] Beucler T, Pritchard M, Yuval J, Gupta A, Peng L, Rasp S, Ahmed F, O'Gorman PA, Neelin JD, Lutsko NJ, Gentine P. Climate-Invariant Machine Learning. arXiv preprint arXiv:2112.08440. 2021 Dec 14. [pdf](https://arxiv.org/pdf/2112.08440.pdf)
+<br/>
+<br/>
 
-## Past Topics
-
-###  40: "Foiled Again?"
+###  40: "Foiled Again?" 08.02.2022
 
 On Tuesday February 8, 2022 at 3pm we will discuss the paper [Towards high-accuracy deep learning inference of compressible turbulent flows over aerofoils](https://arxiv.org/abs/2109.02183).
 
