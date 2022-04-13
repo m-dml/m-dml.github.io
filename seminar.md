@@ -16,6 +16,30 @@ To get updates about each meeting or suggest a topic, please [join our mailing l
 
 **For 2022 we are continuing our seminar on Zoom only (not on YouTube)**. We're hoping to encourage more discussion and exchange of ideas in this format, but we are always accepting new subscriptions to our mailing list if you'd like to join. Participants from all research fields and institutions are welcome!
 
+### 45: "Data-driven discovery of Governing Equations" 19.04.2022
+
+On Tuesday, April 19 at 3 pm we will discuss the paper "Data-driven discovery of coordinates and governing equations".[1]
+
+In recent years, the field of data-driven discovery of governing equations has garnered a lot of attention as it has the potential to transform data-rich fields that lack well-characterized quantitative descriptions.
+Previous approaches using sparse regression methods rely on an effective coordinate system in which dynamics have a simple representation. In this paper, the authors combine a custom deep autoencoder network with sparse identification of nonlinear dynamics (SINDy) to develop a new data-driven method for discovering interpretable, low-dimensional dynamical models and their associated coordinates from high-dimensional data. This approach is successfully applied for the the canonical chaotic Lorenz system, a 2D reaction–diffusion system, and a 2D spatial representation of the nonlinear pendulum.
+
+[1] S. Champion, B. Lusch, J. N. Kutz, L. Brunton, [Data-driven discovery of coordinates and governing equations].(https://www.pnas.org/doi/10.1073/pnas.1906995116)
+
+
+
+## Past Topics
+
+### 44: "Machine masters Math?" 05.04.2022
+
+On Tuesday, April 5 at 3pm we will discuss the paper "Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets". [1]
+
+In this paper, the authors discuss a strange phenomena they encountered while overfitting an ML model. They observe that a model near convergence, but with low generalization capability, on continual training managed to reach a point where it was able to provide close to a 100% accuracy on validation dataset. The dataset used is made up of binary operations including addition and subtraction. This sudden jump in the ability to generalize to new datasets is worth deconstructing.
+
+The authors call this phenomenon "grokking", referring to what seems like the ability of the model to somehow understand the underlying patterns within the dataset, which perhaps raises the question if this network had indeed learnt the intuition behind mathematical operations. In the seminar, we will discuss the special datasets they train on, the models used and the various hyperparameters that affect this phenomenon. We will also discuss perhaps why this phenomena has remained under the radar so far and what are its consequences. 
+
+[1] Power, A., Burda, Y., Edwards, H., Babuschkin, I., & Misra, V. (2022, January 6). [Grokking: Generalization beyond overfitting on small algorithmic datasets].(https://arxiv.org/abs/2201.02177) 
+
+
 ### 43: "Learning to Assimilate" 22.03.2022
 
 This seminar we are going to discuss a paper that applies deep learning to data assimilation in a new way. Data Assimilation is the problem of searching for an initial condition for which a model accurately predicts observed data, and is a central task for weather forecasting. 
@@ -24,7 +48,7 @@ In this paper, a convolutional neural network was used to learn an inverse obser
 
 [1] Thomas Frerix, Dmitrii Kochkov, Jamie A. Smith, Daniel Cremers, Michael P. Brenner, Stephan Hoyer. [Variational Data Assimilation with a Learned Inverse Observation Operator](https://arxiv.org/abs/2102.11192). 
 
-## Past Topics
+
 
 ### 42: "Paint-by-numbers - Connect the little dots to forecast weather" 08.03.2022
 
