@@ -5,7 +5,7 @@ published: true
 ---
 
 ## Seminar
-We organize a biweekly seminar on machine learning, every second Tuesday at 3pm (GMT+1). We discuss papers on ML, often (but not always) with connections to Earth science, climate and weather and materials science.
+We organize a biweekly seminar on machine learning, every second Tuesday at 3pm (GMT+2). We discuss papers on ML, often (but not always) with connections to Earth science, climate and weather and materials science.
 
 The seminar also allows members of the Hamburg machine learning community to connect and present their ongoing work. We meet in person at Hereon, but we also welcome remote online participants and stream the meeting live on our [YouTube channel](https://www.youtube.com/channel/UCyXAYFO3h-tBIEbPEqMnNKw).
 
@@ -23,7 +23,7 @@ On Tuesday, April 19 at 3 pm we will discuss the paper "Data-driven discovery of
 In recent years, the field of data-driven discovery of governing equations has garnered a lot of attention as it has the potential to transform data-rich fields that lack well-characterized quantitative descriptions.
 Previous approaches using sparse regression methods rely on an effective coordinate system in which dynamics have a simple representation. In this paper, the authors combine a custom deep autoencoder network with sparse identification of nonlinear dynamics (SINDy) to develop a new data-driven method for discovering interpretable, low-dimensional dynamical models and their associated coordinates from high-dimensional data. This approach is successfully applied for the the canonical chaotic Lorenz system, a 2D reaction–diffusion system, and a 2D spatial representation of the nonlinear pendulum.
 
-[1] S. Champion, B. Lusch, J. N. Kutz, L. Brunton, [Data-driven discovery of coordinates and governing equations].(https://www.pnas.org/doi/10.1073/pnas.1906995116)
+[1] S. Champion, B. Lusch, J. N. Kutz, L. Brunton, [Data-driven discovery of coordinates and governing equations](https://www.pnas.org/doi/10.1073/pnas.1906995116).
 
 
 
@@ -37,7 +37,7 @@ In this paper, the authors discuss a strange phenomena they encountered while ov
 
 The authors call this phenomenon "grokking", referring to what seems like the ability of the model to somehow understand the underlying patterns within the dataset, which perhaps raises the question if this network had indeed learnt the intuition behind mathematical operations. In the seminar, we will discuss the special datasets they train on, the models used and the various hyperparameters that affect this phenomenon. We will also discuss perhaps why this phenomena has remained under the radar so far and what are its consequences. 
 
-[1] Power, A., Burda, Y., Edwards, H., Babuschkin, I., & Misra, V. (2022, January 6). [Grokking: Generalization beyond overfitting on small algorithmic datasets].(https://arxiv.org/abs/2201.02177) 
+[1] Power, A., Burda, Y., Edwards, H., Babuschkin, I., & Misra, V. (2022, January 6). [Grokking: Generalization beyond overfitting on small algorithmic datasets](https://arxiv.org/abs/2201.02177).
 
 
 ### 43: "Learning to Assimilate" 22.03.2022
