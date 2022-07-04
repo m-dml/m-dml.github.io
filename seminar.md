@@ -16,6 +16,40 @@ To get updates about each meeting or suggest a topic, please [join our mailing l
 
 **For 2022 we are continuing our seminar on Zoom only (not on YouTube)**. We're hoping to encourage more discussion and exchange of ideas in this format, but we are always accepting new subscriptions to our mailing list if you'd like to join. Participants from all research fields and institutions are welcome!
 
+TBA
+
+## Past Topics
+
+### 48. "Not your Usual Parameterization" 31.05.2022
+For our next seminar on May 31 at 3pm, we will discuss the paper "Deep Learning Based Cloud Cover Parameterization
+for ICON" [1]. We are happy to announce that the first author, Arthur Grundner from DLR, will present the paper.
+
+In many previous seminars we have discussed papers where the authors have applied machine learning in order to solve the problem of parameterization in weather and climate models. Although we have covered studies spanning convection to gravity wave drag parameterization, often these are limited to simpler model scenarios such as aquaplanets.
+
+In the paper for the seminar, the authors tackle the problem of cloud cover parameterization using ICON SRM (storm-resolving model). This is the first time we'll discuss a paper where machine learning has been applied in ICON. The authors train neural networks to learn cloud cover variables using atmospheric state variables. We will discuss the experimental setup, the generalization ability of the networks, the interpretability of the ML model and the implications of this work. 
+
+[1] Grundner, A., Beucler, T., Gentine, P., Iglesias-Suarez, F., Giorgetta, M. and Eyring, V., 2022. [Deep Learning Based Cloud Cover Parameterization for ICON.](https://arxiv.org/abs/2112.11317)
+
+
+### 47. "They are the same picture" 17.05.2022
+
+After having now had a lot of very specialized ideas and applications for ML in the earth system sciences in recent episodes, we would like for the next ML Seminar to take a step back and have again a look at the broader picture. For this, we will go through the challenges of ML in climate and weather applications and their differences described in [1]. We are looking forward to a lively discussion on where you think the broader challenges lie and maybe how to overcome them.
+
+[1] Watson-Parris, Duncan. ["Machine learning for weather and climate are worlds apart."](https://arxiv.org/abs/2008.10679) Philosophical Transactions of the Royal Society A 379.2194 (2021): 20200098.
+
+
+### 46. "Mapping to the Windows" 03.05.2022
+On Tuesday, May 3 at 3pm Julianna Carvalho-Oliveira will discuss her latest publication "Self-Organizing Maps Identify Windows of Opportunity for Seasonal European Summer Predictions".[1]
+
+Seasonal predictability of weather systems has always been a challenge. It is generally associated with planetary scale dynamical weather patterns. In case of Europe, seasonal predictability of summer climate is closely linked to the leading modes of atmospheric teleconnections associated with the North Atlantic jet stream. But current state-of-the-art models suffer from heavy biases and uncertainty when it comes to predicting the behavior of the jet stream.
+
+In this paper, the authors attempt to identify atmospheric conditions that favor more predictable states of the atmosphere. For this, they combine an ensemble seasonal prediction system with a neural network-based classifier involving Self-Organizing Maps. This method helps to identify initial atmospheric conditions that correspond to a high predictability of the dominant modes of variability in the North Atlantic jet stream. 
+
+We will discuss the theoretical aspect of the problem, the reasons for choosing self-organizing maps and the implications of the work. 
+
+[1] Carvalho-Oliveira, J., Borchert, L. F., Zorita, E., & Baehr, J. (2022). [Self-organizing maps identify windows of opportunity for seasonal European Summer Predictions.](https://www.frontiersin.org/articles/10.3389/fclim.2022.844634/full)
+
+
 ### 45: "Data-driven discovery of Governing Equations" 19.04.2022
 
 On Tuesday, April 19 at 3 pm we will discuss the paper "Data-driven discovery of coordinates and governing equations".[1]
@@ -24,10 +58,6 @@ In recent years, the field of data-driven discovery of governing equations has g
 Previous approaches using sparse regression methods rely on an effective coordinate system in which dynamics have a simple representation. In this paper, the authors combine a custom deep autoencoder network with sparse identification of nonlinear dynamics (SINDy) to develop a new data-driven method for discovering interpretable, low-dimensional dynamical models and their associated coordinates from high-dimensional data. This approach is successfully applied for the the canonical chaotic Lorenz system, a 2D reaction–diffusion system, and a 2D spatial representation of the nonlinear pendulum.
 
 [1] S. Champion, B. Lusch, J. N. Kutz, L. Brunton, [Data-driven discovery of coordinates and governing equations](https://www.pnas.org/doi/10.1073/pnas.1906995116).
-
-
-
-## Past Topics
 
 ### 44: "Machine masters Math?" 05.04.2022
 
