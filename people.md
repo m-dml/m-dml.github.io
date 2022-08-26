@@ -89,9 +89,9 @@ published: true
       Postdoc<br/><br/><br/>
       Marcel worked on data-driven weather prediction. He's interested in representing prediction uncertainty through 
 probability distributions. During his PhD in computational neuroscience, he worked on probabilistic modeling for 
-incomplete data and black-box Bayesian inference.
+incomplete data and black-box Bayesian inference. He is now a postdoc at UCL's <a href = "https://www.ucl.ac.uk/gatsby/gatsby-computational-neuroscience-unit">Gatsby unit</a> in London.
     </td>
-  </tr>
+  </tr> 
 
   <tr>
     <td style="vertical-align:middle">
@@ -100,7 +100,7 @@ incomplete data and black-box Bayesian inference.
     <td style="vertical-align:top; text-align:justify">
       <strong>Kubilay Demir</strong><br/>
       Masters Student<br/><br/><br/>
-      Kubilay was enrolled in the MSc. program in Ocean and Climate Physics at the University of Hamburg. His research, carried out jointly with <a href = "https://hereon.de/institutes/coastal_systems_analysis_modeling/matter_transport_ecosystem_dynamics/team/098744/index.php.en">Kai Logemann</a> at Hereon, applied the principle of Physics Informed Neural Networks to oceanographic problems.
+      Kubilay was enrolled in the MSc. program in Ocean and Climate Physics at the University of Hamburg. His research, carried out jointly with <a href = "https://hereon.de/institutes/coastal_systems_analysis_modeling/matter_transport_ecosystem_dynamics/team/098744/index.php.en">Kai Logemann</a> at Hereon, applied the principle of Physics Informed Neural Networks to oceanographic problems. He is now a PhD student at Hereon's Institute of Coastal research.
     </td>
   </tr>
   
