@@ -38,7 +38,7 @@ We develop hybrid methods that combine the advantages of deep learning and physi
 <img align="left" src="SWE_GEconv.png" width="280" height="280" style="margin: 0px 20px 0px 0px"/>
  <span style="color:gray"><sub><sup>The [shallow water equations](https://en.wikipedia.org/wiki/Shallow_water_equations) are a system of 2D PDEs that are often used to test numerical simulations of fluid flow in the ocean or atmosphere. Here a numerical simulation from a semiimplicit integration scheme (upper row) is compared to unsupervised deep learning combining a physics-based loss with group-equivariant convolutions. While the numerical simulation approach must iteratively solve a system of linear equations at each time step, the ML model learns to carry out the same time integration using a non-iterative feed-forward scheme.</sup></sub></span>
 
-<br/><br/><br/><br/>  
+<br/><br/>
   
 * Generative models such as normalizing Flows, VAEs and GANs that model uncertainty in temperature, rainfall, fire and flooding in a Bayesian framework. 
   
@@ -46,7 +46,7 @@ We develop hybrid methods that combine the advantages of deep learning and physi
  <span style="color:gray"><sub><sup>Parameter inference for the Lorenz 96 model using the [APT-SNPE algorithm](https://arxiv.org/abs/1905.07488).
  Here the task is to identify the values of four model parameters (F, h, b, c) based on the outputs of the L96 model. 
  Prior beliefs regarding possible parameter values are updated after observing data into narrower posterior ranges of plausible parameter values given data, which are centered on the ground-truth parameters. Each black dot is a single sample from the probability distribution p(parameters | data). </sup></sub></span>
-<br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/>
 
 * Flexible function approximators to fill gaps in our knowledge of physics, chemistry or biology.
 * Models trained on high-resolution numerical simulations to represent the spatially averaged effect of sub-grid-scale processes on coarser, more computationally efficient model grids.
