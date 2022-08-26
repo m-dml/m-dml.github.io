@@ -45,6 +45,8 @@ We develop hybrid methods that combine the advantages of deep learning and physi
  Here the task is to identify the values of four model parameters (F, h, b, c) based on the outputs of the L96 model. 
  Prior beliefs regarding possible parameter values are updated after observing data into narrower posterior ranges of plausible parameter values given data, which are centered on the ground-truth parameters. Each black dot is a single sample from the probability distribution p(parameters | data). </sup></sub></span>
 
+<br/>
+
 * Flexible function approximators to fill gaps in our knowledge of physics, chemistry or biology.
 * Models trained on high-resolution numerical simulations to represent the spatially averaged effect of sub-grid-scale processes on coarser, more computationally efficient model grids.
 * Neural networks that learn carry out data assimilation, identifying the initial state of a system from noisy and incomplete observations at later time points 
