@@ -15,7 +15,7 @@ We also organize a biweekly [seminar](seminar.html) on machine learning at Hereo
 We publish our code on [github](https://github.com/m-dml), and are committed to software sharing as a principle of open and reproducible science.
 
 ## Open Positions
-A [postdoc position](https://hereon.de/career/vacancies/022808/index.php.en) is currently available in our group with an application deadline of Sep. 25. 
+A [postdoc position](https://hereon.de/career/vacancies/022808/index.php.en) is currently available in our group with an application deadline of Sep. 25. Applications can be submitted **only** through the [Hereon website](https://hereon.de/career/vacancies/022808/index.php.en), but feel free to email [David](mailto:david.greenberg@hereon.de) with questions.
 
 We have an opening for a Masters student interested in carrying out research for a thesis project--please write to [David](mailto:david.greenberg@hereon.de) with a CV and statement of interest.
 
