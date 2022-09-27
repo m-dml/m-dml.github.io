@@ -20,7 +20,7 @@ TBA
 
 ## Past Topics
 
-### 51. ""Good neighbours make good parametrizations" 27.09.2022
+### 51. "Good neighbours make good parametrizations" 27.09.2022
 
 On Tuesday, September 27 at 3pm, our ML Seminar will cover "Non-local parameterization of atmospheric subgrid processes with neural networks," by Wang, Yuval & O'Gorman.[1]
  
@@ -36,7 +36,7 @@ In this paper, the authors train an ML solver for GEOS-chem model to solve coupl
 
 [1]  Kelp, Makoto M., Daniel J. Jacob, Haipeng Lin, and Melissa P. Sulprizio. [“An Online-Learned Neural Network Chemical Solver for Stable Long-Term Global Simulations of Atmospheric Chemistry.”](https://doi.org/10.1029/2021MS002926)
 
-### 49 . ""Recovering Ancient History" 12.07.2022
+### 49 . "Recovering Ancient History" 12.07.2022
 On Tuesday July 12 at 3pm, Siddhant Agarwal from DLR will present his publication "Deep learning for surrogate modeling of two-dimensional mantle convection". [1]
 
 So far in our machine learning seminars, we have discussed problems where ML has played an important role in short-term or seasonal forecasting. In the paper for the seminar, we now learn about a problem at a very different timescale that involves simulating models of the planet's mantle over timescales of thousands of years. Due to sparse observations, the initialization of model parameters becomes a rather tedious process. While simplified estimations using 1D models have been useful, 2D models contain more information but can be much slower.
