@@ -20,6 +20,31 @@ TBA
 
 ## Past Topics
 
+### 51. ""Good neighbours make good parametrizations" 27.09.2022
+
+On Tuesday, September 27 at 3pm, our ML Seminar will cover "Non-local parameterization of atmospheric subgrid processes with neural networks," by Wang, Yuval & O'Gorman.[1]
+ 
+Both classical an ML-based parameterization attempt to model sub-grid-scale processes based on the coarse-grained atmospheric or ocean variables present at each grid cell or grid column. This paper goes beyond this standard practice, asking "what if we use information from neighboring grid columns too?" Using this approach, they attempt to predict the tendency of precipitating water due to cloud microphysics in coarse-grained aquaplanet simulations.
+
+
+[1] Wang, Peidong, Janni Yuval, and Paul A. O'Gorman. ["Non-local parameterization of atmospheric subgrid processes with neural networks." Journal of Advances in Modeling Earth Systems](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2022MS002984)
+
+### 50. "Run, Chemistry, Run!" 13.09.2022
+On Tuesday September 13 at 3pm, ML Seminar comes back from a summer break. We are going to discuss a recent paper by Makoto M. Kelp et al "An Online-Learned Neural Network Chemical Solver for Stable Long-Term Global Simulations of Atmospheric Chemistry" [1]. The discussion is going to be led by our new postdoc Dr. Andrey Vlasenko.
+ 
+In this paper, the authors train an ML solver for GEOS-chem model to solve coupled kinetic equations describing the chemical mechanism. A solver implemented with an autoencoder trained online outperforms an implicit Rosenbrock solver. Another interesting aspect of this implementation is the dramatic increase in the stability of simulations. However, appearance of pattern biases stands as a limitation for using this solver.
+
+[1]  Kelp, Makoto M., Daniel J. Jacob, Haipeng Lin, and Melissa P. Sulprizio. [“An Online-Learned Neural Network Chemical Solver for Stable Long-Term Global Simulations of Atmospheric Chemistry.”](https://doi.org/10.1029/2021MS002926)
+
+### 49 . ""Recovering Ancient History" 12.07.2022
+On Tuesday July 12 at 3pm, Siddhant Agarwal from DLR will present his publication "Deep learning for surrogate modeling of two-dimensional mantle convection". [1]
+
+So far in our machine learning seminars, we have discussed problems where ML has played an important role in short-term or seasonal forecasting. In the paper for the seminar, we now learn about a problem at a very different timescale that involves simulating models of the planet's mantle over timescales of thousands of years. Due to sparse observations, the initialization of model parameters becomes a rather tedious process. While simplified estimations using 1D models have been useful, 2D models contain more information but can be much slower.
+In this paper, the authors use feed-forward neural networks and LSTMs to develop reliable surrogates for simulating 2D mantle convection. These are capable of estimating the temperature fields to a high degree of accuracy. We will discuss the challenges of the problem, data used and the implications of this work. 
+
+[1]  Agarwal, S., Tosi, N., Kessel, P., Breuer, D., & Montavon, G. (2021, November 4). [Deep learning for surrogate modeling of two-dimensional mantle convection. Physical Review Fluids.](https://elib.dlr.de/146282/1/PhysRevFluids.6.113801.pdf)
+
+
 ### 48. "Not your Usual Parameterization" 31.05.2022
 For our next seminar on May 31 at 3pm, we will discuss the paper "Deep Learning Based Cloud Cover Parameterization
 for ICON" [1]. We are happy to announce that the first author, Arthur Grundner from DLR, will present the paper.
