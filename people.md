@@ -81,6 +81,22 @@ published: true
     </td>
   </tr>
 
+   <tr>
+    <td style="vertical-align:middle">
+      <img align="center" src="andrey.png" width="100%" style="margin: 0px 0px 0px 0px">
+    </td>
+    <td style="vertical-align:top; text-align:justify">
+      <strong>Andrey Vlasenko</strong><br/>
+      Postdoc<br/><br/><br/>
+      Andrey Vlasenko is a Postdoc researcher at David Greenberg's group . He is developing ML methods sponsored by HAICU that can effectively replace computationally extensive atmospheric chemistry calculations in complex climate systems. His interests include ocean-atmosphere systems, data assimilation, artificial intelligence, atmospheric chemistry, and algorithmic differentiation.
+    </td>
+  </tr>
+ 
+ 
+ 
+ 
+ 
+ 
 </table> 
 
 
@@ -115,4 +131,9 @@ incomplete data and black-box Bayesian inference. He is now a postdoc at UCL's <
     </td>
   </tr>
   
+ 
+ 
+ 
 </table> 
+
+
