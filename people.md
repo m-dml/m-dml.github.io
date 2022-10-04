@@ -88,14 +88,10 @@ published: true
     <td style="vertical-align:top; text-align:justify">
       <strong>Andrey Vlasenko</strong><br/>
       Postdoc<br/><br/><br/>
-      Andrey Vlasenko is a Postdoc researcher at David Greenberg's group . He is developing ML methods sponsored by HAICU that can effectively replace computationally extensive atmospheric chemistry calculations in complex climate systems. His interests include ocean-atmosphere systems, data assimilation, artificial intelligence, atmospheric chemistry, and algorithmic differentiation.
+      Andrey is developing ML methods to effectively replace computationally intensive atmospheric chemistry calculations in complex climate systems. His position is funded by the Helmholtz AI project NACHMO. His interests include ocean-atmosphere systems, data assimilation, artificial intelligence, atmospheric chemistry, and algorithmic differentiation.
     </td>
   </tr>
- 
- 
- 
- 
- 
+  
  
 </table> 
 
