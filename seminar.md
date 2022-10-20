@@ -26,7 +26,7 @@ On Tuesday, October 25 at 3pm, our ML Seminar will cover "Positional Encoder Gra
  
 we will look at PE-GNN, a framework based on Graph neural networks that provide an improved performance on geographical data interpolation and regression. PE-GNN includes a positional encoder that learns spatial context embeddings for each point coordinate that improves predictions. The authors claim that this is the first GNN-based approach that is competitive with Gaussian processes on spatial interpolation tasks.
 
-[1] K. Klemmer, N. Safir, D. B. Neill. ["Positional Encoder Graph Neural Networks for Geographic Data](https://arxiv.org/abs/2111.10144)
+[1] K. Klemmer, N. Safir, D. B. Neill. ["Positional Encoder Graph Neural Networks for Geographic Data"](https://arxiv.org/abs/2111.10144)
 
 
 
@@ -37,7 +37,7 @@ On Tuesday, October 11 at 3pm, our ML Seminar will cover "FourCastNet: Accelerat
 we will discuss FourCastNet, a new solution to a global weather emulator using ML [1]. The authors implemented Adaptive Fourier Neural Operators to solve the dimensionality problem and scaled their approach to ~10,000 GPUs. This results in a surrogate weather model with a 1 km resolution that only takes 6 hours to train. Inference can even be done on a single GPU-node with a speedup to 80,000 times compared to traditional NWPs. 
 
 
-[1] T. Kurth, S. Subramanian, P. Harrington, J. Pathak, M. Mardani, D. Hall, A. Miele, K. Kashinath, A. Anandkumar. ["FourCastNet: Accelerating Global High-Resolution Weather Forecasting using Adaptive Fourier Neural Operators](https://arxiv.org/abs/2208.05419)
+[1] T. Kurth, S. Subramanian, P. Harrington, J. Pathak, M. Mardani, D. Hall, A. Miele, K. Kashinath, A. Anandkumar. ["FourCastNet: Accelerating Global High-Resolution Weather Forecasting using Adaptive Fourier Neural Operators"](https://arxiv.org/abs/2208.05419)
 
 
 ### 51. "Good neighbours make good parametrizations" 27.09.2022
