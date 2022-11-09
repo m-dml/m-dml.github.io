@@ -55,7 +55,7 @@ published: true
     <td style="vertical-align:top; text-align:justify">
       <strong>Vadim Zinchenko</strong><br/>
       PhD Student<br/><br/><br/>
-      Vadim's research focuses on the intersection of machine learning and Earth system modelling. He develops algorithms to combine of data-driven and numerical modelling. He's particulary interested in developing machine learning frameworks that can be applied for inverse problems in the geosciences, such as data assimilation, parameter tuning and process learning from noisy and incomplete observations.
+      Vadim's research focuses on the intersection of machine learning and Earth system modelling. He develops algorithms to combine of data-driven and numerical modelling. He's particulary interested in developing machine learning frameworks that can be applied for inverse problems in the geosciences, such as data assimilation, parameter tuning and process learning from noisy and incomplete observations. He is a participant in the <a href="https://www.coastalfutures.de/index.php.en">CoastalFutures</a> project of the <a href="https://www.allianz-meeresforschung.de/en/">German Alliance for Marine Research</a>.
     </td>
   </tr>
 
