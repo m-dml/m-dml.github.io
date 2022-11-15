@@ -20,6 +20,21 @@ TBA
 
 ## Past Topics
 
+### 55. "Keeping accuracy fine on a coarse grid" 22.11.2022
+
+On Tuesday, November 22 at 3pm, our ML Seminar will cover "Machine learning–accelerated computational fluid dynamics" by D. Kochkov, et al.[1]
+
+High accuracy of numerical simulations for fluid dynamics is always required to model many physical phenomena, such as  weather and climate. However, the accuracy usually is limited by the computational cost of resolving the smallest spatiotemporal features. This paper shows a machine learning-accelerated approach that achieves a same accuracy as the traditional methods but with coarse resolution. The detail results are as accurate as baseline solvers with 8 to 10x finer resolution, while performing the computation 40 to 80x faster.
+
+[1] D. Kochkov, et al. ["Machine learning–accelerated computational fluid dynamics"](https://www.pnas.org/doi/epdf/10.1073/pnas.2101784118)
+
+
+### 54. "All for one and one for all" 8.11.2022
+
+On Tuesday, November 8 at 15:00 we are going to discuss a paper on possible approaches of using ensembles for data-driven weather forecasts. Two approaches are adopted from numerical weather prediction where an ensemble forecast is created by perturbed initial conditions. The rest are specific for neural networks: retraining from different random initialization or using dropouts on trained deterministic neural networks. Any of these ensemble methods beat deterministic neural network forecasts.
+
+[1] Scher, Sebastian, and Gabriele Messori. ["Ensemble Methods for Neural Network-Based Weather Forecasts"](https://doi.org/10.1029/2020MS002331)
+
 ### 53. "A world wide web for spatial interpolation" 25.10.2022
 
 On Tuesday, October 25 at 3pm, our ML Seminar will cover "Positional Encoder Graph Neural Networks for Geographic Data," by K. Klemmer, N. Safir, and D. B. Neill.[1]
@@ -28,17 +43,13 @@ we will look at PE-GNN, a framework based on Graph neural networks that provide 
 
 [1] K. Klemmer, N. Safir, D. B. Neill. ["Positional Encoder Graph Neural Networks for Geographic Data"](https://arxiv.org/abs/2111.10144)
 
-
-
 ### 52. "Nvidia killed the NWP (clu)stars" 11.10.2022
 
 On Tuesday, October 11 at 3pm, our ML Seminar will cover "FourCastNet: Accelerating Global High-Resolution Weather Forecasting using Adaptive Fourier Neural Operators," by T. Kurth, S. Subramanian, P. Harrington, J. Pathak, M. Mardani, D. Hall, A. Miele, K. Kashinath, A. Anandkumar.[1]
  
-we will discuss FourCastNet, a new solution to a global weather emulator using ML [1]. The authors implemented Adaptive Fourier Neural Operators to solve the dimensionality problem and scaled their approach to ~10,000 GPUs. This results in a surrogate weather model with a 1 km resolution that only takes 6 hours to train. Inference can even be done on a single GPU-node with a speedup to 80,000 times compared to traditional NWPs. 
-
+we will discuss FourCastNet, a new solution to a global weather emulator using ML [1]. The authors implemented Adaptive Fourier Neural Operators to solve the dimensionality problem and scaled their approach to ~10,000 GPUs. This results in a surrogate weather model with a 1 km resolution that only takes 6 hours to train. Inference can even be done on a single GPU-node with a speedup to 80,000 times compared to traditional NWPs.
 
 [1] T. Kurth, S. Subramanian, P. Harrington, J. Pathak, M. Mardani, D. Hall, A. Miele, K. Kashinath, A. Anandkumar. ["FourCastNet: Accelerating Global High-Resolution Weather Forecasting using Adaptive Fourier Neural Operators"](https://arxiv.org/abs/2208.05419)
-
 
 ### 51. "Good neighbours make good parametrizations" 27.09.2022
 
