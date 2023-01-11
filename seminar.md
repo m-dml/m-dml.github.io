@@ -20,6 +20,14 @@ TBA
 
 ## Past Topics
 
+### 56. "Uncertainty and Memory" 17.01.2023
+
+On Tuesday, January 17 at 3pm, our ML Seminar will cover "History-based, Bayesian closure for stochastic parameterization: application to Lorenz'96" by M. A. Bhouri, and P. Gentine.[1]
+
+Physical parameterizations are widely used as representations of unresolved subgrid processes  within weather and global climate models or coarse-scale turbulent models. Machine learning-based  parameterizations have shown great promises to reduce uncertainties associated with small-scale processes. However, those approaches still show some important mismatches that are often attributed to stochasticity in the considered process. This paper shows a new type of parameterization which is based on a Bayesian formalism for neural networks, to account for uncertainty quantification, and includes memory, to account for the non-instantaneous response of the closure. The authors apply this approach to the Lorenz’96 model in the presence of noisy and sparse data, and show its capacity to predict skillful forecasts of the  resolved variables while returning trustworthy uncertainty quantifications for different sources of error.
+
+[1] M. A. Bhouri, et al. ["History-based, Bayesian closure for stochastic parameterization: application to Lorenz'96"](https://arxiv.org/pdf/2210.14488.pdf)
+
 ### 55. "Keeping accuracy fine on a coarse grid" 22.11.2022
 
 On Tuesday, November 22 at 3pm, our ML Seminar will cover "Machine learning–accelerated computational fluid dynamics" by D. Kochkov, et al.[1]
@@ -27,7 +35,6 @@ On Tuesday, November 22 at 3pm, our ML Seminar will cover "Machine learning–ac
 High accuracy of numerical simulations for fluid dynamics is always required to model many physical phenomena, such as  weather and climate. However, the accuracy usually is limited by the computational cost of resolving the smallest spatiotemporal features. This paper shows a machine learning-accelerated approach that achieves a same accuracy as the traditional methods but with coarse resolution. The detail results are as accurate as baseline solvers with 8 to 10x finer resolution, while performing the computation 40 to 80x faster.
 
 [1] D. Kochkov, et al. ["Machine learning–accelerated computational fluid dynamics"](https://www.pnas.org/doi/epdf/10.1073/pnas.2101784118)
-
 
 ### 54. "All for one and one for all" 8.11.2022
 
