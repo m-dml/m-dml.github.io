@@ -20,6 +20,14 @@ TBA
 
 ## Past Topics
 
+### 57. "Decoding the Encoding" 14.02.2023
+On Tuesday, February 14 at 3pm, our ML Seminar will cover "Non-Linear Dimensionality Reduction with a Variational Encoder Decoder to Understand Convective Processes in Climate Models" by G. Behrens, et al.[1]
+
+ML methods have been extensively used for accurate reproduction of various parameterized processes in weather and climate models. In the paper for the seminar, variational autoencoders(VEDs) are used for learn and understand convective processes in an aquaplanet superparameterized climate model simulation. The authors show that not only are VEDs capable of learning the parameterized processes, but they can also do so while compressing information. The authors further investigate the different modes to understand the convective processes and empahsize the interpretability of this method.
+
+[1] G. Behrens, et al. ["Non-Linear Dimensionality Reduction with a Variational Encoder Decoder to Understand Convective Processes in Climate Models."](https://arxiv.org/abs/2204.08708)
+
+
 ### 56. "Uncertainty and Memory" 17.01.2023
 
 On Tuesday, January 17 at 3pm, our ML Seminar will cover "History-based, Bayesian closure for stochastic parameterization: application to Lorenz'96" by M. A. Bhouri, and P. Gentine.[1]
