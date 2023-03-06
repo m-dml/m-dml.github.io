@@ -20,13 +20,19 @@ TBA
 
 ## Past Topics
 
+### 58. "Decoding the Encoding" 14.02.2023
+On Tuesday, February 28 at 3pm, our ML Seminar will cover "Digital Twin Earth--Coasts: Developing a fast and physics-informed surrogate model for coastal floods via neural operators" by P. Jiang, et al.[1]
+
+How they built a digital twin for the NEMO model using Fourier Neural Operators (Reading the paper before the Seminar is encouraged but not required). Everyone who has an opinion on digital twins, what that means and why those words are so attractive (or maybe not so) is highly welcome to join our discussion, which will be held online.
+
+[1] P. Jiang, et al. ["Digital Twin Earth -- Coasts: Developing a fast and physics-informed surrogate model for coastal floods via neural operators."](https://arxiv.org/abs/2110.07100)
+
 ### 57. "Decoding the Encoding" 14.02.2023
 On Tuesday, February 14 at 3pm, our ML Seminar will cover "Non-Linear Dimensionality Reduction with a Variational Encoder Decoder to Understand Convective Processes in Climate Models" by G. Behrens, et al.[1]
 
 ML methods have been extensively used for accurate reproduction of various parameterized processes in weather and climate models. In the paper for the seminar, variational autoencoders(VEDs) are used for learn and understand convective processes in an aquaplanet superparameterized climate model simulation. The authors show that not only are VEDs capable of learning the parameterized processes, but they can also do so while compressing information. The authors further investigate the different modes to understand the convective processes and empahsize the interpretability of this method.
 
 [1] G. Behrens, et al. ["Non-Linear Dimensionality Reduction with a Variational Encoder Decoder to Understand Convective Processes in Climate Models."](https://arxiv.org/abs/2204.08708)
-
 
 ### 56. "Uncertainty and Memory" 17.01.2023
 
