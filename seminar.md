@@ -20,7 +20,7 @@ TBA
 
 ## Past Topics
 
-### 58. "Decoding the Encoding" 14.02.2023
+### 58. "What is this? An earth for NPCs?" 28.02.2023
 On Tuesday, February 28 at 3pm, our ML Seminar will cover "Digital Twin Earth--Coasts: Developing a fast and physics-informed surrogate model for coastal floods via neural operators" by P. Jiang, et al.[1]
 
 How they built a digital twin for the NEMO model using Fourier Neural Operators (Reading the paper before the Seminar is encouraged but not required). Everyone who has an opinion on digital twins, what that means and why those words are so attractive (or maybe not so) is highly welcome to join our discussion, which will be held online.
