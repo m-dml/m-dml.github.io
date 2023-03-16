@@ -20,6 +20,14 @@ TBA
 
 ## Past Topics
 
+### 59. "Can deep learning beat numerical weather prediction?" 14.03.2023
+On Tuesday, March 14 at 3pm, our ML Seminar will cover "Can deep learning beat numerical weather prediction?" by M. G. Schultz, et al.[1]
+
+I believe that all of you have at least once asked this question, and here is a great opportunity to raise it again following the discussion opened in the article. The article revises the progress in the NWP and ML from the early-day algorithms to the state-of-art complex models, comparing their pros and contras. As the argument in favor of ML, the authors note that ML models have recently successfully replaced some blocks in complex NWP models and that several neural networks already predict the weather on short time scales as accurately as their numerical counterparts. Will this trend continue in long-term forecasting is discussed in this paper.
+
+[1] M. G. Schultz, et al. ["Can deep learning beat numerical weather prediction?"](https://royalsocietypublishing.org/doi/epdf/10.1098/rsta.2020.0097)
+
+
 ### 58. "What is this? An earth for NPCs?" 28.02.2023
 On Tuesday, February 28 at 3pm, our ML Seminar will cover "Digital Twin Earth--Coasts: Developing a fast and physics-informed surrogate model for coastal floods via neural operators" by P. Jiang, et al.[1]
 
