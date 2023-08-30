@@ -7,7 +7,7 @@ published: true
 ## Group members
  <table border="0" style="width:100%; border-spacing: 10px">
   <colgroup>
-    <col style="width:30%">
+    <col style="width:20%">
     <col>
   </colgroup>
   <tr>
@@ -72,17 +72,6 @@ published: true
 
   <tr>
     <td style="vertical-align:middle">
-      <img align="center" src="naveen.png" width="100%" style="margin: 0px 0px 0px 0px">
-    </td>
-    <td style="vertical-align:top; text-align:justify">
-      <strong>Naveen Parameswaran</strong><br/>
-      PhD exchange student<br/><br/><br/>
-      Naveen's research revolves around prediction tasks in the marine geosciences. He focuses on using machine learning methods to obtain a global prediction map of sedimentation rates in the seafloor. As a PhD student at GEOMAR in Kiel, he is currently visitng our group on a fellowship funded by the <a href="https://www.helmholtz-hida.de/en/new-horizons/trainee-network/">HIDA trainee network</a>.
-    </td>
-  </tr>
-
-   <tr>
-    <td style="vertical-align:middle">
       <img align="center" src="andrey.png" width="100%" style="margin: 0px 0px 0px 0px">
     </td>
     <td style="vertical-align:top; text-align:justify">
@@ -92,7 +81,17 @@ published: true
     </td>
   </tr>
   
- 
+<tr>
+    <td style="vertical-align:middle">
+      <img align="center" src="minh.png" width="100%" style="margin: 0px 0px 0px 0px">
+    </td>
+    <td style="vertical-align:top; text-align:justify">
+      <strong>Minh Nguyen</strong><br/>
+      Postdoc<br/><br/><br/>
+      Minh's research focuses on differentiable physics approaches for ocean modelling. Using a combination of numerical methods and data-driven ML, he develops techniques for gradient-based optimization in realistic ocean models, and in particular for <a href="https://www.nemo-ocean.eu">NEMO</a>. Applications applications include data assimiliation, parameter tuning and parametrization learning. He is funded by <a href="https://www.edito-modellab.eu">EDITO ModelLab</a>, an EU project aiming to create digital twins of the ocean.
+    </td>
+  </tr>
+
 </table> 
 
 
@@ -124,6 +123,17 @@ incomplete data and black-box Bayesian inference. He is now a postdoc at UCL's <
       <strong>Kubilay Demir</strong><br/>
       Masters Student<br/><br/><br/>
       Kubilay was enrolled in the MSc. program in Ocean and Climate Physics at the University of Hamburg. His research, carried out jointly with <a href = "https://hereon.de/institutes/coastal_systems_analysis_modeling/matter_transport_ecosystem_dynamics/team/098744/index.php.en">Kai Logemann</a> at Hereon, applied the principle of Physics Informed Neural Networks to oceanographic problems. He is now a PhD student at Hereon's Institute of Coastal research, working on nutrient cycle in ocean ecosystem models.
+    </td>
+  </tr>
+
+  <tr>
+    <td style="vertical-align:middle">
+      <img align="center" src="naveen.png" width="100%" style="margin: 0px 0px 0px 0px">
+    </td>
+    <td style="vertical-align:top; text-align:justify">
+      <strong>Naveen Parameswaran</strong><br/>
+      PhD exchange student<br/><br/><br/>
+      Naveen's research revolves around prediction tasks in the marine geosciences. He focuses on using machine learning methods to obtain a global prediction map of sedimentation rates in the seafloor. As a PhD student at GEOMAR in Kiel, he visited our group on a fellowship funded by the <a href="https://www.helmholtz-hida.de/en/new-horizons/trainee-network/">HIDA trainee network</a>.
     </td>
   </tr>
   
