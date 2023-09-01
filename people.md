@@ -92,6 +92,17 @@ published: true
     </td>
   </tr>
 
+<tr>
+    <td style="vertical-align:middle">
+      <img align="center" src="alican.jpg" width="100%" style="margin: 0px 0px 0px 0px">
+    </td>
+    <td style="vertical-align:top; text-align:justify">
+      <strong>Ali Can Bekar</strong><br/>
+      Postdoc<br/><br/><br/>
+      Ali's work revolves around using machine learning to enhance numerical simulations. He's particularly interested in applied mathematics, fluid mechanics, and scientific computing. Lately, he's been delving into the simulations of mantle convection in Mars and Mercury.
+    </td>
+  </tr>
+
 </table> 
 
 
