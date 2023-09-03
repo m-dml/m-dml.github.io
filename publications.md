@@ -1,4 +1,9 @@
 ## Publications
+### 2023
+Schanz, T., Möller, K., Rühl, S., Greenberg, D. [Robust detection of marine life with label-free image feature learning and probability calibration](https://iopscience.iop.org/article/10.1088/2632-2153/ace417/meta). Machine Learning: Science and Technology.
+
+Rubbens, P., et al. [Machine learning in marine ecology: an overview of techniques and applications](https://academic.oup.com/icesjms/advance-article/doi/10.1093/icesjms/fsad100/7236451). ICES Journal of Marine Science..
+
 ### 2022
 Ramesh, P., Lueckmann, J.-M., Boelts, J., Tejero-Cantero, A., Greenberg, D.S., Gonçalves, P.J., & Macke, J.H. [GATSBI: Generative Adversarial Training for Simulation-Based Inference](https://openreview.net/pdf?id=kR1hC6j48Tp). International Conference on Learning Representations.
 
@@ -12,7 +17,7 @@ Lueckmann, Jan-Matthis, Boelts, Jan, Greenberg, David, Goncalves, Pedro, Macke, 
 Paasche, Hendrik, Gross, Matthias, Lüttgau, Jakob, Greenberg, David, Weigel. [To the brave scientists: Aren't we strong enough to stand (and profit from) uncertainty in Earth system measurement and modelling?](https://rmets.onlinelibrary.wiley.com/doi/10.1002/gdj3.132) Geoscience Data Journal.
 
 ### 2020
-Tejero-Cantero, A.; Boelts, J.; Deistler, M.; Lueckmann, J.; Durkan, C.; Goncalves, P.; Greenberg, D.; Macke, J. [sbi: A toolkit for simulation-based inference](https://joss.theoj.org/papers/10.21105/joss.02505). The Journal of Open Source Software.
+Tejero-Cantero, A., Boelts, J., Deistler, M., Lueckmann, J., Durkan, C., Goncalves, P., Greenberg, D., Macke, J. [sbi: A toolkit for simulation-based inference](https://joss.theoj.org/papers/10.21105/joss.02505). The Journal of Open Source Software.
 
 Gonçalves, P. J., Lueckmann, J. M., Deistler, M., Nonnenmacher, M., Öcal, K., Bassetto, G., Chintaluri, C., Podlaski, W. F., Haddad, S. A., Vogels, T. P., Greenberg, D. S., & Macke, J. H. (2020). [Training deep neural density estimators to identify mechanistic models of neural dynamics](https://elifesciences.org/articles/56261). eLife. 
 
