@@ -30,7 +30,7 @@ published: true
     </td>
     <td style="vertical-align:top; text-align:justify">
       <strong>Tobias Machnitzki</strong><br/>
-      PhD Student<br/><br/><br/>
+      PhD Student<br/><br/>
       Tobias started his PhD in the m-dml group in August 2020, after finishing his Masters in Meteorology at the University of Hamburg. 
       He works on conditional generative adversarial networks with the intention to use their output diversity for estimating uncertainties 
       in weather prediction tasks.
@@ -54,7 +54,7 @@ published: true
     </td>
     <td style="vertical-align:top; text-align:justify">
       <strong>Vadim Zinchenko</strong><br/>
-      PhD Student<br/><br/><br/>
+      PhD Student<br/><br/>
       Vadim's research focuses on the intersection of machine learning and Earth system modelling. He develops algorithms to combine of data-driven and numerical modelling. He's particulary interested in developing machine learning frameworks that can be applied for inverse problems in the geosciences, such as data assimilation, parameter tuning and process learning from noisy and incomplete observations. He is a participant in the <a href="https://www.coastalfutures.de/index.php.en">CoastalFutures</a> project of the <a href="https://www.allianz-meeresforschung.de/en/">German Alliance for Marine Research</a>.
     </td>
   </tr>
@@ -65,7 +65,7 @@ published: true
     </td>
     <td style="vertical-align:top; text-align:justify">
       <strong>Yunfei Huang</strong><br/>
-      Postdoc<br/><br/><br/>
+      Postdoc<br/><br/>
       Yunfei works on data-driven modeling for the Earth system. He is interested in the uncertainty quantification using deep learning, Bayesian approaches, and information theory. Previously, he obtained PhD in biophysics at the university of Cologne on advanced data analysis for traction force microscopy and data-driven discovery of physical equations.
     </td>
   </tr>
@@ -87,7 +87,7 @@ published: true
     </td>
     <td style="vertical-align:top; text-align:justify">
       <strong>Minh Nguyen</strong><br/>
-      Postdoc<br/><br/><br/>
+      Postdoc<br/><br/>
       Minh's research focuses on differentiable physics approaches for ocean modelling. Using a combination of numerical methods and data-driven ML, he develops techniques for gradient-based optimization in realistic ocean models, and in particular for <a href="https://www.nemo-ocean.eu">NEMO</a>. Applications include data assimiliation, parameter tuning and parametrization learning. He is funded by <a href="https://www.edito-modellab.eu">EDITO ModelLab</a>, an EU project aiming to create digital twins of the ocean.
     </td>
   </tr>
@@ -143,7 +143,7 @@ incomplete data and black-box Bayesian inference. He is now a postdoc at UCL's <
     </td>
     <td style="vertical-align:top; text-align:justify">
       <strong>Naveen Parameswaran</strong><br/>
-      PhD exchange student<br/><br/><br/>
+      PhD exchange student<br/><br/>
       Naveen's research revolves around prediction tasks in the marine geosciences. He focuses on using machine learning methods to obtain a global prediction map of sedimentation rates in the seafloor. As a PhD student at GEOMAR in Kiel, he visited our group on a fellowship funded by the <a href="https://www.helmholtz-hida.de/en/new-horizons/trainee-network/">HIDA trainee network</a>.
     </td>
   </tr>
