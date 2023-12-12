@@ -1,5 +1,10 @@
 ## Publications
 ### 2023
+
+Huang, Y, Greenberg, D. [Symmetry Constraints Enhance Long-term Stability and Accuracy in Unsupervised Learning of Geophysical Fluid Flows](https://essopenarchive.org/doi/full/10.22541/essoar.170224565.52373387/v1). ESS Open Archive.
+
+Arnold, C., Sharma, S., Weigel, T., Greenberg, D. :[Efficient and Stable Coupling of the SuperdropNet Deep Learning-based Cloud Microphysics (v0. 1.0) to the ICON Climate and Weather Model (v2. 6.5)](https://egusphere.copernicus.org/preprints/2023/egusphere-2023-2047/). EGUsphere [preprint].
+
 Schanz, T., Möller, K., Rühl, S., Greenberg, D. [Robust detection of marine life with label-free image feature learning and probability calibration](https://iopscience.iop.org/article/10.1088/2632-2153/ace417/meta). Machine Learning: Science and Technology.
 
 Rubbens, P., et al. [Machine learning in marine ecology: an overview of techniques and applications](https://academic.oup.com/icesjms/advance-article/doi/10.1093/icesjms/fsad100/7236451). ICES Journal of Marine Science..
