@@ -1,7 +1,7 @@
 ## Publications
 ### 2023
 
-Huang, Y, Greenberg, D. [Symmetry Constraints Enhance Long-term Stability and Accuracy in Unsupervised Learning of Geophysical Fluid Flows](https://essopenarchive.org/doi/full/10.22541/essoar.170224565.52373387/v1). ESS Open Archive.
+Huang, Y., Greenberg, D. [Symmetry Constraints Enhance Long-term Stability and Accuracy in Unsupervised Learning of Geophysical Fluid Flows](https://essopenarchive.org/doi/full/10.22541/essoar.170224565.52373387/v1). ESS Open Archive [preprint].
 
 Arnold, C., Sharma, S., Weigel, T., Greenberg, D. :[Efficient and Stable Coupling of the SuperdropNet Deep Learning-based Cloud Microphysics (v0. 1.0) to the ICON Climate and Weather Model (v2. 6.5)](https://egusphere.copernicus.org/preprints/2023/egusphere-2023-2047/). EGUsphere [preprint].
 
