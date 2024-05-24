@@ -1,11 +1,13 @@
 ## Publications
+### 2024
+Sharma, S. & Greenberg D.S. [SuperdropNet: a Stable and Accurate Machine Learning Proxy for Droplet-based Cloud Microphysics](https://arxiv.org/abs/2402.18354). arXiv [preprint].
+
 ### 2023
+Huang, Y. & Greenberg, D.S. [Symmetry Constraints Enhance Long-term Stability and Accuracy in Unsupervised Learning of Geophysical Fluid Flows](https://essopenarchive.org/doi/full/10.22541/essoar.170224565.52373387/v1). ESS Open Archive [preprint].
 
-Huang, Y., Greenberg, D. [Symmetry Constraints Enhance Long-term Stability and Accuracy in Unsupervised Learning of Geophysical Fluid Flows](https://essopenarchive.org/doi/full/10.22541/essoar.170224565.52373387/v1). ESS Open Archive [preprint].
+Arnold, C., Sharma, S., Weigel, T., Greenberg, D.S. :[Efficient and Stable Coupling of the SuperdropNet Deep Learning-based Cloud Microphysics (v0. 1.0) to the ICON Climate and Weather Model (v2. 6.5)](https://egusphere.copernicus.org/preprints/2023/egusphere-2023-2047/). EGUsphere [preprint].
 
-Arnold, C., Sharma, S., Weigel, T., Greenberg, D. :[Efficient and Stable Coupling of the SuperdropNet Deep Learning-based Cloud Microphysics (v0. 1.0) to the ICON Climate and Weather Model (v2. 6.5)](https://egusphere.copernicus.org/preprints/2023/egusphere-2023-2047/). EGUsphere [preprint].
-
-Schanz, T., Möller, K., Rühl, S., Greenberg, D. [Robust detection of marine life with label-free image feature learning and probability calibration](https://iopscience.iop.org/article/10.1088/2632-2153/ace417/meta). Machine Learning: Science and Technology.
+Schanz, T., Möller, K., Rühl, S., Greenberg, D.S. [Robust detection of marine life with label-free image feature learning and probability calibration](https://iopscience.iop.org/article/10.1088/2632-2153/ace417/meta). Machine Learning: Science and Technology.
 
 Rubbens, P., et al. [Machine learning in marine ecology: an overview of techniques and applications](https://academic.oup.com/icesjms/advance-article/doi/10.1093/icesjms/fsad100/7236451). ICES Journal of Marine Science..
 
@@ -13,9 +15,9 @@ Rubbens, P., et al. [Machine learning in marine ecology: an overview of techniqu
 Ramesh, P., Lueckmann, J.-M., Boelts, J., Tejero-Cantero, A., Greenberg, D.S., Gonçalves, P.J., & Macke, J.H. [GATSBI: Generative Adversarial Training for Simulation-Based Inference](https://openreview.net/pdf?id=kR1hC6j48Tp). International Conference on Learning Representations.
 
 ### 2021
-Nonnenmacher, Marcel, and David S. Greenberg. [Learning Implicit PDE Integration with Linear Implicit Layers](https://openreview.net/pdf?id=veNBQ15T6N0). The Symbiosis of Deep Learning and Differential Equations, Conference on Neural Information Processing Systems.
+Nonnenmacher, Marcel, and Greenberg, D.S. [Learning Implicit PDE Integration with Linear Implicit Layers](https://openreview.net/pdf?id=veNBQ15T6N0). The Symbiosis of Deep Learning and Differential Equations, Conference on Neural Information Processing Systems.
 
-Nonnenmacher, M., & Greenberg, D.S. [Deep emulators for differentiation, forecasting, and parametrization in Earth science simulators](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021MS002554). Journal of Advances in Modeling Earth Systems. 
+Nonnenmacher, M. & Greenberg, D.S. [Deep emulators for differentiation, forecasting, and parametrization in Earth science simulators](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021MS002554). Journal of Advances in Modeling Earth Systems. 
 
 Lueckmann, Jan-Matthis, Boelts, Jan, Greenberg, David, Goncalves, Pedro, Macke, Jakob. [Benchmarking Simulation-Based Inference](http://proceedings.mlr.press/v130/lueckmann21a.html). International Conference on Artificial Intelligence and Statistics.
 

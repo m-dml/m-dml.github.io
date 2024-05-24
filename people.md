@@ -133,7 +133,7 @@ incomplete data and black-box Bayesian inference. He is now a postdoc at UCL's <
     <td style="vertical-align:top; text-align:justify">
       <strong>Kubilay Demir</strong><br/>
       Masters Student<br/><br/><br/>
-      Kubilay was enrolled in the masters program in Ocean and Climate Physics at the University of Hamburg. His research, carried out jointly with <a href = "https://hereon.de/institutes/coastal_systems_analysis_modeling/matter_transport_ecosystem_dynamics/team/098744/index.php.en">Kai Logemann</a> at Hereon, applied the principle of Physics Informed Neural Networks to oceanographic problems. He is now a PhD student at Hereon's Institute of Coastal research, working on nutrient cycle in ocean ecosystem models.
+      Kubilay was enrolled in the masters program in Ocean and Climate Physics at the University of Hamburg. His research, carried out jointly with <a href = "https://hereon.de/institutes/coastal_systems_analysis_modeling/matter_transport_ecosystem_dynamics/team/098744/index.php.en">Kai Logemann</a> at Hereon, applied the principle of Physics Informed Neural Networks to oceanographic problems. He is now a PhD student at Hereon's Institute of Coastal research, working on nutrient cycles in ocean ecosystem models.
     </td>
   </tr>
 
