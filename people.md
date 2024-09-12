@@ -103,6 +103,17 @@ published: true
     </td>
   </tr>
 
+  <tr>
+    <td style="vertical-align:middle">
+      <img align="center" src="Nishant.jpg" width="100%" style="margin: 0px 0px 0px 0px">
+    </td>
+    <td style="vertical-align:top; text-align:justify">
+      <strong>Nishant Kumar</strong><br/>
+      Postdoc<br/><br/><br/>
+      Nishant’s research focuses on advancing generative AI methodologies to address complex challenges in computer vision. His work also involves applying invertible neural networks to solve inverse problems. Currently, he is interested in leveraging his machine learning expertise to improve climate and earth system modeling. His full profile is available on his <a href="https://nish03.github.io/">personal homepage</a>. He is supported by the <a href="https://hclimrep-project.de/">HClimRep project</a>, a Helmholtz Foundation Model Initiative for developing cutting-edge AI foundation models for climate research.
+    </td>
+  </tr>
+
 </table> 
 
 
