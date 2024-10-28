@@ -26,19 +26,6 @@ published: true
 
   <tr>
     <td style="vertical-align:middle">
-      <img align="center" src="tobi.png" width="100%" style="margin: 0px 0px 0px 0px">
-    </td>
-    <td style="vertical-align:top; text-align:justify">
-      <strong>Tobias Machnitzki</strong><br/>
-      PhD Student<br/><br/>
-      Tobias started his PhD in the m-dml group in August 2020, after finishing his Masters in Meteorology at the University of Hamburg. 
-      He works on conditional generative adversarial networks with the intention to use their output diversity for estimating uncertainties 
-      in weather prediction tasks.
-    </td>
-  </tr>  
-
-  <tr>
-    <td style="vertical-align:middle">
       <img align="center" src="Shivani.jpg" width="100%" style="margin: 0px 0px 0px 0px">
     </td>
     <td style="vertical-align:top; text-align:justify">
@@ -136,6 +123,18 @@ probability distributions. During his PhD in computational neuroscience, he work
 incomplete data and black-box Bayesian inference. He is now a postdoc at UCL's <a href = "https://www.ucl.ac.uk/gatsby/gatsby-computational-neuroscience-unit">Gatsby unit</a> in London.
     </td>
   </tr> 
+
+ <tr>
+    <td style="vertical-align:middle">
+      <img align="center" src="tobi.png" width="100%" style="margin: 0px 0px 0px 0px">
+    </td>
+    <td style="vertical-align:top; text-align:justify">
+      <strong>Tobias Schanz</strong><br/>
+      PhD Student<br/><br/>
+      Tobias started his PhD in the m-dml group in August 2020, after finishing his Masters in Meteorology at the University of Hamburg. 
+      He worked on conditional density estimation with an emphasis on ensemble methods, and self-supervised learning for aquatic life imaging. He now works as an AI engineer at <a href="https://iits-consulting.de">iits-consulting</a>.
+    </td>
+  </tr>
 
   <tr>
     <td style="vertical-align:middle">
