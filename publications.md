@@ -1,5 +1,9 @@
 ## Publications
 ### 2024
+Demir K.T., Logemann K, Greenberg D.S. [Closed-Boundary Reflections of Shallow Water Waves as an Open Challenge for Physics-Informed Neural Networks](https://www.mdpi.com/2227-7390/12/21/3315). Mathematics.
+
+Zinchenko, V. & Greenberg D.S. [Combined Optimization of Dynamics and Assimilation with End-to-End Learning on Sparse Observations](https://arxiv.org/abs/2409.07137) arXiv [preprent].
+
 Sharma, S. & Greenberg D.S. [SuperdropNet: a Stable and Accurate Machine Learning Proxy for Droplet-based Cloud Microphysics](https://arxiv.org/abs/2402.18354). arXiv [preprint].
 
 ### 2023
