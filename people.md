@@ -132,7 +132,7 @@ incomplete data and black-box Bayesian inference. He is now a postdoc at UCL's <
     <td style="vertical-align:top; text-align:justify">
       <strong>Shivani Sharma</strong><br/>
       PhD Student<br/><br/><br/>
-      Shivani started her PhD in October 2020, after completed her Master's in Atmospheric Science at IIT Delhi. Her research applied machine learning to cloud microphysics parametrizations in atmospheric models, and coupling of ML models to Fortran based simulations. She completed here PhD in 2024.
+      Shivani started her PhD in October 2020, after completing her Master's in Atmospheric Science at IIT Delhi. Her research applied machine learning to cloud microphysics parametrizations in atmospheric models, and coupling of ML models to Fortran-based simulations. She completed her PhD in 2024.
     </td>
   </tr>
 
