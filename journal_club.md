@@ -3,22 +3,13 @@ layout: default
 landing: true
 published: true
 ---
+## Journal club
+We organize a weekly journal club on ML for the geosciences, every Tuesday at 11:00 (GMT+1). We discuss papers on ML, often (but not always) with connections to Earth science, climate and weather. The journal club is hybrid, with participants joining in-person at Hereon as well as online. 
 
-## Seminar
-We organize a biweekly seminar on machine learning, every second Tuesday at 3pm (GMT+2). We discuss papers on ML, often (but not always) with connections to Earth science, climate and weather and materials science.
+To get updates about each meeting or suggest a topic, please [contact us](mailto:david.greenberg@hereon.de).
 
-The seminar also allows members of the Hamburg machine learning community to connect and present their ongoing work. We meet in person at Hereon, but we also welcome remote online participants and stream the meeting live on our [YouTube channel](https://www.youtube.com/channel/UCyXAYFO3h-tBIEbPEqMnNKw).
-
-To get updates about each meeting or suggest a topic, please [join our mailing list](https://groups.google.com/forum/#!forum/mlhzg/join).
-
-## Future Topics
-
-
-**For 2022 we are continuing our seminar on Zoom only (not on YouTube)**. We're hoping to encourage more discussion and exchange of ideas in this format, but we are always accepting new subscriptions to our mailing list if you'd like to join. Participants from all research fields and institutions are welcome!
-
-TBA
-
-## Past Topics
+## Archives
+We formerly streamed our seminar on [YouTube](https://www.youtube.com/channel/UCyXAYFO3h-tBIEbPEqMnNKw), and archive some past discussions here. 
 
 ### 59. "Can deep learning beat numerical weather prediction?" 14.03.2023
 On Tuesday, March 14 at 3pm, our ML Seminar will cover "Can deep learning beat numerical weather prediction?" by M. G. Schultz, et al.[1]

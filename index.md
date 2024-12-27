@@ -9,7 +9,7 @@ Our group is part of the [Institute of Coastal Systems](https://hereon.de/instit
 
 In [our research](research.html) we investigate the Earth system at the boundary between physics-based and machine learning approaches, to gain insights unavailable to either approach alone.
 
-We also organize a biweekly [seminar](seminar.html) on machine learning at Hereon, aimed at the scientific communities of the Helmholtz Institutes and the Hamburg area.
+We also organize a weekly journal club on machine learning at Hereon, aimed at the Earth science and deep learning communities of the Helmholtz Institutes and the Hamburg area. Please [write us](mailto:david.greenberg@hereon.de) if you're interested in joining in person or online.
 
 ## Software
 We publish our code on [github](https://github.com/m-dml), and are committed to software sharing as a principle of open and reproducible science.

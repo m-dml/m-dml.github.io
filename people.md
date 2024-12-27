@@ -26,17 +26,6 @@ published: true
 
   <tr>
     <td style="vertical-align:middle">
-      <img align="center" src="Shivani.jpg" width="100%" style="margin: 0px 0px 0px 0px">
-    </td>
-    <td style="vertical-align:top; text-align:justify">
-      <strong>Shivani Sharma</strong><br/>
-      PhD Student<br/><br/><br/>
-      Shivani completed her master's in Atmospheric Science from Indian Institute of Technology, Delhi. She's interested in using machine learning for parametrizations in atmospheric models to improve the representation of sub-grid scale processes and generate more accurate forecasts.
-    </td>
-  </tr>
-  
-  <tr>
-    <td style="vertical-align:middle">
       <img align="center" src="vadim.jpg" width="100%" style="margin: 0px 0px 0px 0px">
     </td>
     <td style="vertical-align:top; text-align:justify">
@@ -132,7 +121,18 @@ incomplete data and black-box Bayesian inference. He is now a postdoc at UCL's <
       <strong>Tobias Schanz</strong><br/>
       PhD Student<br/><br/>
       Tobias started his PhD in the m-dml group in August 2020, after finishing his Masters in Meteorology at the University of Hamburg. 
-      He worked on conditional density estimation with an emphasis on ensemble methods, and self-supervised learning for aquatic life imaging. He now works as an AI engineer at <a href="https://iits-consulting.de">iits-consulting</a>.
+      He worked on conditional density estimation with an emphasis on ensemble methods, and self-supervised learning for aquatic life imaging. After finishin his PhD in 2024, he now works as an AI engineer at <a href="https://iits-consulting.de">iits-consulting</a>.
+    </td>
+  </tr>
+
+<tr>
+    <td style="vertical-align:middle">
+      <img align="center" src="Shivani.jpg" width="100%" style="margin: 0px 0px 0px 0px">
+    </td>
+    <td style="vertical-align:top; text-align:justify">
+      <strong>Shivani Sharma</strong><br/>
+      PhD Student<br/><br/><br/>
+      Shivani started her PhD in October 2020, after completed her Master's in Atmospheric Science at IIT Delhi. Her research applied machine learning to cloud microphysics parametrizations in atmospheric models, and coupling of ML models to Fortran based simulations. She completed here PhD in 2024.
     </td>
   </tr>
 
