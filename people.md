@@ -34,18 +34,7 @@ published: true
       Vadim's research focuses on the intersection of machine learning and Earth system modelling. He develops algorithms to combine of data-driven and numerical modelling. He's particulary interested in developing machine learning frameworks that can be applied for inverse problems in the geosciences, such as data assimilation, parameter tuning and process learning from noisy and incomplete observations. He is a participant in the <a href="https://www.coastalfutures.de/index.php.en">CoastalFutures</a> project of the <a href="https://www.allianz-meeresforschung.de/en/">German Alliance for Marine Research</a>.
     </td>
   </tr>
-
-  <tr>
-    <td style="vertical-align:middle">
-      <img align="center" src="andrey.png" width="100%" style="margin: 0px 0px 0px 0px">
-    </td>
-    <td style="vertical-align:top; text-align:justify">
-      <strong>Andrey Vlasenko</strong><br/>
-      Postdoc<br/><br/><br/>
-      Andrey is developing ML methods to effectively replace computationally intensive atmospheric chemistry calculations in complex climate systems. His position is funded by the Helmholtz AI project NACHMO. His interests include ocean-atmosphere systems, data assimilation, artificial intelligence, atmospheric chemistry, and algorithmic differentiation.
-    </td>
-  </tr>
-  
+ 
   <tr>
     <td style="vertical-align:middle">
       <img align="center" src="minh.png" width="100%" style="margin: 0px 0px 0px 0px">
@@ -97,6 +86,17 @@ published: true
       <strong>Yunfei Huang</strong><br/>
       Postdoc<br/><br/>
       Yunfei worked on data-driven modeling for the Earth system. His research focused on the use of physical and symmetry constraints in emulation of geophysical fluid dynamics. Previously, he obtained PhD in biophysics at the university of Cologne on advanced data analysis for traction force microscopy and data-driven discovery of physical equations. He is now a postdoc at [TU Dortmund](https://www.tu-dortmund.de/).
+    </td>
+  </tr>
+
+  <tr>
+    <td style="vertical-align:middle">
+      <img align="center" src="andrey.png" width="100%" style="margin: 0px 0px 0px 0px">
+    </td>
+    <td style="vertical-align:top; text-align:justify">
+      <strong>Andrey Vlasenko</strong><br/>
+      Postdoc<br/><br/><br/>
+      Andrey developed ML methods to effectively replace computationally intensive atmospheric chemistry calculations in complex climate systems. His position was funded by the Helmholtz AI project NACHMO.
     </td>
   </tr>
 
