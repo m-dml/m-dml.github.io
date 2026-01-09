@@ -88,6 +88,8 @@ published: true
       <strong>Pauleo Nimtz</strong><br/>
       Masters Student<br/><br/><br/>
       Pauleo's work focuses on differentiable solvers and transport operators, with application to biogeochemical modeling. He is developing and applying these methods to tune ecosystem models based on field observations of species and nutrient abundances. A critical aspect of this work concerns the interaction of coupled physical and biogeochemical processes.
+
+      https://yunfei-huang0.github.io
     </td>
   </tr>
 
@@ -108,7 +110,7 @@ published: true
     <td style="vertical-align:top; text-align:justify">
       <strong>Yunfei Huang</strong><br/>
       Postdoc<br/><br/>
-      Yunfei worked on data-driven modeling for the Earth system. His research focused on the use of physical and symmetry constraints in emulation of geophysical fluid dynamics. Previously, he obtained PhD in biophysics at the university of Cologne on advanced data analysis for traction force microscopy and data-driven discovery of physical equations. He is now a postdoc at [TU Dortmund](https://www.tu-dortmund.de/).
+      Yunfei (<a href=https://yunfei-huang0.github.io>personal website</a>)worked on data-driven modeling for the Earth system. His research focused on the use of physical and symmetry constraints in emulation of geophysical fluid dynamics. Previously, he obtained PhD in biophysics at the university of Cologne on advanced data analysis for traction force microscopy and data-driven discovery of physical equations. He is now a postdoc at <a href=https://www.tu-dortmund.de/>TU Dortmund</a>.
     </td>
   </tr>
 
