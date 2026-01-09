@@ -68,6 +68,18 @@ published: true
     </td>
   </tr>
 
+
+  <tr>
+    <td style="vertical-align:middle">
+      <img align="center" src="anthony_frion.png" width="100%" style="margin: 0px 0px 0px 0px">
+    </td>
+    <td style="vertical-align:top; text-align:justify">
+      <strong>Anthony Frion</strong><br/>
+      Postdoc<br/><br/><br/>
+      Anthony develops ML-based methods for data assimilation in geoscientific simulations, with an emphasis on uncertainty quantification with generative models. He is also leading efforts develop benchmarks for data assimilation and other inverse problems, to quantify the performance of classical and ML-based algorithms.
+    </td>
+  </tr>
+
 </table> 
 
 
