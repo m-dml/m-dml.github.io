@@ -110,7 +110,7 @@ published: true
     <td style="vertical-align:top; text-align:justify">
       <strong>Yunfei Huang</strong><br/>
       Postdoc<br/><br/>
-      Yunfei (<a href=https://yunfei-huang0.github.io>personal website</a>)worked on data-driven modeling for the Earth system. His research focused on the use of physical and symmetry constraints in emulation of geophysical fluid dynamics. Previously, he obtained PhD in biophysics at the university of Cologne on advanced data analysis for traction force microscopy and data-driven discovery of physical equations. He is now a postdoc at <a href=https://www.tu-dortmund.de/>TU Dortmund</a>.
+      Yunfei (<a href="https://yunfei-huang0.github.io/">personal website</a>)worked on data-driven modeling for the Earth system. His research focused on the use of physical and symmetry constraints in emulation of geophysical fluid dynamics. Previously, he obtained PhD in biophysics at the university of Cologne on advanced data analysis for traction force microscopy and data-driven discovery of physical equations. He is now a postdoc at <a href="https://www.tu-dortmund.de/">TU Dortmund</a>.
     </td>
   </tr>
 
