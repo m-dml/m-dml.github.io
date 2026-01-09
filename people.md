@@ -82,12 +82,12 @@ published: true
 
   <tr>
     <td style="vertical-align:middle">
-      <img align="center" src="pauleo_nimtz.png" width="100%" style="margin: 0px 0px 0px 0px">
+      <img align="center" src="pauleo_nimtz.jpg" width="100%" style="margin: 0px 0px 0px 0px">
     </td>
     <td style="vertical-align:top; text-align:justify">
       <strong>Pauleo Nimtz</strong><br/>
       Masters Student<br/><br/><br/>
-      Pauleos work focuses on differentiable solvers and transport operators, with application to biogeochemical modeling. He is developing and applying these methods to tune ecosystem models based on field observations of species and nutrient abundances. A critical aspect of this work concerns the interaction of coupled physical and biogeochemical processes.
+      Pauleo's work focuses on differentiable solvers and transport operators, with application to biogeochemical modeling. He is developing and applying these methods to tune ecosystem models based on field observations of species and nutrient abundances. A critical aspect of this work concerns the interaction of coupled physical and biogeochemical processes.
     </td>
   </tr>
 
