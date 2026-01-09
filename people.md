@@ -88,8 +88,6 @@ published: true
       <strong>Pauleo Nimtz</strong><br/>
       Masters Student<br/><br/><br/>
       Pauleo's work focuses on differentiable solvers and transport operators, with application to biogeochemical modeling. He is developing and applying these methods to tune ecosystem models based on field observations of species and nutrient abundances. A critical aspect of this work concerns the interaction of coupled physical and biogeochemical processes.
-
-      https://yunfei-huang0.github.io
     </td>
   </tr>
 
