@@ -82,6 +82,17 @@ published: true
 
   <tr>
     <td style="vertical-align:middle">
+      <img align="center" src="sid.png" width="100%" style="margin: 0px 0px 0px 0px">
+    </td>
+    <td style="vertical-align:top; text-align:justify">
+      <strong>Siddhant Agarwal</strong><br/>
+      Postdoc<br/><br/><br/>
+      Sid's current research interests revolve around data-efficiency, scalability and generalisability of forward machine learning modelling methods in the form of physics-based algorithms and scientific foundation models. He previously worked as Aerodynamics Engineer at Airbus in Bremen.
+    </td>
+  </tr>
+
+  <tr>
+    <td style="vertical-align:middle">
       <img align="center" src="pauleo_nimtz.jpg" width="100%" style="margin: 0px 0px 0px 0px">
     </td>
     <td style="vertical-align:top; text-align:justify">
